@@ -1,0 +1,63 @@
+@import url("style-base.css");
+
+a {
+	color: black;
+	font-weight: bold;
+}
+.frontpage a:hover, .books:hover { background-color: white;}
+
+#filter ul {
+font-variant: normal;
+}
+
+li, .container {
+background-color: white;
+}
+
+header {
+    color: black; 
+    text-transform: none;
+	border-bottom: 2px dashed gray;
+	font-variant: small-caps;
+	letter-spacing: 2px;
+}
+
+#tool input[type=text], .twitter-typeahead
+{
+	font-variant: normal;
+}
+
+.hicon, .footcenter, .submit, .fullclickpopup{
+    color:black;
+}
+
+.frontpage h2 {
+	text-align: center;
+	letter-spacing: 2px;
+	color: black;
+	font-family: "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+}
+
+.frontpage h4 {
+    padding: 5px 0;
+	text-align: center;
+	color: gray;
+	 font-size: 13px;
+	 text-decoration: overline;
+ }
+
+.download a {
+    background: black;  
+    color: white;
+}
+
+
+.tt-dropdown-menu {
+  color: black;   
+  background-color: white;
+  border: 1px solid #ccc;
+}
+.tt-suggestion.tt-is-under-cursor {
+  color: black;
+  background-color: white;
+}

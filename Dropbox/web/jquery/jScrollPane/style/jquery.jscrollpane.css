@@ -1,0 +1,309 @@
+/*
+ * CSS Styles that are needed by jScrollPane for it to operate correctly.
+ *
+ * Include this stylesheet in your site or copy and paste the styles below into your stylesheet - jScrollPane
+ * may not operate correctly without them.
+ */
+.jspScrollable{
+	outline:none;
+}
+.media_language_scroll{
+	width: 310px;
+	height: 250px;
+	overflow: auto;	
+}
+.cloud_time_machine_scroll{
+	width: 210px;
+	height: 230px;
+	overflow: auto;	
+}
+.cloud_user_access_scroll{
+	width: 210px;
+	height: 250px;
+	overflow: auto;
+}
+.language_scroll
+{
+	width: 130px;
+	height: 250px;
+	overflow: auto;		
+}
+.cloud_user_scroll
+{
+	width: 865px;
+	height: 300px;
+	overflow: auto;
+}
+#upload_scroll{
+	width:580px;
+	height: 230px;
+	overflow: auto;	
+}
+/*
+#scrollbar_wfs{
+	width:700px;
+	height: 500px;
+	overflow: auto;		
+}*/
+.scrollbar_timezone{
+	width: 423px;
+	height: 300px;
+	overflow: auto;	
+}
+
+.scrollbar_time{
+	width: 100px;
+	height: 160px;
+	overflow: auto;	
+}
+.scrollbar_idle{
+	width: 130px;
+	height: 160px;
+	overflow: auto;	
+}
+#scrollbar_portforward{
+	width: 570px;
+	height: 188px;
+	overflow: auto;		
+}
+#scrollbar_s3_percent{
+	width: 670px;
+	height: 230px;
+	overflow: auto;		
+}
+#scrollbar_sms_main{
+		width: 570px;
+	height: 270px;
+	overflow: auto;		
+}
+#scrollbar_s3_reload{
+	width: 570px;
+	height: 240px;
+	overflow: auto;		
+}
+.scrollbar_active{
+	width: 560px;
+	height: 227px;
+	overflow: auto;		
+}
+.local_share_scrollbar{
+	width: 570px;
+	height: 230px;
+	overflow: auto;		
+}
+.remote_scrollbar{
+	width: 570px;
+	height: 200px;
+	overflow: auto;		
+}
+.iso_user_scroll{
+	width: 570px;
+	height: 230px;
+	overflow: auto;	
+}
+.scrollbar_autofw{
+	width: 320px;
+	height: 160px;
+	overflow: auto;		
+}
+.scrollbar_alert
+{
+	width: 560px;
+	height: 240px;
+	overflow: auto;	
+}
+.scroll-pane
+{
+	width: 570px;
+	height: 230px;
+	overflow: auto;
+}
+.isoCreate_scroll_pane
+{
+	width: 320px;
+	height: 240px;
+	overflow: auto;
+}
+.isoCreate_scroll_pane_right
+{
+	width: 320px;
+	height: 190px;
+	overflow: auto;
+}
+.scrollbar_iscsi_dialog
+{
+	width: 580px;
+	height: 240px;
+	overflow: auto;
+}
+
+.scrollbar_iscsi
+{
+	width: 700px;
+	height:auto;
+	overflow: auto;
+}
+.scrollbar_iscsi_lun
+{
+	width: 700px;
+	height: 250px;
+	overflow: auto;
+}
+.scrollbar_iscsi_acl
+{
+	width: 700px;
+	height: 250px;
+	overflow: auto;
+}
+.scrollbar_log
+{
+	width: 930px;
+	height: 320px;
+	overflow: auto;
+}
+.scroll-pane-group
+{
+	width: 570px;
+	height: 230px;
+	overflow: auto;
+}
+.scroll-pane-group2
+{
+	width: 570px;
+	height: 250px;
+	overflow: auto;
+}
+.select_scroll_h300px{
+	height: 300px;
+	overflow: auto;	
+}
+.jspContainer
+{
+	overflow: hidden;
+	position: relative;
+}
+
+.jspPane
+{
+	position: absolute;
+}
+
+.jspVerticalBar
+{
+	position: absolute;
+	top: 0;
+	right: 0;
+	width: 14px;
+	height: 100%;
+	background: #191919;
+	-webkit-border-radius: 8px;
+	-moz-border-radius: 8px;
+	border-radius: 8px;
+	z-index:9999;
+}
+
+.jspHorizontalBar
+{
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	width: 80%;
+	height: 14px;
+	background: #191919;
+	-webkit-border-radius: 8px;
+	-moz-border-radius: 8px;
+	border-radius: 8px;
+}
+
+.jspVerticalBar *,
+.jspHorizontalBar *
+{
+	margin: 0;
+	padding: 0;
+}
+
+.jspCap
+{
+	display: none;
+}
+
+.jspHorizontalBar .jspCap
+{
+	float: left;
+}
+
+.jspTrack
+{
+	background: #191919;
+	position: relative;
+	-webkit-border-radius: 8px;
+	-moz-border-radius: 8px;
+	border-radius: 8px;
+}
+
+.jspDrag
+{
+	border:1px solid #191919;
+	background: #333333;
+	position: relative;
+	top: 0;
+	left: 0;
+	cursor: pointer;
+	-webkit-border-radius: 8px;
+	-moz-border-radius: 8px;
+	border-radius: 8px;
+}
+
+.jspHorizontalBar .jspTrack,
+.jspHorizontalBar .jspDrag
+{
+	float: left;
+	height: 100%;
+}
+
+.jspArrow
+{
+	background: #50506d;
+	text-indent: -20000px;
+	display: block;
+	cursor: pointer;
+}
+
+.jspArrow.jspDisabled
+{
+	cursor: default;
+	background: #80808d;
+}
+
+.jspVerticalBar .jspArrow
+{
+	height: 15px;
+}
+
+.jspHorizontalBar .jspArrow
+{
+	width: 15px;
+	float: left;
+	height: 100%;
+}
+
+.jspVerticalBar .jspArrow:focus
+{
+	outline: none;
+}
+
+.jspCorner
+{
+	background: #282828;
+	float: left;
+	height: 100%;
+	-webkit-border-radius: -8px;
+	-moz-border-radius: -8px;
+	border-radius: -8px;
+}
+
+/* Yuk! CSS Hack for IE6 3 pixel bug :( */
+* html .jspCorner
+{
+	margin: 0 -3px 0 0;
+}

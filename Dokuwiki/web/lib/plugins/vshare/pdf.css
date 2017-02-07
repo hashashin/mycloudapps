@@ -1,0 +1,16 @@
+
+div.vshare__left,
+div.vshare__right,
+div.vshare__center {
+    border: 1px solid #ccc;
+    text-align: center;
+    padding: 2em;
+}
+
+a.vshare {
+    color: #aaa;
+    font-size: 2em;
+    font-weight: bold;
+    text-decoration: none;
+}
+

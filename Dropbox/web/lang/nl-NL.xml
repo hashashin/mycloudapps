@@ -1,0 +1,61 @@
+﻿<text>
+<_common>
+	<error len="999">Fout</error>
+	<new len="10">Nieuw</new>
+	<set>Instellen...</set>
+	<loading len="999">Laden...</loading>
+	<updating>Bijwerken...</updating>
+	<minutes>minuten</minutes>
+	<hour len="999">1 uur</hour>
+</_common>
+<_button>
+	<Ok len="11">OK</Ok>
+	<save>Opslaan</save>
+	<browse len="10">Bladeren</browse>
+	<Cancel len="999">Annuleren</Cancel>
+</_button>
+<_network_access>
+	<create_folder_name len="999">Een nieuwe map maken</create_folder_name>
+</_network_access>
+<_dropbox>
+	<title>Dropbox</title>
+	<dropbox_enable>Dropbox</dropbox_enable>
+	<sing_in_account>Account</sing_in_account>
+	<sing_in>Aanmelden</sing_in>
+	<sync_folder>Lokale synchronisatiemap</sync_folder>
+	<sync_interval>Synchronisatie-interval</sync_interval>
+	<sync_now>Nu synchroniseren</sync_now>
+	<sync_status>Status</sync_status>
+	<hourly>Elk uur</hourly>
+	<title2>Dropbox-instellingen</title2>
+	<used_space>Gebruikte ruimte</used_space>
+	<last>Laatst bijgewerkt</last>
+	<sing_out>Account ontkoppelen</sing_out>
+	<black_list>Dropbox-synchronisatiemappen</black_list>
+	<add>Selectieve synchronisatie</add>
+	<s1><![CDATA[Bijgewerkt]]></s1>
+	<s2><![CDATA[Verbinding wordt gemaakt met Dropbox]]></s2>
+	<s3><![CDATA[Synchroniseren]]></s3>
+	<s4><![CDATA[Synchronisatie gepauzeerd]]></s4>
+	<s5><![CDATA[Bezig met downloaden van %s]]></s5>
+	<s6><![CDATA[Bezig met uploaden van %s]]></s6>
+	<s7><![CDATA[Lokale map wordt gemaakt op %s]]></s7>
+	<s8><![CDATA[Dropbox-map wordt gemaakt op %s]]></s8>
+	<s9><![CDATA[Bezig met verwijderen van %s]]></s9>
+	<s10><![CDATA[Bezig met verplaatsen van %s1 naar %s2]]></s10>
+	<s11><![CDATA[Accountverificatie mislukt]]></s11>
+	<s12><![CDATA[Kan geen verbinding maken met Dropbox. Start uw systeem opnieuw op en probeer het opnieuw. Probeer de Dropbox-app opnieuw te installeren als het probleem aanhoudt.]]></s12>
+	<s13><![CDATA[Kan geen bestanden synchroniseren met Dropbox. Controleer uw systeem en Dropbox-instellingen of start uw systeem opnieuw op.]]></s13>
+	<s14><![CDATA[Kan geen bestanden downloaden van Dropbox. Controleer uw systeem en Dropbox-instellingen of start uw systeem opnieuw op. %s]]></s14>
+	<s15><![CDATA[Kan geen bestanden uploaden naar Dropbox. Controleer uw systeem en Dropbox-instellingen of start uw systeem opnieuw op. %s]]></s15>
+	<s16><![CDATA[Kan geen bestanden downloaden van Dropbox. Controleer uw systeem en Dropbox-instellingen of start uw systeem opnieuw op. %s]]></s16>
+	<s17><![CDATA[Kan geen bestanden uploaden naar Dropbox. Controleer uw systeem en Dropbox-instellingen of start uw systeem opnieuw op. %s]]></s17>
+	<s18><![CDATA[Kan geen bestanden synchroniseren met Dropbox. Controleer uw systeem en Dropbox-instellingen of start uw systeem opnieuw op.]]></s18>
+	<s19><![CDATA[Dropbox heeft geen ruimte meer. Uploaden van %s is mislukt]]></s19>
+	<s20><![CDATA[Er is geen ruimte meer op uw systeem. Downloaden van %s is mislukt]]></s20>
+	<msg1><![CDATA[Dit stopt de synchronisatie van uw bestanden met Dropbox, maar het verwijdert de bestanden niet uit de Dropbox-map op dit apparaat]]></msg1>
+</_dropbox>
+<_backup>
+	<desc1 len="999">Pad selecteren</desc1>
+</_backup>
+</text>

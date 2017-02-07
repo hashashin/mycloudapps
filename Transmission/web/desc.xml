@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <en-US>Transmission is one of the best choices for a BitTorrent client, being both extremely lightweight and feature-packed. Transmission's interface is easy to use, yet very powerful, especially when it comes to managing bandwidth.</en-US>
+  <cs-CZ>Transmission je jedním z nejlepších BitTorrentových klientů, které je současně extrémně štíhlý i nabitý funkcemi. Rozhraní klientu Transmission je snadno použitelné, ale současně velmi výkonné, zejména pokud jde o správu šířky pásma.</cs-CZ>
+  <de-DE>Transmission eignet sich ideal für einen BitTorrent-Client, da es sowohl leicht als auch funktionsreich ist. Die Oberfläche von Transmission ist bedienerfreundlich und bietet gleichzeitig viele Funktionen, insbesondere zur Bandbreitenverwaltung.</de-DE>
+  <es-ES>Transmission es una de las mejores soluciones para el cliente de BitTorrent, ya que es muy ligero y, al mismo tiempo, dispone de numerosas características. La interfaz es sencilla pero, a la vez, muy potente, sobre todo al administrar el ancho de banda.</es-ES>
+  <fr-FR>Transmission est l'un des meilleurs choix de client BitTorrent grâce à sa légèreté et ses nombreuses fonctionnalités. L'interface de Transmission est facile à utiliser et puissante, surtout lorsqu'il s'agit de gérer la bande passante.</fr-FR>
+  <hu-HU>A Transmission az egyik legjobb választás a BitTorrent-kliensekhez, mivel rendkívül könnyen kezelhető és tele van hasznos funkciókkal. Nagyon egyszerű a Transmission kezelése, mégis rendkívül hatékony, különösen a sávszélesség kezelése terén.</hu-HU>
+  <it-IT>Transmission è una delle opzioni ottimali per un client BitTorrent, in quanto leggera e ricca di funzioni. Nonostante la facilità di utilizzo, l'interfaccia di Transmission è davvero potente, specialmente nella gestione della larghezza di banda.</it-IT>
+  <ja-JP>Transmission は BitTorrent の最高の選択肢の 1 つであり、きわめて軽量で、機能が豊富です。Transmissionのインターフェイスは操作性と高い性能の両方を実現し、特に帯域幅の管理において優れています。</ja-JP>
+  <ko-KR>Transmission은 초경량이며 기능 팩이 장착된 BitTorrent 클라이언트의 가장 좋은 선택 중 하나입니다. 대역폭 관리 측면에서 특히 Transmission 인터페이스는 사용이 간편하면서도 매우 강력합니다.</ko-KR>
+  <no-NO>Transmission er blant de beste valgene for BitTorrent-klienter, da programmet er både brukervennlig og funksjonsrikt. Grensesnittet i Transmission er enkelt å bruke og samtidig avansert og effektivt – særlig når det gjelder administrasjon av båndbredde.</no-NO>
+  <nl-NL>Transmission is één van de beste keuzes als BitTorrent-client, omdat het zeer lichtgewicht is en vele functies heeft. Het gebruikersoppervlak van Transmission is gebruiksvriendelijk maar zeer krachtig, vooral bij het beheren van bandbreedte.</nl-NL>
+  <pl-PL>Transmission to jeden z najlepszych klientów BitTorrent — nadzwyczaj mały i funkcjonalny. Interfejs programu Transmission jest bardzo prosty w obsłudze, a daje dużo możliwości, zwłaszcza w zakresie zarządzania przepustowością.</pl-PL>
+  <pt-BR>Transmission é uma das melhores escolhas para um cliente de BitTorrent por ser extremamente leve e em pacote. A interface de Transmission é fácil de usar, ainda mais poderosa, especialmente em relação ao controle de largura de banda.</pt-BR>
+  <ru-RU>Transmission — один из лучших BitTorrent-клиентов, одновременно невероятно нетребовательный и очень функциональный. У Transmission простой интерфейс, но это не мешает ему быть высокоэффективным, особенно в управлении пропускной способностью.</ru-RU>
+  <sv-SE>Transmission är en av de bästa BitTorrent-klienterna eftersom den tar extremt liten plats men är fylld med funktioner. Transmissions gränssnitt är enkelt att använda, men ändå mycket kraftfullt, särskilt när det gäller att hantera bandbredden.</sv-SE>
+  <tr-TR>Son derece hafif ve özelliklerle dolu bir BitTorrent istemcisi için Transmission en iyi seçeneklerden biridir. Transmission kullanımı kolay bir arabirime sahip olmasına karşın, özellikle bant genişliği yönetiminde son derece güçlüdür.</tr-TR>
+  <zh-CN>Transmission 是 BitTorrent 客户端的最佳选择，它不仅极其轻量，而且功能丰富。Transmission 的界面易于使用，而且十分强大，尤其是在管理带宽方面。</zh-CN>
+  <zh-TW>Transmission 是 BitTorrent 用戶端的最佳選擇之一，可以同時保持極輕重量和豐富功能。Transmission 的介面很容易使用但又功能強大，尤其在管理頻寬方面特別有用。</zh-TW>
+</config>

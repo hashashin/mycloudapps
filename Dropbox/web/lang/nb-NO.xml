@@ -1,0 +1,61 @@
+﻿<text>
+<_common>
+	<error len="999">Feil</error>
+	<new len="10">Ny</new>
+	<set>Oppretter ...</set>
+	<loading len="999">Laster ...</loading>
+	<updating>Oppdaterer</updating>
+	<minutes>minutter</minutes>
+	<hour len="999">1 time</hour>
+</_common>
+<_button>
+	<Ok len="11">OK</Ok>
+	<save>Lagre</save>
+	<browse len="10">Se gjennom</browse>
+	<Cancel len="999">Avbryt</Cancel>
+</_button>
+<_network_access>
+	<create_folder_name len="999">Opprett en ny mappe</create_folder_name>
+</_network_access>
+<_dropbox>
+	<title>Dropbox</title>
+	<dropbox_enable>Dropbox</dropbox_enable>
+	<sing_in_account>Konto</sing_in_account>
+	<sing_in>Pålogging</sing_in>
+	<sync_folder>Lokal synkroniseringsmappe</sync_folder>
+	<sync_interval>Synkroniseringsintervall</sync_interval>
+	<sync_now>Synkroniser nå</sync_now>
+	<sync_status>Status</sync_status>
+	<hourly>Hver time</hourly>
+	<title2>Innstillinger for Dropbox</title2>
+	<used_space>Brukt plass</used_space>
+	<last>Sist oppdatert</last>
+	<sing_out>Opphev tilknytning til konto</sing_out>
+	<black_list>Dropbox Sync-mapper</black_list>
+	<add>Valgfri synkronisering</add>
+	<s1><![CDATA[Oppdatert]]></s1>
+	<s2><![CDATA[Kobler til Dropbox]]></s2>
+	<s3><![CDATA[Synkroniserer]]></s3>
+	<s4><![CDATA[Synkronisering har blitt midlertidig stanset]]></s4>
+	<s5><![CDATA[Laster ned %s]]></s5>
+	<s6><![CDATA[Laster opp %s]]></s6>
+	<s7><![CDATA[Oppretter lokal katalog på %s]]></s7>
+	<s8><![CDATA[Oppretter Dropbox-katalog på %s]]></s8>
+	<s9><![CDATA[Fjerner %s]]></s9>
+	<s10><![CDATA[Flytter %s1 til %s2]]></s10>
+	<s11><![CDATA[Autentisering av konto mislyktes]]></s11>
+	<s12><![CDATA[Kan ikke koble til Dropbox. Start systemet ditt på nytt og prøv igjen. Hvis problemet vedvarer, prøv å installere Dropbox-appen på nytt.]]></s12>
+	<s13><![CDATA[Kan ikke synkronisere filer til Dropbox. Kontroller systemet ditt og innstillingene for Dropbox eller start systemet ditt på nytt.]]></s13>
+	<s14><![CDATA[Kan ikke laste ned filer fra Dropbox. Kontroller systemet ditt og innstillingene for Dropbox eller start systemet ditt på nytt. %s]]></s14>
+	<s15><![CDATA[Kan ikke å laste opp filer på Dropbox. Kontroller systemet ditt og innstillingene for Dropbox eller start systemet ditt på nytt. %s]]></s15>
+	<s16><![CDATA[Kan ikke laste ned filer fra Dropbox. Kontroller systemet ditt og innstillingene for Dropbox eller start systemet ditt på nytt. %s]]></s16>
+	<s17><![CDATA[Kan ikke å laste opp filer på Dropbox. Kontroller systemet ditt og innstillingene for Dropbox eller start systemet ditt på nytt. %s]]></s17>
+	<s18><![CDATA[Kan ikke synkronisere filer til Dropbox. Kontroller systemet ditt og innstillingene for Dropbox eller start systemet ditt på nytt.]]></s18>
+	<s19><![CDATA[Dropbox er tom for plass. Klarte ikke å laste opp %s]]></s19>
+	<s20><![CDATA[Systemet ditt er tomt for plass. Klarte ikke å laste ned %s]]></s20>
+	<msg1><![CDATA[Dette stopper synkronisering av filene dine med Dropbox, men sletter ikke filene i Dropbox-mappen på denne enheten.]]></msg1>
+</_dropbox>
+<_backup>
+	<desc1 len="999">Velg bane</desc1>
+</_backup>
+</text>

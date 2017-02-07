@@ -1,0 +1,17 @@
+Package:          pawfaliki
+Packager:         hashashin
+Email:            mecagoenbush@gmail.com
+Homepage:         http://www.pawfal.org/pawfaliki/
+Description:      Wiki written entirely in 1 file.
+Icon:             pawfaliki.png
+AddonShowName:    pawfaliki
+AddonIndexPage:	  pawfaliki.php
+AddonUsedPort:    
+InstDepend:
+InstConflict:
+StartDepend:
+StartConflict:
+Version:	  0.5.2-2
+MinFWVer:
+MaxFWVer:
+IndividualFlag:   0

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<Xmldata>
+	<lastsid><![CDATA[1]]></lastsid>
+	<Story id="1">
+		<name><![CDATA[Default Story]]></name>
+		<desc><![CDATA[The default story]]></desc>
+		<list><![CDATA[list]]></list>
+		<pass><![CDATA[]]></pass>
+		<date><![CDATA[2006/04/01]]></date>
+		<getcmnts><![CDATA[no]]></getcmnts>
+		<sub><![CDATA[-1]]></sub>
+	</Story>
+</Xmldata>

@@ -1,0 +1,20 @@
+Package:            Dropbox
+Section:            Addon
+Version:            1.10
+Packager:           WD
+Email:              support@wdc.com
+Homepage:           http://support.wdc.com
+Description:        Dropbox is a file-hosting service that syncs the content between your device and your Dropbox account. This Dropbox integration is built by Western Digital for WD My Cloud. Dropbox and the Dropbox logos are trademarks of Dropbox, Inc.
+Icon:               Dropbox.png
+AddonShowName:      Dropbox
+AddonIndexPage:     index.php
+AddonUsedPort:      
+InstDepend:         
+InstConflict:       
+StartDepend:        
+StartConflict:      
+CenterType:  1
+UserControl: 1
+MinFWVer: 1.05.00
+MaxFWVer: 
+IndividualFlag: 1

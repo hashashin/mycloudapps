@@ -1,0 +1,117 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<META HTTP-EQUIV="Pragma" CONTENT="no-cache">
+<META HTTP-EQUIV="Cache-Control" CONTENT="no-cache">
+<META HTTP-EQUIV="Expires" CONTENT="-1">
+<link rel="stylesheet" type="text/css" href="/web/css/style.css">
+<link rel="stylesheet" type="text/css" href="/web/css/button_style.css">
+<link rel="stylesheet" type="text/css" href="/web/css/application.css">
+<link rel="stylesheet" type="text/css" href="./custom.css">
+
+<!-- jQuery lib -->
+<script language="javascript" src="./jquery.js?v=1.6.1"></script>
+<script language="javascript" src="./jquery.tools.min.js"></script>
+
+<!-- niftycube -->
+<link rel="stylesheet" type="text/css" href="./niftyCorners.css">
+<script language="javascript" src="./niftycube.js"></script>
+
+<!-- curvycorners -->
+<script language="javascript" src="./curvycorners.src.js"></script>
+
+<!-- jAlerts -->
+<link rel="STYLESHEET" type="text/css" href="/web/jquery/alerts/jquery.alerts.css">
+<script language="javascript" src="/web/jquery/alerts/jquery.alerts.js"></script>
+
+<script>
+var sys_time = (new Date()).getTime();
+document.write("<script language=\"javascript\" src=\"\/web\/function\/function.js?id="+sys_time+"\"><\/script>");    
+document.write("<script language=\"javascript\" src=\"\/web\/function\/init.js?id="+sys_time+"\"><\/script>"); 
+document.write("<script language=\"javascript\" src=\"\/web\/function\/position.js?id="+sys_time+"\"><\/script>");
+document.write("<script language=\"javascript\" src=\".\/aMule.js?id="+sys_time+"\"><\/script>");	 
+</script>
+
+<script>
+$(document).ready(function()
+{
+	//get banner html
+	get_application_banner();
+	
+	//show login user name
+	show_login_user();
+	displayScreenSize(0);
+	
+	//menu link
+	init_menu_link();
+	
+	load_help("/aMule/help_aMule.html");
+	link_url();
+	   
+	
+    $("#help_icon").click(function(){
+    	
+    		applications_help();
+	});
+});
+
+</script>
+</head>
+<body background="/web/images/bg.png" topmargin="0" leftmargin="0" bgcolor="#DDDFE0" onresize="javascript:displayScreenSize(1);" >
+<div class="overlay" id="overlay">
+	<div id="id_result" style="display:none">
+		<div id="progressbar" style="width:200px;margin-top:150px"></div>
+		<div id="id_percentage">0%</div>	
+	</div>
+</div>	
+<div id="tooltip" class="tooltip overlay_tooltip"></div>  
+<div id="dialog_overlay" class="dialog_overlay"><div id="share_info" align="center"></div></div>	
+
+<div id="banner" class="banner">	
+<div style="right:20px; top:10px" id="login_user" class="login_user"></div>
+</div>
+
+<div id="title_right"></div><!--right corner-->
+<div id="title_left"></div><!-- left corner -->
+<div id="title_banner" class="title_banner"><div id="title_div">aMule</div></div>
+
+<div id="sub_menu" class="sub_menu">
+		<ul id="menu_container" style="overflow-x: hidden;overflow-y:hidden;overflow;">
+		<li><div id="apkg" src="./help_aMule.html" rel="./aMule_sub.html" class="sidenavoff">&nbsp;Launch</div></li>
+		<li><div>&nbsp;&nbsp;&nbsp;</div></li>
+		<li><div>&nbsp;&nbsp;&nbsp;</div></li>
+		<li><div>&nbsp;&nbsp;&nbsp;</div></li>
+		<li><div>&nbsp;&nbsp;&nbsp;</div></li>
+		<li><div>&nbsp;&nbsp;&nbsp;</div></li>
+		<li><div>&nbsp;&nbsp;&nbsp;</div></li>
+	</ul>
+</div>
+
+<div id="sub_menu_bottom"></div>
+<div id="sub_menu_bottom_right"></div>
+
+<div id="main_container">
+<iframe id="mainFrame" name="mainFrame" frameborder='0' width="100%" height="350" src="aMule_sub.html" scrolling="no"></iframe>
+<div id="main_button" style="height:42px;position:absolute;margin-bottom:0px;margin-left:0px;width:100%;"></div> 
+</div>
+
+
+<div id="diagFrame" width="0" height="0" frameborder="0" style="display:none"></div>
+
+<div id="help_div" class="help_div help_show" style="display:">
+<iframe id="helpFrame" name="helpFrame" frameborder='0' width="100%"></iframe>
+</div>
+
+<!--<div id="move_icon" style="display:none"><img border="0" src="/web/images/arrow_right.png" width="10" height="10"></div>-->
+<div id="help_icon"><img border="0" src="/web/images/management/help.png" width="16" height="16"></div>
+
+<div id="s_logo"><img border="0" src="/web/images/logo2.png"></div>
+
+</body>
+<head>
+<META HTTP-EQUIV="Pragma" CONTENT="no-cache">
+<META HTTP-EQUIV="Cache-Control" CONTENT="no-cache">    
+<META HTTP-EQUIV="Expires" CONTENT="-1">
+</head>
+</html>

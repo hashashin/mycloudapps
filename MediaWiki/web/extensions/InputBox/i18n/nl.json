@@ -1,0 +1,15 @@
+{
+    "@metadata": {
+        "authors": [
+            "SPQRobin",
+            "Siebrand"
+        ]
+    },
+    "inputbox-desc": "Maakt het toevoegen van voorgedefinieerde HTML-formulieren mogelijk",
+    "inputbox-error-no-type": "U hebt het type invoerveld niet opgegeven.",
+    "inputbox-error-bad-type": "Type invoerveld \"$1\" niet herkend.\nGebruik \"create\", \"comment\", \"search\", \"search2\" of \"fulltext\".",
+    "tryexact": "Zoeken op exacte overeenkomst",
+    "searchfulltext": "Volledige tekst doorzoeken",
+    "createarticle": "Pagina aanmaken",
+    "inputbox-ns-main": "Hoofdnaamruimte"
+}

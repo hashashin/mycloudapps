@@ -1,0 +1,17 @@
+Package:          Sitebar
+Packager:         hashashin
+Email:            mecagoenbush@gmail.com
+Homepage:         https://github.com/brablc/sitebar
+Description:      Bookmark Server
+Icon:             Sitebar.png
+AddonShowName:    Sitebar
+AddonIndexPage:	  index.php
+AddonUsedPort:    
+InstDepend:
+InstConflict:
+StartDepend:
+StartConflict:
+Version:	  3-1
+MinFWVer:
+MaxFWVer:
+IndividualFlag:   0

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+	<title>My PhotoGallery</title>
+	<link>http://localhost/phormer331/</link>
+	<description>... contains my photos!</description>
+	<language>en</language>
+	<generator>http://p.horm.org/er</generator>
+	<lastBuildDate>Sat, 13 Jan 2007 00:32:27 +0330</lastBuildDate>
+	<managingEditor>myemail@mydomain.com</managingEditor>
+	<item>
+		<title>poster</title>
+		<link>http://localhost/phormer331/?p=2</link>
+		<guid isPermaLink="true">http://localhost/phormer331/?p=2</guid>
+		<description>
+			<![CDATA[<img src="http://localhost/phormer331/images/000002_hamqo_9.jpg" alt="" />]]>
+		</description>
+		<pubDate>Sat, 13 Jan 2007 00:32:00 +0330</pubDate>
+		<category>Default Category</category>
+	</item>
+	<item>
+		<title>karkas</title>
+		<link>http://localhost/phormer331/?p=1</link>
+		<guid isPermaLink="true">http://localhost/phormer331/?p=1</guid>
+		<description>
+			<![CDATA[<img src="http://localhost/phormer331/images/000001_lvany_9.jpg" alt="" />]]>
+		</description>
+		<pubDate>Sat, 13 Jan 2007 00:32:00 +0330</pubDate>
+		<category>Default Category</category>
+	</item>
+</channel>
+</rss>

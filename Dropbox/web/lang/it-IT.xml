@@ -1,0 +1,61 @@
+﻿<text>
+<_common>
+	<error len="999">Errore</error>
+	<new len="10">Nuovo/a</new>
+	<set>Impostazione in corso...</set>
+	<loading len="999">Caricamento in corso...</loading>
+	<updating>Aggiornamento in corso</updating>
+	<minutes>minuti</minutes>
+	<hour len="999">1 ora</hour>
+</_common>
+<_button>
+	<Ok len="11">OK</Ok>
+	<save>Salva</save>
+	<browse len="10">Sfoglia</browse>
+	<Cancel len="999">Annulla</Cancel>
+</_button>
+<_network_access>
+	<create_folder_name len="999">Crea una nuova cartella</create_folder_name>
+</_network_access>
+<_dropbox>
+	<title>Dropbox</title>
+	<dropbox_enable>Dropbox</dropbox_enable>
+	<sing_in_account>Account</sing_in_account>
+	<sing_in>Accesso</sing_in>
+	<sync_folder>Cartella di sincronizzazione locale</sync_folder>
+	<sync_interval>Intervallo di sincronizzazione</sync_interval>
+	<sync_now>Sincronizza adesso</sync_now>
+	<sync_status>Stato</sync_status>
+	<hourly>Ogni ora</hourly>
+	<title2>Impostazioni Dropbox</title2>
+	<used_space>Spazio utilizzato</used_space>
+	<last>Ultimo aggiornamento</last>
+	<sing_out>Scollega account</sing_out>
+	<black_list>Cartelle sincronizzazione Dropbox</black_list>
+	<add>Sincronizzazione selettiva</add>
+	<s1><![CDATA[Aggiornata]]></s1>
+	<s2><![CDATA[Collegamento alla Dropbox]]></s2>
+	<s3><![CDATA[Sincronizzazione in corso]]></s3>
+	<s4><![CDATA[Sincronizzazione in pausa]]></s4>
+	<s5><![CDATA[Download di %s in corso]]></s5>
+	<s6><![CDATA[Caricamento di %s in corso]]></s6>
+	<s7><![CDATA[Creazione della directory locale in %s in corso]]></s7>
+	<s8><![CDATA[Creazione della directory Dropbox in %s in corso]]></s8>
+	<s9><![CDATA[Rimozione di %s in corso]]></s9>
+	<s10><![CDATA[Spostamento di %s1 in %s2]]></s10>
+	<s11><![CDATA[Autenticazione account non riuscita]]></s11>
+	<s12><![CDATA[Impossibile collegarsi alla Dropbox. Riavviare il sistema e riprovare. Se il problema persiste, provare a reinstallare l'app Dropbox.]]></s12>
+	<s13><![CDATA[Impossibile sincronizzare i file sulla Dropbox. Verificare le impostazioni del sistema e della Dropbox oppure riavviare il sistema.]]></s13>
+	<s14><![CDATA[Impossibile scaricare i file dalla Dropbox. Verificare le impostazioni del sistema e della Dropbox oppure riavviare il sistema. %s]]></s14>
+	<s15><![CDATA[Impossibile caricare i file sulla Dropbox. Verificare le impostazioni del sistema e della Dropbox oppure riavviare il sistema. %s]]></s15>
+	<s16><![CDATA[Impossibile scaricare i file dalla Dropbox. Verificare le impostazioni del sistema e della Dropbox oppure riavviare il sistema. %s]]></s16>
+	<s17><![CDATA[Impossibile caricare i file sulla Dropbox. Verificare le impostazioni del sistema e della Dropbox oppure riavviare il sistema. %s]]></s17>
+	<s18><![CDATA[Impossibile sincronizzare i file sulla Dropbox. Verificare le impostazioni del sistema e della Dropbox oppure riavviare il sistema.]]></s18>
+	<s19><![CDATA[Spazio esaurito sulla Dropbox. Errore di caricamento di %s]]></s19>
+	<s20><![CDATA[Spazio esaurito sul sistema. Errore di download di %s]]></s20>
+	<msg1><![CDATA[In questo modo verrà interrotta la sincronizzazione dei file con la Dropbox, ma non verranno eliminati i file nella cartella Dropbox in questo dispositivo.]]></msg1>
+</_dropbox>
+<_backup>
+	<desc1 len="999">Seleziona percorso</desc1>
+</_backup>
+</text>

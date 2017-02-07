@@ -1,0 +1,26 @@
+{
+    "@metadata": {
+        "authors": [
+            "Arystanbek",
+            "Kaztrans"
+        ]
+    },
+    "cite-desc": "Сілтемелер үшін \u003Cnowiki\u003E\u003Cref[ name=id]\u003E\u003C/nowiki\u003E және \u003Cnowiki\u003E\u003Creferences/\u003E\u003C/nowiki\u003E белгішелерін қолданыңыз",
+    "cite_error": "Дереккөз алу қатесі: $1",
+    "cite_error_ref_numeric_key": "Жарамсыз \u003Ccode\u003E\u0026lt;ref\u0026gt;\u003C/code\u003E белгішесі;\nатау кәдімгі бүтін сан болуы мүмкін емес. Сипатауыш атау қолданыңыз",
+    "cite_error_ref_no_key": "Жарамсыз \u003Ccode\u003E\u0026lt;ref\u0026gt;\u003C/code\u003E белгішесі;\nмағлұматсыз дерекөздерде атау болуы қажет",
+    "cite_error_ref_too_many_keys": "Жарамсыз \u003Ccode\u003E\u0026lt;ref\u0026gt;\u003C/code\u003E белгіше; \nжарамсыз атаулар, мысалы, тым көп",
+    "cite_error_ref_no_input": "Жарамсыз \u003Ccode\u003E\u0026lt;ref\u0026gt;\u003C/code\u003E белгіше;\nатаусыз дереккөздерде мағлұматы болуы қажет",
+    "cite_error_references_invalid_parameters": "Жарамсыз \u003Ccode\u003E\u0026lt;references\u0026gt;\u003C/code\u003E белгіше;\nеш параметр рұқсат етілмейді, \nбылай \u003Ccode\u003E\u0026lt;references /\u0026gt;\u003C/code\u003E қолданыңыз",
+    "cite_error_references_invalid_parameters_group": "Жарамсыз \u003Ccode\u003E\u0026lt;references\u0026gt;\u003C/code\u003E тегі;\nтек \"group\" параметрін рұқсат етеді.\nКелесідей қолданыңыз: \u003Ccode\u003E\u0026lt;references /\u0026gt;\u003C/code\u003E, or \u003Ccode\u003E\u0026lt;references group=\"...\" /\u0026gt;\u003C/code\u003E",
+    "cite_error_references_no_backlink_label": "Өзгертпелі белгілердің саны бітті, одан әрі көбірек \u003Cnowiki\u003E[[MediaWiki:Cite references link many format backlink labels]]\u003C/nowiki\u003E жүйе хабарында белгілеңіз",
+    "cite_error_no_link_label_group": "\"$1\" тобы үшін өзгертпелі сілтеме белгілері бітті.\nDefine more in the \u003Cnowiki\u003E[[MediaWiki:$2]]\u003C/nowiki\u003E message.",
+    "cite_error_references_no_text": "Жарамсыз \u003Ccode\u003E\u0026lt;ref\u0026gt;\u003C/code\u003E тегі;\nno text was provided for refs named \u003Ccode\u003E$1\u003C/code\u003E",
+    "cite_error_included_ref": "\u003Ccode\u003E\u0026lt;ref\u0026gt;\u003C/code\u003E тегін \u003Ccode\u003E\u0026lt;/ref\u0026gt;\u003C/code\u003E тегімен жабуды қажет етеді",
+    "cite_error_refs_without_references": "\u003Ccode\u003E\u0026lt;ref\u0026gt;\u003C/code\u003E тегі бар, бірақ \u003Ccode\u003E\u0026lt;references/\u0026gt;\u003C/code\u003E тегі табылмады",
+    "cite_error_group_refs_without_references": "\"$1\" деп аталған дереккөз тобында \u003Ccode\u003E\u0026lt;ref\u0026gt;\u003C/code\u003E тегі бар, бірақ тиісті \u003Ccode\u003E\u0026lt;references group=\"$1\"/\u0026gt;\u003C/code\u003E тегі табылмады, немесе \u003Ccode\u003E\u0026lt;/ref\u0026gt;\u003C/code\u003E жабу тегін қажет етеді",
+    "cite_references_link_one": "\u003Cli id=\"$1\"\u003E\u003Cspan class=\"mw-cite-backlink\"\u003E[[#$2|↑]]\u003C/span\u003E $3\u003C/li\u003E",
+    "cite_references_link_many": "\u003Cli id=\"$1\"\u003E\u003Cspan class=\"mw-cite-backlink\"\u003E↑ $2\u003C/span\u003E $3\u003C/li\u003E",
+    "cite_references_link_accessibility_label": "Жоғарыға көтеріліңіз",
+    "cite_references_link_many_accessibility_label": "Мынаған өту:"
+}

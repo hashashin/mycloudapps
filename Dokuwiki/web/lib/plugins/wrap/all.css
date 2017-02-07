@@ -1,0 +1,321 @@
+/********************************************************************
+Screen and Print Styles for the Wrap Plugin
+********************************************************************/
+
+/* resetting the box model to something more sane makes life a whole lot easier */
+.dokuwiki .plugin_wrap {
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+/* tables in columns and boxes should span the whole width */
+.dokuwiki .plugin_wrap table {
+    width: 100%;
+}
+/* emulate a headline */
+.dokuwiki .plugin_wrap em strong {
+    font-size: 130%;
+    font-weight: bold;
+    font-style: normal;
+    display: block;
+}
+/* emulate a bigger headline with a bottom border */
+.dokuwiki .plugin_wrap em strong em.u {
+    font-size: 115%;
+    border-bottom: 1px solid __border__;
+    font-style: normal;
+    text-decoration: none;
+    display: block;
+}
+/* different bigger headline for safety notes */
+.dokuwiki .wrap_danger em strong em.u,
+.dokuwiki .wrap_warning em strong em.u,
+.dokuwiki .wrap_caution em strong em.u,
+.dokuwiki .wrap_notice em strong em.u,
+.dokuwiki .wrap_safety em strong em.u {
+    text-transform: uppercase;
+    border-bottom-width: 0;
+}
+/* change border colour of emulated headlines inside boxes to something more neutral
+   (to match all the different background colours) */
+.dokuwiki .wrap_box em strong em.u,
+.dokuwiki .wrap_info em strong em.u,
+.dokuwiki .wrap_important em strong em.u,
+.dokuwiki .wrap_alert em strong em.u,
+.dokuwiki .wrap_tip em strong em.u,
+.dokuwiki .wrap_help em strong em.u,
+.dokuwiki .wrap_todo em strong em.u,
+.dokuwiki .wrap_download em strong em.u {
+    border-bottom-color: #999;
+}
+
+/* real headlines should not be indented inside a wrap */
+.dokuwiki .plugin_wrap h1,
+.dokuwiki .plugin_wrap h2,
+.dokuwiki .plugin_wrap h3,
+.dokuwiki .plugin_wrap h4,
+.dokuwiki .plugin_wrap h5 {
+    margin-left: 0;
+    margin-right: 0;
+}
+
+/* columns
+********************************************************************/
+
+.dokuwiki .wrap_left,
+.dokuwiki .wrap_column {
+    float: left;
+    margin-right: 1.5em;
+}
+[dir=rtl] .dokuwiki .wrap_column {
+    float: right;
+    margin-left: 1.5em;
+    margin-right: 0;
+}
+.dokuwiki .wrap_right {
+    float: right;
+    margin-left: 1.5em;
+}
+.dokuwiki .wrap_center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/*____________ CSS3 columns  ____________*/
+
+.dokuwiki .wrap_col2, .dokuwiki .wrap_col3, .dokuwiki .wrap_col4, .dokuwiki .wrap_col5 {
+    -moz-column-gap: 1.5em;
+    -webkit-column-gap: 1.5em;
+    column-gap: 1.5em;
+    -moz-column-rule: 1px dotted #666;
+    -webkit-column-rule: 1px dotted #666;
+    column-rule: 1px dotted #666;
+}
+.dokuwiki .wrap_col2 {
+    -moz-column-count: 2;
+    -webkit-column-count: 2;
+    column-count: 2;
+}
+.dokuwiki .wrap_col3 {
+    -moz-column-count: 3;
+    -webkit-column-count: 3;
+    column-count: 3;
+}
+.dokuwiki .wrap_col4 {
+    -moz-column-count: 4;
+    -webkit-column-count: 4;
+    column-count: 4;
+}
+.dokuwiki .wrap_col5 {
+    -moz-column-count: 5;
+    -webkit-column-count: 5;
+    column-count: 5;
+}
+
+
+/* widths
+********************************************************************/
+
+.dokuwiki .wrap_half {
+    width: 48%;
+    margin-right: 4%;
+}
+
+.dokuwiki .wrap_third {
+    width: 30%;
+    margin-right: 5%;
+}
+
+.dokuwiki .wrap_quarter {
+    width: 22%;
+    margin-right: 4%;
+}
+
+[dir=rtl] .dokuwiki .wrap_half,
+[dir=rtl] .dokuwiki .wrap_third,
+[dir=rtl] .dokuwiki .wrap_quarter {
+    margin-right: 0;
+    margin-left: 4%;
+}
+[dir=rtl] .dokuwiki .wrap_third {
+    margin-left: 5%;
+}
+
+.dokuwiki .wrap_half:nth-of-type(2n),
+.dokuwiki .wrap_third:nth-of-type(3n),
+.dokuwiki .wrap_quarter:nth-of-type(4n) {
+    margin-right: 0;
+}
+[dir=rtl] .dokuwiki .wrap_half:nth-of-type(2n),
+[dir=rtl] .dokuwiki .wrap_third:nth-of-type(3n),
+[dir=rtl] .dokuwiki .wrap_quarter:nth-of-type(4n) {
+    margin-left: 0;
+}
+
+.dokuwiki .wrap_half:nth-of-type(2n+1),
+.dokuwiki .wrap_third:nth-of-type(3n+1),
+.dokuwiki .wrap_quarter:nth-of-type(4n+1) {
+    clear: left;
+}
+[dir=rtl] .dokuwiki .wrap_half:nth-of-type(2n+1),
+[dir=rtl] .dokuwiki .wrap_third:nth-of-type(3n+1),
+[dir=rtl] .dokuwiki .wrap_quarter:nth-of-type(4n+1) {
+    clear: right;
+}
+
+/* show 2 instead 4 columns on medium sized screens (mobile, etc) */
+@media only screen and (max-width: 950px) {
+
+.dokuwiki .wrap_quarter {
+    width: 48%;
+}
+.dokuwiki .wrap_quarter:nth-of-type(2n) {
+    margin-right: 0;
+}
+[dir=rtl] .dokuwiki .wrap_quarter:nth-of-type(2n) {
+    margin-left: 0;
+}
+.dokuwiki .wrap_quarter:nth-of-type(2n+1) {
+    clear: left;
+}
+[dir=rtl] .dokuwiki .wrap_quarter:nth-of-type(2n) {
+    clear: right;
+}
+
+} /* /@media */
+
+/* show full width on smaller screens (mobile, etc) */
+@media only screen and (max-width: 600px) {
+
+.dokuwiki .wrap_half,
+.dokuwiki .wrap_third,
+.dokuwiki .wrap_quarter {
+    width: auto;
+    margin-right: 0;
+    margin-left: 0;
+    float: none;
+}
+
+} /* /@media */
+
+
+/* alignments
+********************************************************************/
+
+.dokuwiki .wrap_leftalign {
+    text-align: left;
+}
+.dokuwiki .wrap_centeralign {
+    text-align: center;
+}
+.dokuwiki .wrap_rightalign {
+    text-align: right;
+}
+.dokuwiki .wrap_justify {
+    text-align: justify;
+}
+
+
+/* box
+********************************************************************/
+
+/* see styles for boxes and notes with icons in style.css */
+
+/*____________ rounded corners ____________*/
+/* (only for modern browsers) */
+
+.dokuwiki div.wrap_round {
+    border-radius: 1.4em;
+}
+.dokuwiki span.wrap_round {
+    border-radius: .14em;
+}
+
+
+/* mark
+********************************************************************/
+
+.dokuwiki .wrap_lo {
+    color: __text_neu__;
+    font-size: 85%;
+}
+.dokuwiki .wrap_em {
+    color: #c00;
+    font-weight: bold;
+}
+.dokuwiki .wrap__dark.wrap_em {
+    color: #f66;
+}
+
+/* see styles for highlighted text in style.css */
+
+
+/* miscellaneous
+********************************************************************/
+
+/*____________ indent ____________*/
+
+.dokuwiki .wrap_indent {
+    padding-left: 1.5em;
+}
+[dir=rtl] .dokuwiki .wrap_indent {
+    padding-right: 1.5em;
+    padding-left: 0;
+}
+
+
+/*____________ outdent ____________*/
+
+.dokuwiki .wrap_outdent {
+    margin-left: -1.5em;
+}
+[dir=rtl] .dokuwiki .wrap_outdent {
+    margin-right: -1.5em;
+    margin-left: 0;
+}
+
+/*____________ word wrapping in pre ____________*/
+
+.dokuwiki div.wrap_prewrap pre {
+    white-space: pre-wrap;
+    word-wrap: break-word;/* for IE < 8 */
+}
+
+/*____________ spoiler ____________*/
+
+.dokuwiki div.wrap_spoiler {
+    margin-bottom: 1.5em;
+}
+/* see rest of spoiler styles in style.css */
+
+/*____________ clear float ____________*/
+
+.dokuwiki .wrap_clear {
+    clear: both;
+    line-height: 0;
+    height: 0;
+    font-size: 1px;
+    visibility: hidden;
+    overflow: hidden;
+}
+
+/*____________ hide ____________*/
+
+.dokuwiki .wrap_hide {
+    display: none;
+}
+
+
+/*____________ button-style link ____________*/
+
+.dokuwiki .wrap_button a:link,
+.dokuwiki .wrap_button a:visited {
+    background-image: none;
+    border: 1px solid __border__;
+    border-radius: .3em;
+    padding: .5em .7em;
+    text-decoration: none;
+}
+/* see rest of button link styles in style.css */

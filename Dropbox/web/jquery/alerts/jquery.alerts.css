@@ -1,0 +1,234 @@
+.LightningUpdating{
+	display:none;
+	width:220px;
+	height:80px;
+
+	position:absolute;
+	/*margin:5% 0% 0% 0%;*/
+	/*top:50%;*/
+	left:50%;
+	/*top:200px;*/
+	margin-top:80px;
+	background-color:#000000;
+	FONT-FAMILY: Helvetica;
+	color:#898989;
+	-webkit-border-bottom-right-radius: 10px;
+	-webkit-border-bottom-left-radius: 10px;
+	-moz-border-radius-bottomright: 10px;
+	-moz-border-radius-bottomleft: 10px;
+	border-bottom-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+}
+.LightningUpdating .updateStr{
+	
+	height:80px;
+	line-height:80px;
+	text-align: center;
+	font-size:16px;
+	/*border: 1px solid #ffffff;*/
+}
+.LightningStatusPanel{
+	display:none;
+	min-width:500px;
+	/*height:280px;*/
+	height:auto;
+	width:auto;
+	min-height:280px;
+	/*height:auto;*/
+
+	
+	position:absolute;
+	margin:5% 0% 0% 0%;
+	top:50%;
+	left:50%;
+	
+	/*margin-top:150px;
+	margin-left:-10px;*/
+
+
+	background-color:#282828;
+	FONT-FAMILY: Helvetica;
+	color:#898989;
+	border-radius:10px 10px 10px 10px;
+	-webkit-border-top-left-radius:10px;
+	-webkit-border-top-right-radius:10px;
+	-moz-border-radius:10px 10px 10px 10px;
+}
+
+.LightningStatusPanelIcon{
+	min-width:420px;
+	width:auto;
+	height:38px;
+	position: relative;
+	float:left;
+	margin-top:15px;
+	margin-left:35px;
+	padding-left:50px;
+	padding-top:5px;
+	font: 22px arial, helvetica, sans-serif;
+	color: #A0A0A0;
+
+	/*border: 1px solid #ffffff;*/
+}
+
+.LightningStatusPanelBody{
+
+	position: relative;
+	font-size:14px;
+	color:#898989;
+	width:420px;
+	/*height:130px;*/
+	min-height:140px;
+	height:auto;
+	
+	margin-top:60px;
+	left:42px;
+ 	word-wrap:break-word;
+ 	display: block;
+ 	padding-top:20px;
+ 	/*border: 1px solid #ffffff;*/
+}
+.LightningStatusPanelIconComplete{
+	background: url(/web/jquery/alerts/images/complete.png) no-repeat;
+}
+
+.LightningStatusPanelIconCritical{
+	background: url(/web/jquery/alerts/images/critical.png) no-repeat;
+}
+.LightningStatusPanelIconInfo{
+	background: url(/web/jquery/alerts/images/info.png) no-repeat;
+}
+.LightningStatusPanelIconWaiting{
+	/*background: url(images/SpinnerSun.gif) no-repeat;*/
+	background: url(/web/jquery/alerts/images/SpinnerSun.gif) no-repeat;
+}
+.LightningStatusPanelIconWarning{
+	background: url(/web/jquery/alerts/images/warning.png) no-repeat;
+}
+
+.LightningStatusPanelIconUser{
+	background: url("/web/images/icon/dialog_icons.png") no-repeat scroll 0 -71px transparent;
+}
+.LightningStatusPanelIconGroup{
+	background: url("/web/images/icon/group_48x48.png") no-repeat transparent;
+}
+.LightningStatusPanelIconRemote{
+	background: url("/web/images/dialog/headericon_remotebackup.png") no-repeat;
+	background-size:40px 40px;
+}
+
+.LightningStatusPanelIconSSH{
+	background: url("/web/images/icon/dialog_icons.png") no-repeat scroll 0 -756px transparent;
+}
+.LightningStatusPanelIconShare{
+	background: url("/web/images/icon/dialog_icons.png") no-repeat scroll 0 -142px transparent;
+}
+.LightningStatusPanelIconFW{
+		background: url("/web/images/icon/headericon_updatefirmware.png") no-repeat scroll 0 -8px transparent;	
+		background-size:48px 48px;	
+}
+.LightningStatusPanelIconISO{
+	background: url("/web/images/dialog/headericon_createISOimage.png") no-repeat;	
+	background-size:32px 32px;
+}	
+.LightningStatusPanelIconI{
+	background: url("/web/images/icon/IconDialogueWindowInfo.png") no-repeat;	
+	background-size:32px 32px;
+}
+.LightningStatusPanelIconInternalBackup{
+	background: url("/web/images/dialog/headericon_remotebackup.png") no-repeat;
+	background-size:40px 40px;
+}	
+.LightningStatusPanelIconScanDisk{
+		background: url("/web/images/dialog/headericon_scandisk_normal.png") no-repeat;	
+		background-size:42px auto;	
+}	
+.LightningStatusPanelIconFormat{
+		background: url("/web/images/dialog/raidvolumeicon_normal.png") no-repeat;	
+		background-size:32px 32px;	
+}
+.LightningStatusPanelIconInternalS3{
+	background: url("/web/images/amazon/AWS_logo_poweredby_black_127px.png") no-repeat;
+	background-size:70px 32px;	
+	padding-left:78px;
+}	
+.LightningStatusPanelIconInternalAPPS{
+	background: url("/web/images/dialog/mainmenu_addons_normal.png") no-repeat;
+	background-size:42px auto;	
+	/*padding-left:78px;*/
+}			
+.LightningStatusPanelIconCloud{
+	background: url("/web/images/help/helpdropdown_gettingstarted_up.png") no-repeat;
+}	
+.LightningStatusPanelIconCloud2{
+	background: url("/web/images/icon/IconMyCloudWebUser.png") no-repeat;
+}	
+.PanelButton{
+	position: relative;
+	height:52px;
+	left:42px;
+	padding-left:345px;
+	top:10px;
+	/*border: 1px solid #ffffff;*/
+}
+.PanelButton2{
+	position: relative;
+	height:52px;
+	left:42px;
+	/*padding-left:345px;*/
+	top:10px;
+	float:left;
+	z-index:100;
+}
+.LightningStatusPanelButton{
+	width:52px;
+	height:26px;
+	float:right;
+	margin-top:5px;
+	position: relative;
+	background: url(images/button.png) no-repeat;
+	font-size:11px;
+	color:#ffffff;
+	line-height: 26px;
+	text-align:center;
+	font-family:Arial, regular;
+	cursor: pointer;
+	/*border: 1px solid #ffffff;*/
+}
+
+div.Msghr {
+  height: 3px;
+  width:90%;
+  background: #fff url(/web/images/dialog_line.png) repeat-x scroll center;
+  position: relative;
+  top:55px;
+}
+
+div.Msghr hr {
+  display: none;
+}
+
+div.MsghrBottom2 {
+	position: relative;
+	height: 3px;
+	background: #fff url(/web/images/dialog_line.png) repeat-x scroll center;
+}
+div.MsghrBottom2 hr {
+  display: none;
+}
+/*#error_dialog_message{
+	height:auto;
+}*/
+#error_dialog_message >ul {
+	line-height: 18px;
+	margin: 0;
+	padding: 0;
+}
+
+#error_dialog_message >ul >li{
+	font-size:14px;
+	list-style: none;
+}
+
+
+

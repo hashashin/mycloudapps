@@ -1,0 +1,116 @@
+@import url("style-base.css");
+/* =============================================================================
+   Main container stuff goes here and other globals
+   ========================================================================== */
+
+.st, .sp, .sa, .se, .ss {
+  font: -apple-system-body;
+  color: #007aff; }
+
+.st {
+  font-weight: 600; }
+
+.frontpage a {
+  display: block; }
+  .frontpage a:hover {
+    width: 100%;
+    background-color: #e2e1e6; }
+
+.books:hover {
+  width: 100%;
+  background-color: #e2e1e6; }
+
+a {
+  color: #007aff;
+  font-weight: 600; }
+  a:hover {
+    color: black; }
+
+/*iphone - reduction des tailles de police et taille fixe en px*/
+body {
+  font: -apple-system-body;
+  color: black; }
+
+h2 {
+  font: -apple-system-subheadline;
+  color: #007aff; }
+
+h3 {
+  font: -apple-system-subheadline;
+  color: black; }
+
+h4 {
+  font: -apple-system-subheadline;
+  color: black; }
+
+/*iphone - Suppression des arrondis
+.container {
+border-radius:10px;
+}
+*/
+/* =============================================================================
+   Header stuff goes here
+   ========================================================================== */
+/*
+header {
+iphone - Suppression ombrage (bug avec formulaire recherche)
+    box-shadow:inset 0px -5px 8px #000000;
+iphone - Suppression des arrondis
+    border-radius: 10px 10px 0px 0px;
+}*/
+.hicon {
+  text-shadow: 2px 2px 2px black; }
+
+/*iphone - icone trop bas */
+#tool .hicon32 {
+  margin-top: -5px; }
+
+.submit {
+  border-radius: 0;
+  box-shadow: none; }
+
+header h1 {
+  vertical-align: middle;
+  text-align: center;
+  font: -apple-system-headline;
+  color: #007aff; }
+
+.download a {
+  font: -apple-system-subheadline;
+  color: #007aff;
+  box-shadow: 0 0 10px #c8c7cc;
+  color: #007aff;
+  border-color: #007aff;
+  border-radius: 5px;
+  border-style: solid;
+  border-width: 1px;
+  background: white; }
+
+/*iphone - bouton de donwload en haut dans book detail
+(manque de place en mode paysage)*/
+.bookpopup .download {
+  float: none;
+  margin: -12px 30px -2px 4px; }
+
+/*iphone - modification des marges pour cover dans detail*/
+.bookpopup .cover {
+  margin: 27px 4px 4px 0px; }
+
+.mfp-content .bookpopup {
+  /*iphone - Taille minimum du detail du livre en popup
+  pour que la pochette ne depasse pas
+  (pas seulement pour iphone) */
+  min-height: 210px; }
+
+footer {
+  box-shadow: inset 0px 5px 10px #000000;
+  /*iphone - Suppression des arrondis
+  border-radius: 0px 0px 10px 10px;*/ }
+
+/* =============================================================================
+   Media query stuff goes here
+   ========================================================================== */
+/* 768px and greater */
+@media only screen and (min-width: 768px) {
+  .container {
+    box-shadow: 0 0 20px #000; } }

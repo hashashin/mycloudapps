@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <en-US>An open source, PHP-based blog and content management system (CMS) and platform that natively supports MySQL.</en-US>
+  <cs-CZ>Open source blogovací software a systém pro správu obsahu (CMS) a platforma na bázi PHP, která nativně podporuje MySQL.</cs-CZ>
+  <de-DE>Freies auf PHP basierendes Blog- und Content Management-System (CMS) und Plattform mit systeminhärenter Unterstützung von MySQL.</de-DE>
+  <es-ES>Blog de fuente abierta basado en PHP y sistema de gestión de contenido (CMS) y plataforma compatible nativamente con MySQL.</es-ES>
+  <fr-FR>système open source de gestion de contenu (SGC) et de blog basé sur PHP, dont la plateforme prend nativement en charge le système MySQL.</fr-FR>
+  <hu-HU>Nyílt forráskódú, PHP-alapú blog- és tartalomkezelő rendszer (CMS) és platform, amely natív módon támogatja a MySQL adatbázis-kezelőt.</hu-HU>
+  <it-IT>blog basato su PHP e sistema di gestione dei contenuti (CSM) open source nonché piattaforma che supporta MySQL in modo nativo.</it-IT>
+  <ja-JP>オープン ソースの PHP で作成され、MySQL をネイティブでサポートするブログおよびコンテンツ管理システム (CMS)/プラットフォーム。</ja-JP>
+  <ko-KR>기본적으로 MySQL을 지원하는 오픈 소스 PHP 기반 블로그/콘텐츠 관리 시스템(CMS) 및 플랫폼.</ko-KR>
+  <no-NO>En åpen kilde- og PHP-basert plattform samt blogg- og publiseringsløsning (CMS) med innebygd støtte for MySQL.</no-NO>
+  <nl-NL>Een openbron-, PHP-gebaseerd weblog- en inhoudbeheersysteem (CMS) en platform dat inherent MySQL ondersteunt.</nl-NL>
+  <pl-PL>Oparte na języku PHP oprogramowanie open source do bloga i zarządzania zawartością (CMS) oraz platforma z macierzystą obsługą systemu MySQL.</pl-PL>
+  <pt-BR>Um blog de código aberto e escrito em PHP, bem como plataforma e sistema de gestão de conteúdo (CMS) naturalmente compatível com MySQL.</pt-BR>
+  <ru-RU>Система управления контентом и блогами с открытым исходным кодом на основе PHP, а также платформа со встроенной поддержкой MySQL.</ru-RU>
+  <sv-SE>En PHP-baserad blogg med öppen källkod, ett CMS-system (content management system) och en plattform med inbyggt stöd för MySQL.</sv-SE>
+  <tr-TR>MySQL'i yerel olarak destekleyen açık kaynaklı, PHP tabanlı bir web günlüğü ve içerik yönetim sistemi (CMS) ve platformudur.</tr-TR>
+  <zh-CN>基于 PHP 的开源博客以及内容管理系统 (CMS) 和平台，本机支持 MySQL。</zh-CN>
+  <zh-TW>開放原始碼的 PHP 型部落格和內容管理系統 (CMS) 以及原生支援 MySQL 的平台。</zh-TW>
+</config>

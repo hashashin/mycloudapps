@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<config>
+<help>
+	<show_name>aMule</show_name>
+	<desc>
+	<![CDATA[ 
+	The ShareCenter's P2P functionality is enhanced with the aMule add-on by providing search capability for finding desired P2P files.  aMule also provides a full featured P2P server/client Web UI interface can be launched to work with your ShareCenter P2P functionality.
+	]]>
+	</desc>
+	<version>1.00</version>
+	<path>/Volume_1/Nas_Prog/aMule/</path>
+	<releasse_date>10/18/2010</releasse_date>
+</help>
+</config>

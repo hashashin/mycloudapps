@@ -1,0 +1,61 @@
+﻿<text>
+<_common>
+	<error len="999">오류</error>
+	<new len="10">새로 만들기</new>
+	<set>설정 중...</set>
+	<loading len="999">로드 중...</loading>
+	<updating>업데이트 중</updating>
+	<minutes>분</minutes>
+	<hour len="999">1시간</hour>
+</_common>
+<_button>
+	<Ok len="11">확인</Ok>
+	<save>저장</save>
+	<browse len="10">찾아보기</browse>
+	<Cancel len="999">취소</Cancel>
+</_button>
+<_network_access>
+	<create_folder_name len="999">새 폴더 만들기</create_folder_name>
+</_network_access>
+<_dropbox>
+	<title>Dropbox</title>
+	<dropbox_enable>Dropbox</dropbox_enable>
+	<sing_in_account>계정</sing_in_account>
+	<sing_in>로그인</sing_in>
+	<sync_folder>로컬 동기화 폴더</sync_folder>
+	<sync_interval>동기화 간격</sync_interval>
+	<sync_now>지금 동기화</sync_now>
+	<sync_status>상태</sync_status>
+	<hourly>매시간</hourly>
+	<title2>Dropbox 설정</title2>
+	<used_space>사용된 공간</used_space>
+	<last>마지막 업데이트</last>
+	<sing_out>계정 연결 해제</sing_out>
+	<black_list>Dropbox 동기화 폴더</black_list>
+	<add>선택적 동기화</add>
+	<s1><![CDATA[최신 상태]]></s1>
+	<s2><![CDATA[Dropbox에 연결 중]]></s2>
+	<s3><![CDATA[동기화 중]]></s3>
+	<s4><![CDATA[동기화 일시중지됨]]></s4>
+	<s5><![CDATA[%s 다운로드 중]]></s5>
+	<s6><![CDATA[%s 업로드 중]]></s6>
+	<s7><![CDATA[%s에 로컬 디렉토리 만드는 중]]></s7>
+	<s8><![CDATA[%s에 Dropbox 디렉토리 만드는 중]]></s8>
+	<s9><![CDATA[%s 제거 중]]></s9>
+	<s10><![CDATA[%s1을(를) %s2(으)로 이동 중]]></s10>
+	<s11><![CDATA[계정 인증 실패]]></s11>
+	<s12><![CDATA[Dropbox에 연결할 수 없습니다. 시스템을 다시 시작한 후 다시 시도하십시오. 문제가 지속되는 경우 Dropbox 앱을 다시 설치해 보십시오.]]></s12>
+	<s13><![CDATA[Dropbox에 파일을 동기화할 수 없습니다. 시스템과 Dropbox 설정을 확인하거나 시스템을 다시 시작하십시오.]]></s13>
+	<s14><![CDATA[Dropbox에서 파일을 다운로드할 수 없습니다. 시스템과 Dropbox 설정을 확인하거나 시스템을 다시 시작하십시오. %s]]></s14>
+	<s15><![CDATA[Dropbox에 파일을 업로드할 수 없습니다. 시스템과 Dropbox 설정을 확인하거나 시스템을 다시 시작하십시오. %s]]></s15>
+	<s16><![CDATA[Dropbox에서 파일을 다운로드할 수 없습니다. 시스템과 Dropbox 설정을 확인하거나 시스템을 다시 시작하십시오. %s]]></s16>
+	<s17><![CDATA[Dropbox에 파일을 업로드할 수 없습니다. 시스템과 Dropbox 설정을 확인하거나 시스템을 다시 시작하십시오. %s]]></s17>
+	<s18><![CDATA[Dropbox에 파일을 동기화할 수 없습니다. 시스템과 Dropbox 설정을 확인하거나 시스템을 다시 시작하십시오.]]></s18>
+	<s19><![CDATA[Dropbox의 공간이 부족합니다. %s을(를) 업로드하지 못했습니다.]]></s19>
+	<s20><![CDATA[시스템의 공간이 부족합니다. %s을(를) 다운로드하지 못했습니다.]]></s20>
+	<msg1><![CDATA[이 때문에 파일과 Dropbox의 동기화가 중지되지만, 이 장치의 Dropbox 폴더에 있는 파일은 삭제되지 않습니다.]]></msg1>
+</_dropbox>
+<_backup>
+	<desc1 len="999">경로 선택</desc1>
+</_backup>
+</text>

@@ -1,0 +1,38 @@
+body, html {
+overflow:hidden;
+margin:0; padding:0; border:0;
+background-repeat: repeat-x;
+} /* Re-sets IE to "zero" for these values */
+
+.help_div {
+	width:232px;
+	/*height:300px;*/
+	background: #000000;
+	position: absolute;
+	font-size:14px;
+	color:#ffffff;
+	right:0px;
+	top:102px;
+	PADDING-LEFT: 15px;
+	PADDING-TOP: 15px;
+}
+
+#menu_title {
+	PADDING-TOP: 15px;
+	PADDING-LEFT: 12px;
+	COLOR: #3366FF;
+	FONT-SIZE: 16px;
+}
+
+#id_percentage
+{
+	color:#ffffff;
+	size:15px;
+}
+
+.diag_title{
+	font-size: 16px;
+	font-weight:bold;
+	color: #ffffff;
+}
+	

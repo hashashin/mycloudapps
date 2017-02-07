@@ -1,0 +1,17 @@
+Package:          UtilsUpdate
+Packager:         hashashin
+Email:            mecagoenbush@gmail.com
+Homepage:         http://mycloud.barracus.tk
+Description:      Some updated system utils
+Icon:             tux.png
+AddonShowName:    UtilsUpdate
+AddonIndexPage:
+AddonUsedPort:    
+InstDepend:
+InstConflict:
+StartDepend:
+StartConflict:
+Version:          17
+MinFWVer:
+MaxFWVer:
+IndividualFlag:

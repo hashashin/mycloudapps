@@ -1,0 +1,63 @@
+<text>
+<_common>
+	<error len="999">Error</error>
+	<new len="10">New</new>
+	<set>Setting...</set>
+	<loading len="999">Loading...</loading>
+	<updating>Updating</updating>
+	<minutes>minutes</minutes>
+	<hour len="999">1 hour</hour>
+</_common>
+<_button>
+	<Ok len="11">OK</Ok>
+	<save>Save</save>
+	<browse len="10">Browse</browse>
+	<Cancel len="999">Cancel</Cancel>
+</_button>
+<_network_access>
+	<create_folder_name len="999">Create a New Folder</create_folder_name>
+</_network_access>
+<_dropbox>
+	<title>Dropbox</title>
+	<dropbox_enable>Dropbox</dropbox_enable>
+	<sing_in_account>Account</sing_in_account>
+	<sing_in>Sign-In</sing_in>
+	<sync_folder>Local Sync Folder</sync_folder>
+	<sync_interval>Sync Interval</sync_interval>
+	<sync_now>Sync Now</sync_now>
+	<sync_status>Status</sync_status>
+	<hourly>Hourly</hourly>
+	<title2>Dropbox Settings</title2>
+	<used_space>Used Space</used_space>
+	<last>Last Updated</last>
+	<sing_out>Unlink Account</sing_out>
+	<black_list>Dropbox Sync Folders</black_list>
+	<add>Selective Sync</add>
+	<stop_sync>Stop Syncing</stop_sync>
+	<s1><![CDATA[Up to date]]></s1>
+	<s2><![CDATA[Connecting to Dropbox]]></s2>
+	<s3><![CDATA[Syncing]]></s3>
+	<s4><![CDATA[Sync Paused]]></s4>
+	<s5><![CDATA[Downloading %s]]></s5>
+	<s6><![CDATA[Uploading %s]]></s6>
+	<s7><![CDATA[Creating local directory on %s]]></s7>
+	<s8><![CDATA[Creating Dropbox directory on %s]]></s8>
+	<s9><![CDATA[Removing %s]]></s9>
+	<s10><![CDATA[Moving %s1 to %s2]]></s10>
+	<s11><![CDATA[Account authentication failed]]></s11>
+	<s12><![CDATA[Unable to connect to Dropbox. Please restart your system and try again. If problem remains, try re-install the Dropbox app.]]></s12>
+	<s13><![CDATA[Unable to sync files to Dropbox. Please check your system and Dropbox settings or restart your system.]]></s13>
+	<s14><![CDATA[Unable to download files from Dropbox. Please check your system and Dropbox settings or restart your system. %s]]></s14>
+	<s15><![CDATA[Unable to upload files to Dropbox. Please check your system and Dropbox settings or restart your system. %s]]></s15>
+	<s16><![CDATA[Unable to download files from Dropbox. Please check your system and Dropbox settings or restart your system. %s]]></s16>
+	<s17><![CDATA[Unable to upload files to Dropbox. Please check your system and Dropbox settings or restart your system. %s]]></s17>
+	<s18><![CDATA[Unable to sync files to Dropbox. Please check your system and Dropbox settings or restart your system.]]></s18>
+	<s19><![CDATA[Dropbox is out of space. Failed to upload %s]]></s19>
+	<s20><![CDATA[Your system is out of space. Failed to download %s]]></s20>
+	<s21><![CDATA[Sync stopped until the next sync interval time]]></s21>
+	<msg1><![CDATA[This will stop syncing your files with Dropbox, but won't delete the files in the Dropbox folder on this device.]]></msg1>
+</_dropbox>
+<_backup>
+	<desc1 len="999">Select Path</desc1>
+</_backup>
+</text>

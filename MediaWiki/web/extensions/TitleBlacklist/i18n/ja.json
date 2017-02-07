@@ -1,0 +1,25 @@
+{
+    "@metadata": {
+        "authors": [
+            "Aotake",
+            "Fryed-peach",
+            "Hosiryuhosi",
+            "JtFuruhata",
+            "Marine-Blue",
+            "Muttley",
+            "Shirayuki",
+            "青子守歌"
+        ]
+    },
+    "titleblacklist-desc": "管理者が[[MediaWiki:Titleblacklist|ブラックリスト]] および [[MediaWiki:Titlewhitelist|ホワイトリスト]]を使ってページおよび利用者アカウントの新規作成を禁止できるようにする",
+    "titleblacklist": "# これは、ページ名のブラックリストです。正規表現に一致するページ名および利用者アカウントの新規作成を禁止します。\n# 「#」以降はコメントです。\n# 既定では大文字と小文字を区別しません",
+    "titlewhitelist": "# これは、ページ名のホワイトリストです。「#」以降はコメントです。\n# 既定では大文字と小文字を区別しません",
+    "titleblacklist-forbidden-edit": "「$2」という名前のページの作成は禁止されています。\nこれは以下のブラックリスト項目に一致します: <code>$1</code>",
+    "titleblacklist-forbidden-move": "「$3」という名前のページの作成が禁止されているため、「$2」を「$3」に移動できません。\nこれは以下のブラックリスト項目に一致します: <code>$1</code>",
+    "titleblacklist-forbidden-upload": "「$2」という名前でのファイルのアップロードは禁止されています。\nこれは以下のブラックリスト項目に一致します: <code>$1</code>",
+    "titleblacklist-forbidden-new-account": "「$2」という名前のユーザーの作成は禁止されています。\nこれは以下のブラックリスト項目と一致します: <code>$1</code>",
+    "titleblacklist-invalid": "タイトルブラックリスト中の以下の{{PLURAL:$1|行}}は正しく記述できて{{PLURAL:$1|いません}}。保存する前に{{PLURAL:$1|修正して}}ください:",
+    "titleblacklist-override": "ブラックリストを無視",
+    "right-tboverride": "ページ名/利用者名のブラックリストによる制限を受けない",
+    "right-tboverride-account": "利用者名ブラックリストを無視"
+}

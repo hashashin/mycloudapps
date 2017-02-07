@@ -1,0 +1,82 @@
+2000-01-01 04:47:24: amule.cpp(605): Starting aMuled 2.2.5 using  v2.8.9
+2000-01-01 04:47:24: amuled.cpp(758): ERROR: WARNING Warning! You are running aMule as root.
+Doing so is not recommended for security reasons,
+and you are advised to run aMule as an normal
+user instead.
+2000-01-01 04:47:24: ClientCreditsList.cpp(168): Creditfile loaded, 0 clients are known
+2000-01-01 04:47:24: IPFilter.cpp(109): Loading IP-filters 'ipfilter.dat' and 'ipfilter_static.dat'.
+2000-01-01 04:47:24: IPFilter.cpp(334): Loaded 0 IP-ranges from '/mnt/HD/HD_a2/Nas_Prog/aMule/.aMule/ipfilter.dat'. 0 malformed lines were discarded.
+2000-01-01 04:47:24: IPFilter.cpp(334): Loaded 0 IP-ranges from '/mnt/HD/HD_a2/Nas_Prog/aMule/.aMule/ipfilter_static.dat'. 0 malformed lines were discarded.
+2000-01-01 04:47:24: ExternalConn.cpp(159): *** TCP socket (ECServer) listening on 0.0.0.0:4712
+2000-01-01 04:47:24: MuleUDPSocket.cpp(81): Created Server UDP-Socket at port 4665
+2000-01-01 04:47:24: MuleUDPSocket.cpp(81): Created Client UDP-Socket at port 4672
+2000-01-01 04:47:24: ServerList.cpp(84): Loading server.met file: /mnt/HD/HD_a2/Nas_Prog/aMule/.aMule/server.met
+2000-01-01 04:47:25: ServerList.cpp(169): 187 servers in server.met found
+2000-01-01 04:47:25: DownloadQueue.cpp(169): No part files found
+2000-01-01 04:47:25: SharedFileList.cpp(352): Found 0 known shared files
+2000-01-01 04:47:25: amule.cpp(803): Connecting
+2000-01-01 04:47:25: ServerSocket.cpp(754): Connecting to Bb Italy Free Music Server 1 bB (173.45.75.146 - 173.45.75.146:4511) 
+2000-01-01 04:47:26: amule.cpp(846): web server running on pid 19772
+2000-01-01 04:47:26: Logger.cpp(275): Error: Cannot get the official hostname (error 0: Success)
+2000-01-01 04:47:26: Logger.cpp(275): Error: Lock file '/mnt/HD/HD_a2/Nas_Prog/aMule/.aMule/muleLock' has incorrect permissions.
+2000-01-01 04:47:26: ExternalConn.cpp(217): New external connection accepted
+2000-01-01 04:47:26: ExternalConn.cpp(251): Connecting client: aMuleweb 2.2.5
+2000-01-01 04:47:26: ExternalConn.cpp(306): Access granted.
+2000-01-01 04:47:26: ThreadScheduler.cpp(308): ThreadScheduler: Completed task 'AICH Syncronizing', 0 tasks remaining.
+2000-01-01 04:47:26: ServerSocket.cpp(754): Connecting to Master Server 12 (173.45.100.74 - 173.45.100.74:5678) 
+2000-01-01 04:47:27: ServerConnect.cpp(190): Connected to Master Server 12 (173.45.100.74:5678)
+2000-01-01 04:47:27: Kad started.
+2000-01-01 04:47:28: ServerConnect.cpp(190): Connected to Bb Italy Free Music Server 1 bB (173.45.75.146:4511)
+2000-01-01 04:47:38: ServerSocket.cpp(277): WARNING: Master Server 12 (173.45.100.74:5678) - NG : You have a lowid. Please review your network config and/or your settings.
+2000-01-01 04:47:38: ServerConnect.cpp(342): Lost connection to Master Server 12 (173.45.100.74:5678)
+2000-01-01 04:47:38: ServerConnect.cpp(401): Connection lost
+2000-01-01 04:47:42: ServerSocket.cpp(277): WARNING: Bb Italy Free Music Server 1 bB (173.45.75.146:4511) - NG : You have a lowid. Please review your network config and/or your settings.
+2000-01-01 04:47:42: ServerConnect.cpp(342): Lost connection to Bb Italy Free Music Server 1 bB (173.45.75.146:4511)
+2000-01-01 04:47:42: ServerConnect.cpp(401): Connection lost
+2000-01-01 04:47:50: ServerConnect.cpp(463): Connection attempt to Bb Italy Free Music Server 1 bB (173.45.75.146:4511) timed out.
+2000-01-01 04:47:50: ServerSocket.cpp(754): Connecting to UK Master 03 (69.162.104.194 - 69.162.104.194:4323) 
+2000-01-01 04:47:50: ServerConnect.cpp(463): Connection attempt to UK Master 03 (69.162.104.194:4323) timed out.
+2000-01-01 04:47:50: ServerSocket.cpp(754): Connecting to Razorback 4.0 (85.17.40.108 - 85.17.40.108:6231) 
+2000-01-01 04:47:51: ServerConnect.cpp(190): Connected to Razorback 4.0 (85.17.40.108:6231)
+2000-01-01 04:47:51: amule.cpp(1906): You are using an outdated version of aMule!
+2000-01-01 04:47:51: amule.cpp(1907): Your aMule version is 2.2.5 and the latest version is 2.2.6
+2000-01-01 04:47:51: amule.cpp(1908): The latest version can always be found at http://www.amule.org
+2000-01-01 04:47:51: ServerConnect.cpp(463): Connection attempt to Master Server 12 (173.45.100.74:5678) timed out.
+2000-01-01 04:47:51: ServerSocket.cpp(754): Connecting to www.UseNeXT.to (87.230.83.44 - 87.230.83.44:4661) 
+2000-01-01 04:47:51: ServerConnect.cpp(463): Connection attempt to www.UseNeXT.to (87.230.83.44:4661) timed out.
+2000-01-01 04:47:51: ServerSocket.cpp(754): Connecting to Sharing Kingdom 2 (195.242.153.67 - 195.242.153.67:4500) 
+2000-01-01 04:47:52: ServerConnect.cpp(190): Connected to Sharing Kingdom 2 (195.242.153.67:4500)
+2000-01-01 04:48:09: ServerSocket.cpp(277): WARNING: Razorback 4.0 (85.17.40.108:6231) - NG : You have a lowid. Please review your network config and/or your settings.
+2000-01-01 04:48:09: ServerConnect.cpp(342): Lost connection to Razorback 4.0 (85.17.40.108:6231)
+2000-01-01 04:48:09: ServerConnect.cpp(401): Connection lost
+2000-01-01 04:48:15: ServerConnect.cpp(463): Connection attempt to Razorback 4.0 (85.17.40.108:6231) timed out.
+2000-01-01 04:48:15: ServerSocket.cpp(754): Connecting to StormShare 7 (83.140.191.177 - 83.140.191.177:4500) 
+2000-01-01 04:48:15: ServerConnect.cpp(463): Connection attempt to StormShare 7 (83.140.191.177:4500) timed out.
+2000-01-01 04:48:15: ServerSocket.cpp(754): Connecting to Sharing Kingdom 1 (195.242.153.66 - 195.242.153.66:4500) 
+2000-01-01 04:48:16: ServerConnect.cpp(190): Connected to Sharing Kingdom 1 (195.242.153.66:4500)
+2000-01-01 04:48:16: ServerConnect.cpp(342): Lost connection to Sharing Kingdom 2 (195.242.153.67:4500)
+2000-01-01 04:48:16: ServerConnect.cpp(401): Connection lost
+2000-01-01 04:48:17: ServerConnect.cpp(463): Connection attempt to Sharing Kingdom 2 (195.242.153.67:4500) timed out.
+2000-01-01 04:48:17: ServerSocket.cpp(754): Connecting to Aphrodite (89.248.174.11 - 89.248.174.11:6323) 
+2000-01-01 04:48:17: ServerConnect.cpp(463): Connection attempt to Aphrodite (89.248.174.11:6323) timed out.
+2000-01-01 04:48:17: ServerSocket.cpp(754): Connecting to icupid (80.94.71.85 - 80.94.71.85:4232) 
+2000-01-01 04:48:17: ServerConnect.cpp(190): Connected to icupid (80.94.71.85:4232)
+2000-01-01 04:48:25: ServerSocket.cpp(277): WARNING: Sharing Kingdom 1 (195.242.153.66:4500) - NG : You have a lowid. Please review your network config and/or your settings.
+2000-01-01 04:48:26: ServerConnect.cpp(263): Connection established on: Sharing Kingdom 1
+2000-01-01 04:48:26: Connected to Sharing Kingdom 1 with LowID
+2000-01-01 04:48:26: ServerSocket.cpp(417): New clientid is 755428
+2000-01-01 04:48:26: ServerSocket.cpp(419): WARNING: You have received Low-ID!
+2000-01-01 04:48:26: ServerSocket.cpp(420): 	Most likely this is because you're behind a firewall or router.
+2000-01-01 04:48:26: ServerSocket.cpp(421): 	For more information, please refer to http://wiki.amule.org
+2000-01-01 04:48:26: ServerMessage: server version 17.15 (lugdunum)
+2000-01-01 04:48:26: ServerMessage: Free Sex=====Free Sex=====Free Sex--=====Free Sex=====Free Sex
+2000-01-01 04:48:26: ServerMessage: Free Sex                            Free Sex   Free Sex
+2000-01-01 04:48:26: ServerMessage: www.StormSex.net/1/free/28             www.StormSex.net/1/free/28          www.StormSex.net/1/free/28 
+2000-01-01 04:48:26: ServerMessage: Free Sex                            Free Sex   Free Sex
+2000-01-01 04:48:26: ServerMessage: www.StormSex.net/1/free/28             www.StormSex.net/1/free/28          www.StormSex.net/1/free/28 
+2000-01-01 04:48:26: ServerMessage: Free Sex                           Free Sex    Free Sex
+2000-01-01 04:48:26: ServerMessage: www.StormSex.net/1/free/28             www.StormSex.net/1/free/28         www.StormSex.net/1/free/28 
+2000-01-01 21:20:11: TerminationProcess.cpp(49): Command `'amuleweb' '--amule-config-file=/mnt/HD/HD_a2/Nas_Prog/aMule/.aMule/amule.conf'' with pid `19772' has finished with status code `-1'.
+2000-01-01 21:20:11: RoutingZone.cpp(297): Only 0 Kad contacts available, nodes.dat not written
+2000-01-01 21:20:11: Disconnected from eD2k
+2000-01-01 21:20:11: Kad stopped.

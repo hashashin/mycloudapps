@@ -1,0 +1,15 @@
+{
+    "@metadata": {
+        "authors": [
+            "Derbeth",
+            "Sp5uhe"
+        ]
+    },
+    "inputbox-desc": "Umożliwia włączenie w treść strony wcześniej zdefiniowanych formularzy HTML",
+    "inputbox-error-no-type": "Typ pola wejściowego nie został określony",
+    "inputbox-error-bad-type": "Typ „$1” pola wejściowego nie został rozpoznany.\nNależy wybrać „create”, „comment”, „search”, „search2” or „fulltext”.",
+    "tryexact": "Użyj dokładnego wyrażenia",
+    "searchfulltext": "Szukaj w całych tekstach",
+    "createarticle": "Utwórz artykuł",
+    "inputbox-ns-main": "Główna"
+}

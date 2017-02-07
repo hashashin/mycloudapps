@@ -1,0 +1,29 @@
+{
+    "@metadata": {
+        "authors": [
+            "Bencmq",
+            "Hzy980512",
+            "Liangent",
+            "PhiLiP",
+            "Xiaomingyan",
+            "Yfdyh000",
+            "Liuxinyu970226"
+        ]
+    },
+    "captcha-edit": "要编辑这篇文章，请答出一个简单的加法，然後在框内输入 （[[Special:Captcha/help|更多资料]]）:",
+    "captcha-desc": "通过验证码技术来阻止垃圾邮件和密码猜解",
+    "captcha-label": "验证码",
+    "captcha-addurl": "您编辑的内容中含有一个新的外部链接；为了免受自动垃圾程序的侵扰，请答出一个简单的加法，并在下面的框内输入答案才能保存您的编辑（[[Special:Captcha/help|更多信息]]）:",
+    "captcha-badlogin": "为了防止自动程序破解密码，我们恳请您答出一个简单的加法，然后在框内输入（[[Special:Captcha/help|详细信息]]）：",
+    "captcha-createaccount": "为了防止自动程序注册账号，我们恳请您答出一个简单的加法，然后在框内输入（[[Special:Captcha/help|详细信息]]）：",
+    "captcha-createaccount-fail": "验证码错误或丢失。",
+    "captcha-create": "要创建页面，请答出一个简单的加法，然后在框内输入（[[Special:Captcha/help|更多资料]]）：",
+    "captcha-sendemail": "为了防止自动垃圾程序进行破坏，我们恳请您答出一个简单的计算，然后在框内输入（[[Special:Captcha/help|详细信息]]）：",
+    "captcha-sendemail-fail": "验证码错误或丢失。",
+    "captcha-disabledinapi": "这个要求需要经过验证码验证，故无法透过API使用。",
+    "captchahelp-title": "验证码说明",
+    "captchahelp-cookies-needed": "您需要开启浏览器上的cookies方可使用这个工具。",
+    "captchahelp-text": "像本站一样，对公众开放编辑的网站经常被垃圾连结骚扰。那些人使用自动化垃圾程序将他们的连结张贴到很多网站。虽然这些连结可以被清除，但是这些东西确实令人十分讨厌。\n\n有时，特别是当给一个页面添加新的网页链接时，本站会让你看一幅有颜色的或者有变形文字的图像，并且要你输入所显示的文字。因为这是难以自动完成的一项任务，它将允许人保存他们的编辑，同时阻止大多数发送垃圾邮件者和其他机器人的攻击。\n\n令人遗憾是，这会使得视力不好的人，或者使用基於文本或者基於声音的浏览器的用户感到不便。而目前我们还没有提供的音频的选择。如果这正好阻止你进行正常的编辑，请和[[Special:ListAdmins|站点管理员]]联系获得帮助。\n\n点击浏览器中的“后退”按钮返回你所编辑的页面。",
+    "captcha-addurl-whitelist": " #<!-- leave this line exactly as it is --> <pre>\n# 语法像下面这样:\n#   * 所有在 \"#\" 字符后的内容全部是注释\n#   * 所有非空白行是一个正则表达式，只会对URL中的内容进行匹配\n #</pre> <!-- leave this line exactly as it is -->",
+    "right-skipcaptcha": "进行触发验证操作时无需验证"
+}

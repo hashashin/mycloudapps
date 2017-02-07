@@ -1,0 +1,17 @@
+Package:          ca-certificates
+Packager:         hashashin
+Email:            mecagoenbush@gmail.com
+Homepage:         https://mycloud.barracus.tk
+Description:      ca-certificates
+Icon:             tux.png
+AddonShowName:    ca-certificates
+AddonIndexPage:
+AddonUsedPort:    
+InstDepend:
+InstConflict:
+StartDepend:
+StartConflict:
+Version:          0.1
+MinFWVer:
+MaxFWVer:
+IndividualFlag:

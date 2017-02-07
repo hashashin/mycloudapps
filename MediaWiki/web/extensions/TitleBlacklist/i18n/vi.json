@@ -1,0 +1,19 @@
+{
+    "@metadata": {
+        "authors": [
+            "Minh Nguyen",
+            "Vinhtantran"
+        ]
+    },
+    "titleblacklist-desc": "Cho phép các bảo quản viên cấm không được tạo ra trang có các tên, theo [[MediaWiki:Titleblacklist|danh sách đen]] và [[MediaWiki:Titlewhitelist|danh sách trắng]]",
+    "titleblacklist": "# Đây là danh sách đen về tựa đề. Tựa bài và tên thành viên trùng với biểu thức chính quy tại đây sẽ không thể tạo được.\n# Hãy dùng “#” để ghi chú.\n# Nội dung mặc định là không phân biệt chữ hoa chữ thường",
+    "titlewhitelist": "# Đây là danh sách trắng về tựa đề. Hãy sử dụng \"#\" cho lời chú thích.\n# Nội dung theo mặc định không phân biệt chữ hoa chữ thường",
+    "titleblacklist-forbidden-edit": "Không được tạo ra trang dưới tên “$2”.\nTên này trùng với mục sau trong danh sách đen: <code>$1</code>",
+    "titleblacklist-forbidden-move": "Không được di chuyển “$2” đến “$3”, vì tựa đề “$3” bị cấm khởi tạo. \nNó trùng với mục sau trong danh sách đen: <code>$1</code>",
+    "titleblacklist-forbidden-upload": "Không được tải lên tập tin dưới tên “$2”.\nTên này trùng với khoản sau trong danh sách đen: <code>$1</code>",
+    "titleblacklist-forbidden-new-account": "Không được tạo ra tài khoản “$2”.\nNó trùng tên với một khoản mục trong danh sách đen: <code>$1</code>",
+    "titleblacklist-invalid": "{{PLURAL:$1|Dòng|Những dòng}} sau đây trong danh sách đen về tên trang không hợp lệ; xin hãy sửa chữa {{PLURAL:$1|nó|chúng}} để tuân theo cú pháp biểu thức chính quy trước khi lưu trang:",
+    "titleblacklist-override": "Bỏ qua danh sách đen",
+    "right-tboverride": "Bỏ qua các danh sách tựa trang và tên người dùng bị cấm",
+    "right-tboverride-account": "Ghi đè lên danh sách đen tên người dùng"
+}

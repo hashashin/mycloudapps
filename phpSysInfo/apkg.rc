@@ -1,0 +1,17 @@
+Package:          phpSysInfo
+Packager:         hashashin
+Email:            mecagoenbush@gmail.com
+Homepage:         https://github.com/phpsysinfo/phpsysinfo
+Description:      Customizable PHP script that displays information about your system nicely
+Icon:             phpSysInfo.png
+AddonShowName:    phpSysInfo
+AddonIndexPage:	  index.php
+AddonUsedPort:    
+InstDepend:
+InstConflict:
+StartDepend:
+StartConflict:
+Version:	  3.2.6-2
+MinFWVer:
+MaxFWVer:
+IndividualFlag:   0

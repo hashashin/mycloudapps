@@ -1,0 +1,17 @@
+Package:          cdc-acm
+Packager:         hashashin
+Email:            mecagoenbush@gmail.com
+Homepage:         https://mycloud.barracus.tk
+Description:      cdc-acm
+Icon:             tux.png
+AddonShowName:    cdc-acm
+AddonIndexPage:
+AddonUsedPort:    
+InstDepend:
+InstConflict:
+StartDepend:
+StartConflict:
+Version:          0.1
+MinFWVer:
+MaxFWVer:
+IndividualFlag:

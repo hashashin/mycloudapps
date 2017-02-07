@@ -1,0 +1,18 @@
+Package:          WDTimeline
+Packager:         hashashin
+Email:            mecagoenbush@gmail.com
+Homepage:         https://twitter.com/westerndigital
+Description:      WD tweets
+Icon:             twitter.png
+AddonShowName:    WDTimeline
+AddonIndexPage:	  index.html
+AddonUsedPort:    
+InstDepend:
+InstConflict:
+StartDepend:
+StartConflict:
+CenterType:       1
+Version:	  0.1
+MinFWVer:
+MaxFWVer:
+IndividualFlag:   0

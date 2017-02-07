@@ -1,0 +1,17 @@
+Package:          MediaWiki
+Packager:         hashashin
+Email:            mecagoenbush@gmail.com
+Homepage:         http://www.mediawiki.org
+Description:      Free software open source wiki package written in PHP
+Icon:             MediaWiki.png
+AddonShowName:    MediaWiki
+AddonIndexPage:	  index.php
+AddonUsedPort:    
+InstDepend:
+InstConflict:
+StartDepend:
+StartConflict:
+Version:	 1.23.15
+MinFWVer:
+MaxFWVer:
+IndividualFlag:   0

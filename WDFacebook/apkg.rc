@@ -1,0 +1,18 @@
+Package:          WDFacebook
+Packager:         hashashin
+Email:            mecagoenbush@gmail.com
+Homepage:         https://www.facebook.com/
+Description:      WD Facebook
+Icon:             facebook.png
+AddonShowName:    WDFacebook
+AddonIndexPage:	  index.html
+AddonUsedPort:    
+InstDepend:
+InstConflict:
+StartDepend:
+StartConflict:
+CenterType:       1
+Version:	  0.1
+MinFWVer:
+MaxFWVer:
+IndividualFlag:   0

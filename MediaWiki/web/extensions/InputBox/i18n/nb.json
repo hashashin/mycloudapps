@@ -1,0 +1,14 @@
+{
+    "@metadata": {
+        "authors": [
+            "EivindJ"
+        ]
+    },
+    "inputbox-desc": "Tillater inkludering av forhåndsdefinerte HTML-skjemaer",
+    "inputbox-error-no-type": "Du har ikke angitt hva slags inputboks du vil lage.",
+    "inputbox-error-bad-type": "Inputboks av typen «$1» gjenkjennes ikke.\nVennligst velg «create», «comment», «search», «search2» eller «fulltext».",
+    "tryexact": "Prøv nøyaktig treff",
+    "searchfulltext": "Søk full tekst",
+    "createarticle": "Opprett side",
+    "inputbox-ns-main": "Hoved"
+}

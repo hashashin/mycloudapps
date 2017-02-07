@@ -1,0 +1,124 @@
+
+/* IE SPECIFIC HACKED STYLES */
+* html .osX .jScrollPaneDragBottom {
+	/* bottom: -1px; */
+	bottom: -1px;
+}
+/* /IE SPECIFIC HACKED STYLES */
+
+.scroll-pane,
+.scroll-pane-arrows
+{
+	width: 100%;
+	height: 100%; 
+	overflow:auto;
+}
+
+.osX .jspVerticalBar .jspTrack {
+	background: url(./osx_vertical_track.png) repeat-y;
+}
+
+.osX .jspVerticalBar .jspDrag {
+	position: relative;
+	background: url(./osx_vertical_drag_middle.png) repeat-y;
+	border:0px solid red;
+}
+
+.osX .jspVerticalBar .jspDragTop {
+	background: url(./osx_vertical_drag_top.png) no-repeat;
+	height: 11px;
+}
+
+.osX .jspVerticalBar .jspDragBottom {
+	background: url(./osx_vertical_drag_bottom.png) no-repeat;
+	height: 11px;
+	border:0px solid red;
+	position: absolute;	/*relative; */
+	width:100%;
+	top:100%;
+}
+
+.osX .jspVerticalBar a.jspArrowUp {
+	height: 24px;
+	background: url./osx_vertical_arrow_up.png) no-repeat 0 -30px;
+}
+		
+.osX .jspVerticalBar a.jspArrowUp:hover {
+	background-position: 0 -30px;
+}
+
+.osX .jspVerticalBar a.jspArrowDown {
+	height: 24px;
+	background: url(./osx_vertical_arrow_down.png) no-repeat 0 -42px;
+}
+
+
+/* Horizontal Scroll Bar */
+.osX .jspHorizontalBar .jspTrack {
+	background: url(./osx_horizontal_track.png) repeat-x;
+	border:0px solid yellow;
+}
+
+.osX .jspHorizontalBar .jspDrag {
+	position: relative; 
+	background: url(./osx_horizontal_drag_middle.png) repeat-x;
+	border:0px solid red;
+}
+
+.osX .jspHorizontalBar .jspDragLeft {
+	background: url(./osx_horizontal_drag_left.png) no-repeat;
+	height: 11px;	
+	border:0px solid red;
+}
+
+.osX .jspHorizontalBar .jspDragRight {
+	margin-top:-11px;
+	margin-left:100%;
+	background: url(./osx_horizontal_drag_right.png) no-repeat;
+	height: 15px;
+	width: 14px;
+	border:0px solid red;
+}
+
+.osX .jspHorizontalBar a.jspArrowLeft{
+	height: 24px;
+	background: url(./osx_horizontal_arrow_left.png) no-repeat;
+	border:0px solid red;
+}
+
+.osX .jspHorizontalBar a.jspArrowRight {
+	height: 24px;
+	background: url(./osx_horizontal_arrow_right.png) no-repeat;
+}
+
+/*
+	for home.html,application.html,application_user.html and menu.html
+*/
+.holder {
+	float: left;
+	margin: 10px;
+	z-index: 2;
+}
+
+.holder .scroll-pane {
+	width: 240px;
+	height: 200px;
+	overflow: auto;
+	background: #000000;
+	float: left;
+}
+
+.holder .jspVerticalBar .jspArrowUp,
+.holder .jspVerticalBar .jspArrowDown,
+.holder .jspVerticalBar .jspTrack, 
+.holder .jspVerticalBar .jspDrag
+{
+	background: #000000;
+}
+
+.jspCorner
+{
+	background:  #ffffff;
+	float: left;
+	height: 100%;
+}

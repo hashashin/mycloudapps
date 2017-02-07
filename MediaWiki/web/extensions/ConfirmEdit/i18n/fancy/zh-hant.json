@@ -1,0 +1,17 @@
+{
+    "@metadata": {
+        "authors": [
+            "Horacewai2",
+            "Justincheng12345",
+            "Liuxinyu970226",
+            "Waihorace"
+        ]
+    },
+    "fancycaptcha-addurl": "您的編輯內容中含有本網站以外的連結。\n為防止不當程式大量破壞，請輸入以下的文字（[[Special:Captcha/help|相關資訊]]）：",
+    "fancycaptcha-badlogin": "為幫助wiki防範可自動破解密碼之不當程式，我們請您鍵入下面資訊框中的單詞（[[Special:Captcha/help|相關資訊]]）：",
+    "fancycaptcha-createaccount": "為幫助wiki防範可自動創建賬戶之不當程式，我們請您鍵入下面資訊框中的單詞（[[Special:Captcha/help|相關資訊]]）：",
+    "fancycaptcha-create": "為防止不當程式大量建立頁面，請輸入以下的文字（[[Special:Captcha/help|相關資訊]]）：",
+    "fancycaptcha-edit": "如您想要編輯此頁面，請輸入以下的文字（[[Special:Captcha/help|相關資訊]]）：",
+    "fancycaptcha-sendemail": "為幫助wiki防範垃圾電郵，我們請您鍵入下面資訊框中的單詞（[[Special:Captcha/help|相關資訊]]）：",
+    "fancycaptcha-reload-text": "重新整理"
+}

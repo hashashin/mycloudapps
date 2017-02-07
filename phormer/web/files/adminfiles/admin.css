@@ -1,0 +1,119 @@
+select 		{ visibility: visible; }
+body		{ background: snow; margin:0px; font-family: verdana, sans-serif; }
+#Granny		{ width: 760px; font-size: 11px; }
+a		{ color: #03C; text-decoration: none; }
+a img		{ border: 1px solid #123; }
+img.logo	{ border-width: 0px; position: relative; top: 5px; margin-right: 10px; }
+a:hover		{ color: #FF6600; }
+#headerBar	{ font-family: verdana; font-size: 11px; letter-spacing: 2px; background: #9AB; color: snow; border: 3px double white; margin: 20px 0px 20px; padding: 15px 20px 15px 45px; text-align: left; }
+.topHeadAround	{ font-size: 0.8em; color: #C30; font-style: normal; padding-right: 10px;  }
+.VeryTitle	{ font-family: georgia; letter-spacing: 0px; font-style: italic; font-size: 40px; line-height: 125%; color: black; padding-right: 20px; }
+.shortCuts	{ background: #E8F0F8; text-align: center; border: 1px solid #ABC; border-top-width: 0px; margin: -22px 150px -1em; padding: 0px 0px 1px;}
+.shortCuts img	{ position: relative; top:  1px; margin: 0px 5px; }
+.shortCuts span	{ position: relative; top: -5px; padding: 0px 30px 0px 20px; color: #ABC; }
+
+.back2main	{ margin: 0px 2px; text-align: left; }
+.back2mainR	{ margin: 0px 2px; text-align: left; float: right; padding: 5px 0px; position: relative; top: -5px; }
+.back2mainR a, 
+ .back2main a	{ color: white; width: 100px; border: 1px solid #999; background: #8899B3; padding: 2px 5px; }
+.back2mainR a:hover, 
+ .back2main a:hover { color: snow; background: #6677A3; border: 1px solid #777; }
+
+.part		{ border: 3px double white; background: #ABC;  margin: 30px 0px; position: relative; text-align: left; }
+.part .inside 	{ margin: 15px 15px; padding-top: 8px;  }
+.part .title 	{ letter-spacing: 3px; color: white; background: #789; padding: 3px 15px; border: 1px solid #EEE; position: absolute; top: -13px; left: 10px; }
+
+.method		{ font-family: tahoma; line-height: 175%; margin:5px 5px 0px; background: #DEF; padding: 0px 10px 10px 20px; border: 3px double #ABC; }
+.method .name 	{ position: relative; background: #CDE; top: -13px; left: -10px; color: #111; border: 1px solid #9AB; padding: 3px 10px; }
+.method table	{ color: #123;  }
+.dot		{ margin-right: 5px; color: #F60; font-size: 12px; }
+.lightdot	{ margin-right: 5px; color: #F93; font-size: 12px; }
+
+input 		{ font-family: tahoma; font-size: 11px;}
+.fileInput	{ background: #F6F7F8; padding: 2px 5px; margin-right: 20px; margin-left: 10px;  }
+.frameBody	{ margin: 0px; background: #DEF; font-size: 11px; font-family: verdana; }
+.upload_iframes	{ margin: 6px 0px 4px; }
+.or		{ margin-left: 20px; background: #F0F8FF; padding: 2px 10px; border: 3px double #ABC; }
+input.text	{ background: #F6F9FF; border: 1px solid #789; margin: 0px 10px 0px; padding: 1px 3px;  }
+input.textW	{ background: #F6F9FF; border: 1px solid #789; margin: 0px 10px 0px; padding: 1px 3px; width: 115px; }
+input.textTT	{ font-family: monospace, "courier new"; font-size: 1.1em; background: #F6F9FF; border: 1px solid #789; margin: 0px 10px 0px; padding: 1px 3px; }
+input.textRO	{ background: #F0F3F9; border: 1px solid #9AB; margin: 0px 10px 0px; padding: 1px 3px; color: #666; }
+input.textTTRO	{ font-family: monospace, "courier new"; font-size: 1.1em; background: #F0F3F9; border: 1px solid #9AB; margin: 0px 10px 0px; padding: 1px 3px; color: #666; }
+textarea	{ background: #F6F9FF; border: 1px solid #789; margin: 0px 10px 0px; padding: 1px 3px; }
+.select		{ font-size: 11px; background: #F6F9FF; border: 1px solid #789; }
+input.radio	{ position: relative; top: 2px; }
+.checkbox	{ cursor: pointer; position: relative; top: 2px; margin-left: 8px; }
+input.submit	{ border: 1px solid #333; background: #BDF; }
+input.reset	{ border: 1px solid #333; background: #CDE; }
+
+.note_wrapper 	{ margin-bottom: 11px; padding-bottom: 7px; }
+.note_error	{ margin: 10px 0px; padding: 5px 5px; background: #FED; text-align: center; color: #900; font-size: 1em; border: 3px double #ABC; width: 80%; }
+.note_error a	{ color: #F63; }
+.note_error a:hover	{ color: #C30; }
+.note_content	{ text-align: center; color: #345; font-size: 1.1em; background: #DEF; padding: 5px 10px; font-weight: bold; border: 3px double #ABC; }
+.note_invalid	{ text-align: center; color: #C00; font-size: 1.1em; padding: 5px 10px 0px; font-weight: bold; }
+.note_valid	{ text-align: center; color: #272; font-size: 1.1em; padding: 5px 10px 0px; font-weight: bold; }
+.note_valid a	{ color: #5B5; }
+.note_content a	{ color: #5B5; }
+.note_content a:hover	{ color: #282; }
+.note_valid a:hover	{ color: #282; }
+
+.categdesc	{ color: #333; line-height: 150%; margin: 0px 80px 15px 50px; width: 80%; padding-bottom: 15px; border-bottom: 1px solid #BCD; }
+.categdescnob	{ color: #333; line-height: 150%; margin: 0px 80px 15px 50px; width: 80%; padding-bottom: 15px; }
+.categdescnobr	{ color: #333; line-height: 150%; margin: 0px 80px 15px 50px; width: 80%; padding-bottom: 15px; direction: rtl; text-align: right; }
+.categinfo	{ color: #666; font-size: 0.89em; }
+
+.basisTitle	{ border-top: 1px solid #BBB; font-weight: bold; margin: 10px 0px 5px 0px; position: relative; left: -15px; width: 100%; padding-top: 7px; padding-left: 10px; }
+.basisTitleHR	{ border-top: 1px solid #ABC; margin: 12px auto -10px; position: relative; left: -15px; width: 90%; }
+#AdvPrefCont	{ background: #BCC; width: 75%; padding: 10px 0px 15px; border: 3px double #DEF; }
+#AdvPrefCont a	{ color: #03D; }
+#AdvPrefCont a:hover	{ color: #C30; }
+#AdvPrefCont .basisTitle { border-top: 1px solid #EEE; }
+
+.corners 	{ border: 1px solid black; background:#F3F3F3; margin: 0px; width: 4px; height: 4px; position: absolute; overflow: hidden; z-index: 20; }
+#c_nw	 	{ cursor: nw-resize; top: -3px; left: -3px; }
+#c_ne	 	{ cursor: ne-resize; top: -3px; right: -3px; }
+#c_sw	 	{ cursor: sw-resize; bottom: -3px; left: -3px; }
+#c_se	 	{ cursor: se-resize; bottom: -3px; right: -3px; }
+#thePhoto   	{ text-align: left;  position: relative; border: 1px solid black;  }
+#skeleton	{ border: 1px solid black; position: relative; z-index: 10; cursor: move;  }
+.kines		{ background: #999 url('dotbg.gif'); position: absolute; z-index: 9; }
+
+#thumbPrevCont 	{ border: 1px solid black; position: relative; overflow: hidden; margin: 5px; background: #CDE; }
+#thumbPrev	{ position: relative; }
+
+.footnote	{ line-height: 150%; border-top: 3px double #999; padding-top: 10px; margin: 20px auto 20px; width: 600px; }
+
+.accessViol	{ margin-top: 30px; color: #900; text-align: center; font-weight: bold; font-size: 12px; }
+
+.thumb		{ border: 1px solid black; margin: 10px 0px 5px; }
+td.c		{ text-align: center; border-right: 1px dashed #BCD; }
+.aThumbToEdit	{ text-align: center; line-height: 140%; width: 90px; overflow:hidden; padding: 5px 4px; margin-bottom: 5px; 
+			float: left; position: relative; }
+.thumbNameLine	{ height: 16px; overflow: hidden; text-align: center; }
+.clearer	{ height: 1px; font-size: 1px; clear: both; width: 100%; }
+form		{ display: inline; }
+tt		{ font-size: 12px; }
+img.ind		{ position: absolute; top: 2px; }
+
+a.q		{ cursor: help; }
+a.qp		{ cursor: pointer; }
+.part .title a.q{ color: #DEF;}
+
+.Helping		{ width: 100%; font-size: 11px; }
+.Helping #helpBox 	{ display: none; position: absolute; z-index: 20; top: 500px; width: 305px; }
+.Helping a		{ cursor: pointer; }
+.Helping fieldset 	{ background-color: #F9F9F9; padding: 0px; padding-left: 5px; font-size: 11px; }
+.Helping #helpBoxLegend { font-weight: bold }
+.Helping #helpBoxInner 	{ padding: 5px 10px 10px 5px; line-height: 160%; text-align: justify; }
+.Helping .dotbgful 	{ background-image: url('dotbg.gif'); }
+.Helping .fieldCont 	{ border: 1px solid #F93; padding: 8px 10px 10px; }
+.Helping ul, .Helping ol{ margin: 0px; padding-left: 25px; }
+.Helping .bLink		{ color: #03c; }
+
+.thumb_not_found	{ color: black; width: 75px; height: 75px; border: 1px solid black; }
+
+label 	{ cursor: pointer; }
+
+.AddAddBox		{ float: right; position: relative; color: #333; background: #E0E8EE; padding: 0px 10px 0px; margin: 5px 5px 5px; border: 3px double #AAA;  }
+

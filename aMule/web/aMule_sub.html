@@ -1,0 +1,110 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<title></title>	
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<META HTTP-EQUIV="Pragma" CONTENT="no-cache">
+<META HTTP-EQUIV="Cache-Control" CONTENT="no-cache">
+<META HTTP-EQUIV="Expires" CONTENT="-1">
+<link rel="stylesheet" type="text/css" href="/web/css/style.css">
+<link rel="stylesheet" type="text/css" href="/web/css/button_style.css">
+<link rel="stylesheet" type="text/css" href="/web/css/application.css">
+
+<!-- jQuery lib -->
+<script type="text/javascript" src="./jquery.js?v=1.6.1"></script>
+
+<!-- jScrollPane 
+<link type="text/css" href="./jquery.jscrollpane.css?v=2.0.0" rel="stylesheet" media="all">
+<link type="text/css" href="./jquery.jscrollpane.custom.css?v=2.0.0" rel="stylesheet" media="all">
+<script type="text/javascript" src="./jquery.mousewheel.js?v=2.0.0"></script>
+<script type="text/javascript" src="./jquery.jscrollpane.js?v=2.0.0"></script>
+-->
+<script>
+var sys_time = (new Date()).getTime();
+document.write("<script language=\"javascript\" src=\"\/web\/function\/function.js?id="+sys_time+"\"><\/script>");    
+document.write("<script language=\"javascript\" src=\"\/web\/function\/init.js?id="+sys_time+"\"><\/script>"); 
+document.write("<script language=\"javascript\" src=\"\/web\/function\/web_security.js?id="+sys_time+"\"><\/script>");
+document.write("<script language=\"javascript\" src=\".\/aMule.js?id="+sys_time+"\"><\/script>");	
+</script>
+<script type="text/javascript">
+	
+$(document).ready(function(){
+    get_amule_info();
+    check_button();
+    
+//  jScrollPane_resize("#my_scroll");
+//	$('#my_scroll').jScrollPane({showArrows:true, scrollbarWidth: 15, arrowSize: 16});	
+	
+	$("#But_Launch_IF").click(function(){
+		
+		if($("#But_Launch_IF").hasClass("button_medium"))
+			goto_url();
+	})	
+});
+</script>
+</head> 
+<body>	
+<FORM name="form1" id="form1" action="#" method=POST>
+
+<div class="osX">
+	<div id="my_scroll">  	
+		
+		
+		<table border="0" width="100%" cellspacing="0" cellpadding="0">
+			<tr id="id_aMule_icon">
+				<td>
+					<table border="0" width="100%" cellspacing="0" cellpadding="0">
+						<tr>
+							<td width="16"><div class="arrow_down" id="aMule_icon"></div></td>
+							<td><div class="accordion_title">aMule</div></td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+			<tr><td><hr></td></tr>
+			<tr id="id_aMule_data" class="enable">
+				<td>
+		
+						<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="95%">                                          
+					     <tr>
+							<td colspan="2" height="10">
+								The ShareCenter's P2P functionality is enhanced with the aMule add-on by providing search capability for finding desired P2P files.  aMule also provides a full featured P2P server/client Web UI interface can be launched to work with your ShareCenter P2P functionality. 
+							</td>
+						</tr>	
+					    <tr><td colspan="2" height="10">&nbsp;</td></tr>	
+					    <tr>
+					    	<td colspan="2">
+						    	<table cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="300"  border="0">
+								<tr>
+									<td height="22" width="100">Installation Date</td>
+									<td height="22"><div id="my_date"></td>
+								</tr>
+								<tr>
+									<td height="22" width="100">Version</td>
+									<td height="22"><div id="my_version"></td>
+								</tr>
+								<tr>
+									<td height="22" width="100">Installation Path</td>
+									<td height="22"><div id="my_path"></td>
+								</tr>
+								</table>
+							</td>
+						</tr>
+						<tr><td colspan="2" height="10">&nbsp;</td></tr>	
+					   	<tr id="chamber1" style="display">    
+							<td>
+								<div id="But_Launch_IF" class="button_medium">Launch Interface</div>
+							</td>
+							<td>&nbsp;</td>	
+					 	 </tr>
+						</table>
+				</td>	
+			</tr>
+		</table>			
+		
+	</div><!-- end of my_scroll -->
+</div><!-- end of osX -->
+
+</form>	
+</body>
+</html>

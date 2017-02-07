@@ -1,0 +1,9 @@
+This is a slightly modified version of the SwipeBox script available at  https://github.com/brutaldesign/swipebox.git
+
+The modified sources are available at https://github.com/splitbrain/swipebox/tree/dokuwiki - only the src directory is included here.
+
+css/swipebox.css has been renamed to css/swipebox.less to work with DokuWiki's less compiler inclusion mechanism
+
+unneeded minified files have been removed
+
+a 3rd party patch for jQuery 3 compatibility has been applied

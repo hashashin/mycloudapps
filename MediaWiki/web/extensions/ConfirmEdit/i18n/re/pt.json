@@ -1,0 +1,13 @@
+{
+    "@metadata": {
+        "authors": [
+            "Hamilton Abreu"
+        ]
+    },
+    "recaptcha-edit": "Para proteger-nos de spam, por favor escreva  as duas palavras visíveis abaixo:",
+    "recaptcha-addurl": "A sua edição contém links externos novos. Como prevenção contra sistemas automatizados de inserção de ''spam'', escreva as duas palavras visíveis na caixa abaixo:",
+    "recaptcha-badlogin": "Para proteger-nos de robots que tentam adivinhar senhas, por favor escreva  as duas palavras visíveis abaixo:",
+    "recaptcha-createaccount": "Para proteger-nos de criação automática de contas, por favor escreva  as duas palavras visíveis abaixo:",
+    "recaptcha-createaccount-fail": "A resposta ao reCAPTCHA é errada.",
+    "recaptcha-create": "Para proteger-nos da criação automática de páginas, por favor escreva  as duas palavras visíveis abaixo:"
+}

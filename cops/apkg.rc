@@ -1,0 +1,17 @@
+Package:          cops
+Packager:         hashashin
+Email:            mecagoenbush@gmail.com
+Homepage:         http://mycloud.barracus.tk
+Description:      Calibre OPDS (and HTML) PHP Server
+Icon:             cops.png
+AddonShowName:    cops
+AddonIndexPage:   index.php
+AddonUsedPort:    
+InstDepend:
+InstConflict:
+StartDepend:
+StartConflict:
+Version:          1.0.1
+MinFWVer:
+MaxFWVer:
+IndividualFlag:

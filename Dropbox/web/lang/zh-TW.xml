@@ -1,0 +1,61 @@
+﻿<text>
+<_common>
+	<error len="999">錯誤</error>
+	<new len="10">新增</new>
+	<set>設定...</set>
+	<loading len="999">載入中...</loading>
+	<updating>更新中</updating>
+	<minutes>分鐘</minutes>
+	<hour len="999">1 小時</hour>
+</_common>
+<_button>
+	<Ok len="11">確定</Ok>
+	<save>儲存</save>
+	<browse len="10">瀏覽</browse>
+	<Cancel len="999">取消</Cancel>
+</_button>
+<_network_access>
+	<create_folder_name len="999">建立新資料夾</create_folder_name>
+</_network_access>
+<_dropbox>
+	<title>Dropbox</title>
+	<dropbox_enable>Dropbox</dropbox_enable>
+	<sing_in_account>帳戶</sing_in_account>
+	<sing_in>登入</sing_in>
+	<sync_folder>本機同步資料夾</sync_folder>
+	<sync_interval>同步間隔</sync_interval>
+	<sync_now>立即同步</sync_now>
+	<sync_status>狀態</sync_status>
+	<hourly>每小時</hourly>
+	<title2>Dropbox 設定</title2>
+	<used_space>已用空間</used_space>
+	<last>上次更新</last>
+	<sing_out>取消連結帳戶</sing_out>
+	<black_list>Dropbox 同步資料夾</black_list>
+	<add>選擇性同步</add>
+	<s1><![CDATA[最新]]></s1>
+	<s2><![CDATA[正在連線至 Dropbox]]></s2>
+	<s3><![CDATA[正在同步]]></s3>
+	<s4><![CDATA[同步已暫停]]></s4>
+	<s5><![CDATA[正在下載 %s]]></s5>
+	<s6><![CDATA[正在上傳 %s]]></s6>
+	<s7><![CDATA[正在 %s 上建立本機目錄]]></s7>
+	<s8><![CDATA[正在 %s 上建立 Dropbox 目錄]]></s8>
+	<s9><![CDATA[正在移除 %s]]></s9>
+	<s10><![CDATA[正在移動 %s1 至 %s2]]></s10>
+	<s11><![CDATA[帳戶驗證失敗]]></s11>
+	<s12><![CDATA[無法連線至 Dropbox。請重新啟動您的系統，再試一次。如果問題仍然存在，請嘗試重新安裝 Dropbox 應用程式。]]></s12>
+	<s13><![CDATA[無法同步檔案至 Dropbox。請檢查系統和 Dropbox 設定，或重新啟動系統。]]></s13>
+	<s14><![CDATA[無法從 Dropbox 下載檔案。請檢查系統和 Dropbox 設定，或重新啟動系統。%s]]></s14>
+	<s15><![CDATA[無法上傳檔案至 Dropbox。請檢查系統和 Dropbox 設定，或重新啟動系統。%s]]></s15>
+	<s16><![CDATA[無法從 Dropbox 下載檔案。請檢查系統和 Dropbox 設定，或重新啟動系統。%s]]></s16>
+	<s17><![CDATA[無法上傳檔案至 Dropbox。請檢查系統和 Dropbox 設定，或重新啟動系統。%s]]></s17>
+	<s18><![CDATA[無法同步檔案至 Dropbox。請檢查系統和 Dropbox 設定，或重新啟動系統。]]></s18>
+	<s19><![CDATA[Dropbox 空間不足。無法上傳 %s]]></s19>
+	<s20><![CDATA[系統空間不足。無法下載 %s]]></s20>
+	<msg1><![CDATA[如此會停止與 Dropbox 同步檔案，但不會刪除此裝置上 Dropbox 資料夾中的檔案。]]></msg1>
+</_dropbox>
+<_backup>
+	<desc1 len="999">選取路徑</desc1>
+</_backup>
+</text>

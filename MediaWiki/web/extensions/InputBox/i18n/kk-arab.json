@@ -1,0 +1,10 @@
+{
+    "@metadata": {
+        "authors": []
+    },
+    "inputbox-error-no-type": "جاسالاتىن ەنگٸزۋ جولاعىنىڭ تٷرٸن كەلتٸرمەپسٸز.",
+    "inputbox-error-bad-type": "ەنگٸزۋ جولاقتىڭ «$1» تٷرٸ تانىلمادى. تەك «create», «comment», «search» نە «search2» دەگەن تٷرلەردٸ كەلتٸرٸڭٸز.",
+    "tryexact": "دٵل سٵيكەسٸن سىناپ كٶرٸڭٸز",
+    "searchfulltext": "تولىق مٵتٸنٸمەن ٸزدەۋ",
+    "createarticle": "بەتتٸ باستاۋ"
+}

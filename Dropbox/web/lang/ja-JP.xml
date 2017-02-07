@@ -1,0 +1,61 @@
+﻿<text>
+<_common>
+	<error len="999">エラー</error>
+	<new len="10">新規</new>
+	<set>設定...</set>
+	<loading len="999">読み込んでいます...</loading>
+	<updating>更新中</updating>
+	<minutes>分</minutes>
+	<hour len="999">1 時間</hour>
+</_common>
+<_button>
+	<Ok len="11">OK</Ok>
+	<save>保存</save>
+	<browse len="10">参照</browse>
+	<Cancel len="999">キャンセル</Cancel>
+</_button>
+<_network_access>
+	<create_folder_name len="999">新規フォルダの作成</create_folder_name>
+</_network_access>
+<_dropbox>
+	<title>Dropbox</title>
+	<dropbox_enable>Dropbox</dropbox_enable>
+	<sing_in_account>アカウント</sing_in_account>
+	<sing_in>ログイン</sing_in>
+	<sync_folder>ローカルの同期フォルダ</sync_folder>
+	<sync_interval>同期間隔</sync_interval>
+	<sync_now>すぐに同期</sync_now>
+	<sync_status>ステータス</sync_status>
+	<hourly>毎時</hourly>
+	<title2>Dropbox 設定</title2>
+	<used_space>使用済み領域</used_space>
+	<last>最終更新日時</last>
+	<sing_out>アカウントのリンクを解除する</sing_out>
+	<black_list>Dropbox 同期フォルダ</black_list>
+	<add>選択同期</add>
+	<s1><![CDATA[最新]]></s1>
+	<s2><![CDATA[Dropbox に接続中]]></s2>
+	<s3><![CDATA[同期中]]></s3>
+	<s4><![CDATA[同期が一時停止しました]]></s4>
+	<s5><![CDATA[%s のダウンロード中]]></s5>
+	<s6><![CDATA[%s のアップロード中]]></s6>
+	<s7><![CDATA[%s のローカル ディレクトリの作成中]]></s7>
+	<s8><![CDATA[%s の Dropbox ディレクトリの作成中]]></s8>
+	<s9><![CDATA[%s の削除中]]></s9>
+	<s10><![CDATA[%s1 から %s2 に移動中]]></s10>
+	<s11><![CDATA[アカウント認証に失敗しました]]></s11>
+	<s12><![CDATA[Dropbox に接続できませんシステムを再起動して、再試行してください。問題が解決しない場合、Dropbox アプリを再インストールしてください。]]></s12>
+	<s13><![CDATA[Dropbox とファイルを同期できません。システムと Dropbox 設定を確認するか、システムを再起動してください。]]></s13>
+	<s14><![CDATA[Dropbox からファイルをダウンロードできません。システムと Dropbox 設定を確認するか、システムを再起動してください。%s]]></s14>
+	<s15><![CDATA[Dropbox にファイルをアップロードできません。システムと Dropbox 設定を確認するか、システムを再起動してください。%s]]></s15>
+	<s16><![CDATA[Dropbox からファイルをダウンロードできません。システムと Dropbox 設定を確認するか、システムを再起動してください。%s]]></s16>
+	<s17><![CDATA[Dropbox にファイルをアップロードできません。システムと Dropbox 設定を確認するか、システムを再起動してください。%s]]></s17>
+	<s18><![CDATA[Dropbox とファイルを同期できません。システムと Dropbox 設定を確認するか、システムを再起動してください。]]></s18>
+	<s19><![CDATA[Dropbox の空き領域がありません。%s をアップロードできませんでした]]></s19>
+	<s20><![CDATA[システムの空き領域がありません。%s をダウンロードできませんでした]]></s20>
+	<msg1><![CDATA[Dropbox とのファイルの同期は停止しますが、このデバイスの Dropbox フォルダのファイルは削除されません。]]></msg1>
+</_dropbox>
+<_backup>
+	<desc1 len="999">パスの選択</desc1>
+</_backup>
+</text>

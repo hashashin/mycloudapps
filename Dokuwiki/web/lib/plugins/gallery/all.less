@@ -1,0 +1,30 @@
+/* load swipe box */
+@import "swipebox/css/swipebox.less";
+
+/* fix image paths */
+#swipebox-slider .slide-loading {
+    background: url(swipebox/img/loader.gif) no-repeat center center;
+}
+
+#swipebox-prev,
+#swipebox-next,
+#swipebox-close {
+    background-image: url(swipebox/img/icons.png);
+}
+
+/* style overrides */
+#swipebox-overlay {
+    background: rgba(0, 0, 0, 0.95);
+}
+
+#swipebox-top-bar {
+    div.title {
+        font-size: 15px;
+        line-height: 1.5em;
+    }
+    div.caption {
+        font-size: 13px;
+        line-height: 1.5em;
+    }
+    padding: 10px;
+}

@@ -1,0 +1,61 @@
+﻿<text>
+<_common>
+	<error len="999">Fel</error>
+	<new len="10">Nytt</new>
+	<set>Ställer in...</set>
+	<loading len="999">Öppnar...</loading>
+	<updating>Uppdaterar</updating>
+	<minutes>minuter</minutes>
+	<hour len="999">1 timme</hour>
+</_common>
+<_button>
+	<Ok len="11">OK</Ok>
+	<save>Spara</save>
+	<browse len="10">Bläddra</browse>
+	<Cancel len="999">Avbryt</Cancel>
+</_button>
+<_network_access>
+	<create_folder_name len="999">Skapa en ny mapp</create_folder_name>
+</_network_access>
+<_dropbox>
+	<title>Dropbox</title>
+	<dropbox_enable>Dropbox</dropbox_enable>
+	<sing_in_account>Konto</sing_in_account>
+	<sing_in>Logga in</sing_in>
+	<sync_folder>Lokal synkroniseringsmapp</sync_folder>
+	<sync_interval>Synkroniseringsintervall</sync_interval>
+	<sync_now>Synkronisera nu</sync_now>
+	<sync_status>Status</sync_status>
+	<hourly>Varje timme</hourly>
+	<title2>Inställningar för Dropbox</title2>
+	<used_space>Använt utrymme</used_space>
+	<last>Senaste uppdatering</last>
+	<sing_out>Ta bort länk till konto</sing_out>
+	<black_list>Synkroniseringsmappar för Dropbox</black_list>
+	<add>Selektiv synkronisering</add>
+	<s1><![CDATA[Uppdaterad]]></s1>
+	<s2><![CDATA[Ansluter till Dropbox]]></s2>
+	<s3><![CDATA[Synkroniserar]]></s3>
+	<s4><![CDATA[Synkroniseringen har pausats]]></s4>
+	<s5><![CDATA[Hämtar %s]]></s5>
+	<s6><![CDATA[Överför %s]]></s6>
+	<s7><![CDATA[Skapar lokal katalog på %s]]></s7>
+	<s8><![CDATA[Skapar Dropbox-katalog på %s]]></s8>
+	<s9><![CDATA[Tar bort %s]]></s9>
+	<s10><![CDATA[Flyttar %s1 till %s2]]></s10>
+	<s11><![CDATA[Autentiseringen av kontot misslyckades]]></s11>
+	<s12><![CDATA[Det går inte att ansluta till Dropbox. Starta om enheten och försök igen. Om problemet inte försvinner försöker du installera om Dropbox-appen.]]></s12>
+	<s13><![CDATA[Det går inte att synkronisera filer till Dropbox. Kontrollera din enhet och Dropbox-inställningarna eller starta om enheten.]]></s13>
+	<s14><![CDATA[Det går inte att ladda ner filer från Dropbox. Kontrollera din enhet och Dropbox-inställningarna eller starta om enheten. %s]]></s14>
+	<s15><![CDATA[Det går inte att överföra filer till Dropbox. Kontrollera din enhet och Dropbox-inställningarna eller starta om enheten. %s]]></s15>
+	<s16><![CDATA[Det går inte att ladda ner filer från Dropbox. Kontrollera din enhet och Dropbox-inställningarna eller starta om enheten. %s]]></s16>
+	<s17><![CDATA[Det går inte att överföra filer till Dropbox. Kontrollera din enhet och Dropbox-inställningarna eller starta om enheten. %s]]></s17>
+	<s18><![CDATA[Det går inte att synkronisera filer till Dropbox. Kontrollera din enhet och Dropbox-inställningarna eller starta om enheten.]]></s18>
+	<s19><![CDATA[Dropbox har slut på utrymme. Det gick inte att överföra %s]]></s19>
+	<s20><![CDATA[Enheten har slut på utrymme. Det gick inte att hämta %s]]></s20>
+	<msg1><![CDATA[Det här kommer att stoppa synkroniseringen av filerna med Dropbox, men filerna i Dropbox-mappen på enheten tas inte bort.]]></msg1>
+</_dropbox>
+<_backup>
+	<desc1 len="999">Välj sökväg</desc1>
+</_backup>
+</text>

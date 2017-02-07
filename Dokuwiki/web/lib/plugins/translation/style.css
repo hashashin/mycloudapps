@@ -1,0 +1,97 @@
+.dokuwiki div.plugin_translation {
+    float: right;
+    font-size: 95%;
+    padding-right: 0.1em;
+    margin : 0.0em 0 0.3em 0;
+    text-align: right;
+}
+
+/* List */
+
+.dokuwiki div.plugin_translation ul {
+    padding: 0;
+    margin: 0;
+}
+.dokuwiki div.plugin_translation ul li {
+    float: left;
+    list-style-type: none;
+    padding: 0;
+    margin: 0.2em 0 0 0;
+}
+.dokuwiki div.plugin_translation ul li img {
+    margin: -0.1em 0.2em;
+}
+
+.dokuwiki div.plugin_translation ul li a.wikilink1:link,
+.dokuwiki div.plugin_translation ul li a.wikilink1:hover,
+.dokuwiki div.plugin_translation ul li a.wikilink1:active,
+.dokuwiki div.plugin_translation ul li a.wikilink1:visited {
+    background-color: #000080;
+    color: #fff;
+    text-decoration:none;
+    padding: 0 0.2em;
+    margin: 0.1em 0.2em;
+    border: none !important;
+}
+
+.dokuwiki div.plugin_translation ul li a.wikilink2:link,
+.dokuwiki div.plugin_translation ul li a.wikilink2:hover,
+.dokuwiki div.plugin_translation ul li a.wikilink2:active,
+.dokuwiki div.plugin_translation ul li a.wikilink2:visited {
+    background-color: #808080;
+    color: #fff;
+    text-decoration:none;
+    padding: 0 0.2em;
+    margin: 0.1em 0.2em;
+    border: none !important;
+}
+
+
+/* Dropdown */
+
+.dokuwiki div.plugin_translation select,
+.dokuwiki div.plugin_translation input {
+    border: none;
+    background-color: #ccc;
+}
+
+.dokuwiki div.plugin_translation option.flag {
+    padding-left: 18px;
+    background-repeat: no-repeat;
+    background-position: left center;
+}
+
+.dokuwiki div.plugin_translation select.wikilink1,
+.dokuwiki div.plugin_translation option.wikilink1 {
+    color: #000080;
+    text-align: center;
+}
+
+.dokuwiki div.plugin_translation select.wikilink2,
+.dokuwiki div.plugin_translation option.wikilink2 {
+    color: #808080;
+    text-align: center;
+}
+
+/* flags for non-existing pages */
+.dokuwiki div.plugin_translation img.wikilink2,
+.dokuwiki div.plugin_translation .wikilink2 img {
+    opacity: 0.5;
+}
+
+table#outdated_translations td {
+    padding-left: 3px;
+    padding-right: 3px;
+}
+
+table#outdated_translations td.missing {
+    background-color: #ff6666;
+}
+
+table#outdated_translations td.outdated {
+    background-color: #ffff66;
+}
+
+table#outdated_translations td.current {
+    background-color: #00CC00;
+}

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<Xmldata>
+	<pgname><![CDATA[My PhotoGallery]]></pgname>
+	<pgdesc><![CDATA[... contains my photos!]]></pgdesc>
+	<auname><![CDATA[Me]]></auname>
+	<auemail><![CDATA[myemail@mydomain.com]]></auemail>
+	<mode><![CDATA[all-recent]]></mode>
+	<theme><![CDATA[white]]></theme>
+	<link href="" title="">My Links</link>
+	<link href="." title="">My PhotoGallery</link>
+	<link href="" title="">Other Links</link>
+	<link href="http://p.horm.org" title="Another Phormation">Phorm</link>
+	<lastcmntseen><![CDATA[0]]></lastcmntseen>
+	<showemail><![CDATA[link]]></showemail>
+	<extra><![CDATA[]]></extra>
+	<opac><![CDATA[60]]></opac>
+	<jpegq><![CDATA[80]]></jpegq>
+	<bannedip><![CDATA[]]></bannedip>
+	<wvw><![CDATA[12345]]></wvw>
+	<copyright><![CDATA[&lt;a href=&quot;.&quot;&gt;This PhotoGallery&lt;/a&gt; is powered by $Phormer.
+Unless stated otherwise, all photos are taken, edited, and copyright by $email.
+Copying or otherwise using these photos requires the permission of author.]]></copyright>
+</Xmldata>

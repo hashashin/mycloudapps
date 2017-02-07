@@ -1,0 +1,18 @@
+Package:          phpweather
+Packager:         hashashin
+Email:            mecagoenbush@gmail.com
+Homepage:         https://sourceforge.net/projects/phpweather/
+Description:      Show the current weather
+Icon:             phpweather.png
+AddonShowName:    phpweather
+AddonIndexPage:	  index.html
+AddonUsedPort:    
+InstDepend:
+InstConflict:
+StartDepend:
+StartConflict:
+CenterType:       1
+Version:	  0.1
+MinFWVer:
+MaxFWVer:
+IndividualFlag:   0

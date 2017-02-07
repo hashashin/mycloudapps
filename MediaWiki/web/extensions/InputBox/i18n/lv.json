@@ -1,0 +1,15 @@
+{
+    "@metadata": {
+        "authors": [
+            "Dark Eagle",
+            "Xil",
+            "Yyy"
+        ]
+    },
+    "inputbox-desc": "Atļaut iekļaut iepriekš noteiktās HTML formas",
+    "inputbox-error-no-type": "Tu neesi norādījis ievades lauka tipu",
+    "inputbox-error-bad-type": "Ievades lauka tips \"$1\" nav atpazīts.\nLūdzu norādi \"create\", \"comment\", \"search\", \"search2\" vai \"fulltext\".",
+    "tryexact": "Meklēt precīzi",
+    "searchfulltext": "Meklēt visu tekstu",
+    "createarticle": "Izveidot lapu"
+}

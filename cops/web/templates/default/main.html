@@ -1,0 +1,50 @@
+<section>
+{{? it.page == 13 || it.page == 16}}
+    {{? it.page == 13}}
+        {{#def.bookdetail}}
+    {{??}}
+        {{= it.fullhtml}}
+    {{?}}
+{{??}}
+{{~it.entries:entry:i}}
+    {{? it.containsBook == 0}}
+    <article>
+        <div class="frontpage">
+            {{? entry.navlink != "#"}}<a href="{{=entry.navlink}}" {{=it.c.config.kindleHack}}>{{?}}
+                <h2>{{=htmlspecialchars (entry.title)}}</h2>
+                <h4>{{=entry.content}}</h4> 
+            {{? entry.navlink != "#"}}</a>{{?}}
+        </div>
+    </article>
+    {{??}}
+    <article class="books">
+            <span class="cover">
+            {{? entry.book.hasCover == 1}}
+                <a class="fancycover" href="{{=str_format (it.c.url.coverUrl, entry.book.id, it.databaseId)}}" {{=it.c.config.kindleHack}}>
+                    <img src="{{=str_format (it.c.url.thumbnailUrl, entry.book.id, it.databaseId)}}" alt="{{=it.c.i18n.coverAlt}}" />
+                </a>
+            {{?}}
+            </span>
+            <h2 class="download">
+                {{~entry.book.preferedData:data:j}}
+                 <a href="{{=data.url}}" {{=it.c.config.kindleHack}}>{{=data.name}}</a><br />
+                {{~}}
+            </h2>
+            <a class="fancydetail" href="{{=str_format (it.c.url.detailUrl, entry.book.id, it.databaseId)}}" {{=it.c.config.kindleHack}}>
+            <div class="fullclickpopup">
+                <h2><span class="st">{{=htmlspecialchars (entry.title)}}</span>
+                {{? entry.book.pubDate != ""}}<span class="sp">({{=entry.book.pubDate}})</span>{{?}}
+                {{? entry.book.rating != ""}}<span class="sr">{{=entry.book.rating}}</span>{{?}}
+                </h2>
+                <h4>{{=it.c.i18n.authorsTitle}} : </h4><span class="sa">{{=htmlspecialchars (entry.book.authorsName)}}</span><br />
+                {{? entry.book.tagsName != ""}}<h4>{{=it.c.i18n.tagsTitle}} : </h4><span class="se">{{=htmlspecialchars (entry.book.tagsName)}}</span><br />{{?}}
+                {{? entry.book.seriesName != ""}}<h4>{{=it.c.i18n.seriesTitle}} : </h4><span class="ss">{{=htmlspecialchars (entry.book.seriesName)}} ({{=entry.book.seriesIndex}})</span><br />{{?}}
+                {{~entry.book.customcolumns_list :column:column_index}}
+                <h4>{{=column.customColumnType.columnTitle}} : </h4><span class="se">{{=column.htmlvalue}}</span><br />
+                {{~}}
+            </div></a>
+        </article>
+    {{?}}
+{{~}}
+{{?}}
+</section>

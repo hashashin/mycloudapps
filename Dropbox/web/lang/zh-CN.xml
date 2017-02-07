@@ -1,0 +1,61 @@
+﻿<text>
+<_common>
+	<error len="999">错误</error>
+	<new len="10">新建</new>
+	<set>设置...</set>
+	<loading len="999">正在载入...</loading>
+	<updating>正在更新</updating>
+	<minutes>分钟</minutes>
+	<hour len="999">1 小时</hour>
+</_common>
+<_button>
+	<Ok len="11">确定</Ok>
+	<save>保存</save>
+	<browse len="10">浏览</browse>
+	<Cancel len="999">取消</Cancel>
+</_button>
+<_network_access>
+	<create_folder_name len="999">创建新文件夹</create_folder_name>
+</_network_access>
+<_dropbox>
+	<title>Dropbox</title>
+	<dropbox_enable>Dropbox</dropbox_enable>
+	<sing_in_account>账户</sing_in_account>
+	<sing_in>登录</sing_in>
+	<sync_folder>本地同步文件夹</sync_folder>
+	<sync_interval>同步间隔</sync_interval>
+	<sync_now>立即同步</sync_now>
+	<sync_status>状态</sync_status>
+	<hourly>每小时</hourly>
+	<title2>Dropbox 设置</title2>
+	<used_space>已用空间</used_space>
+	<last>上一次更新</last>
+	<sing_out>断开帐户</sing_out>
+	<black_list>Dropbox 同步文件夹</black_list>
+	<add>选择性同步</add>
+	<s1><![CDATA[最新]]></s1>
+	<s2><![CDATA[正在连接到 Dropbox]]></s2>
+	<s3><![CDATA[正在同步]]></s3>
+	<s4><![CDATA[同步暂停]]></s4>
+	<s5><![CDATA[正在下载 %s]]></s5>
+	<s6><![CDATA[正在上载 %s]]></s6>
+	<s7><![CDATA[正在 %s 上创建本地目录]]></s7>
+	<s8><![CDATA[正在 %s 上创建 Dropbox 目录]]></s8>
+	<s9><![CDATA[正在移除 %s]]></s9>
+	<s10><![CDATA[正在将 %s1 移至 %s2]]></s10>
+	<s11><![CDATA[帐户身份验证失败]]></s11>
+	<s12><![CDATA[无法连接到 Dropbox。请重新启动系统，然后重试。如果问题仍然存在，请尝试重新安装 Dropbox 应用。]]></s12>
+	<s13><![CDATA[无法将文件同步到 Dropbox。请检查系统设置和 Dropbox 设置，或者重新启动系统。]]></s13>
+	<s14><![CDATA[无法从 Dropbox 下载文件。请检查系统设置和 Dropbox 设置，或者重新启动系统。%s]]></s14>
+	<s15><![CDATA[无法将文件上传到 Dropbox。请检查系统设置和 Dropbox 设置，或者重新启动系统。%s]]></s15>
+	<s16><![CDATA[无法从 Dropbox 下载文件。请检查系统设置和 Dropbox 设置，或者重新启动系统。%s]]></s16>
+	<s17><![CDATA[无法将文件上传到 Dropbox。请检查系统设置和 Dropbox 设置，或者重新启动系统。%s]]></s17>
+	<s18><![CDATA[无法将文件同步到 Dropbox。请检查系统设置和 Dropbox 设置，或者重新启动系统。]]></s18>
+	<s19><![CDATA[Dropbox 空间不足。上载 %s 失败]]></s19>
+	<s20><![CDATA[系统空间不足。下载 %s 失败]]></s20>
+	<msg1><![CDATA[这将停止文件与 Dropbox 同步，但是不会删除此设备上 Dropbox 文件夹中的文件。]]></msg1>
+</_dropbox>
+<_backup>
+	<desc1 len="999">选择路径</desc1>
+</_backup>
+</text>

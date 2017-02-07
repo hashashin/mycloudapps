@@ -1,0 +1,2 @@
+.jqueryFileTree LI.directory { background: url(../images/directory.png) left top no-repeat; display:inline-block;}
+.jqueryFileTree LI.add { background: url(../images/add.png) left top no-repeat; display:inline-block; }

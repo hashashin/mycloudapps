@@ -1,0 +1,61 @@
+﻿<text>
+<_common>
+	<error len="999">Fehler</error>
+	<new len="10">Neu</new>
+	<set>Einstellungen ...</set>
+	<loading len="999">Wird geladen ...</loading>
+	<updating>Wird aktualisiert</updating>
+	<minutes>Minuten</minutes>
+	<hour len="999">1 Stunde</hour>
+</_common>
+<_button>
+	<Ok len="11">OK</Ok>
+	<save>Speichern</save>
+	<browse len="10">Durchsuchen</browse>
+	<Cancel len="999">Abbrechen</Cancel>
+</_button>
+<_network_access>
+	<create_folder_name len="999">Neuen Ordner erstellen</create_folder_name>
+</_network_access>
+<_dropbox>
+	<title>Dropbox</title>
+	<dropbox_enable>Dropbox</dropbox_enable>
+	<sing_in_account>Konto</sing_in_account>
+	<sing_in>Registrieren</sing_in>
+	<sync_folder>Lokaler Synchronisierungsordner</sync_folder>
+	<sync_interval>Synchronisierungsintervall</sync_interval>
+	<sync_now>Jetzt synchronisieren</sync_now>
+	<sync_status>Status</sync_status>
+	<hourly>Stündlich</hourly>
+	<title2>Dropbox-Einstellungen</title2>
+	<used_space>Verwendeter Speicherplatz</used_space>
+	<last>Letzte Aktualisierung:</last>
+	<sing_out>Konto abtrennen</sing_out>
+	<black_list>Dropbox-Synchronisierungsordner</black_list>
+	<add>Selektive Synchronisierung</add>
+	<s1><![CDATA[Auf dem neuesten Stand]]></s1>
+	<s2><![CDATA[Verbindung zur Dropbox wird hergestellt]]></s2>
+	<s3><![CDATA[Wird synchronisiert]]></s3>
+	<s4><![CDATA[Synchronisierung angehalten]]></s4>
+	<s5><![CDATA[%s wird heruntergeladen]]></s5>
+	<s6><![CDATA[%s wird hochgeladen]]></s6>
+	<s7><![CDATA[Lokales Verzeichnis auf %s wird erstellt]]></s7>
+	<s8><![CDATA[Dropbox-Verzeichnis auf %s wird erstellt]]></s8>
+	<s9><![CDATA[%s wird entfernt]]></s9>
+	<s10><![CDATA[%s1 wird zu %s2 verschoben]]></s10>
+	<s11><![CDATA[Fehler bei der Kontoauthentifizierung]]></s11>
+	<s12><![CDATA[Die Verbindung zur Dropbox konnte nicht hergestellt werden. Starten Sie das System neu und versuchen Sie es erneut. Wenn das Problem weiterhin auftritt, installieren Sie die Dropbox-App neu.]]></s12>
+	<s13><![CDATA[Dateien können nicht mit Dropbox synchronisiert werden. Überprüfen Sie die Systemeinstellungen und Dropbox-Einstellungen oder starten Sie das System neu.]]></s13>
+	<s14><![CDATA[Dateien können nicht von Dropbox heruntergeladen werden. Überprüfen Sie die Systemeinstellungen und Dropbox-Einstellungen oder starten Sie das System neu. %s]]></s14>
+	<s15><![CDATA[Dateien können nicht zu Dropbox hochgeladen werden. Überprüfen Sie die Systemeinstellungen und Dropbox-Einstellungen oder starten Sie das System neu. %s]]></s15>
+	<s16><![CDATA[Dateien können nicht von Dropbox heruntergeladen werden. Überprüfen Sie die Systemeinstellungen und Dropbox-Einstellungen oder starten Sie das System neu. %s]]></s16>
+	<s17><![CDATA[Dateien können nicht zu Dropbox hochgeladen werden. Überprüfen Sie die Systemeinstellungen und Dropbox-Einstellungen oder starten Sie das System neu. %s]]></s17>
+	<s18><![CDATA[Dateien können nicht mit Dropbox synchronisiert werden. Überprüfen Sie die Systemeinstellungen und Dropbox-Einstellungen oder starten Sie das System neu.]]></s18>
+	<s19><![CDATA[Auf der Dropbox ist nicht genügend Speicherplatz vorhanden. Hochladen von %s fehlgeschlagen.]]></s19>
+	<s20><![CDATA[Im System ist nicht genügend Speicherplatz vorhanden. Herunterladen von %s fehlgeschlagen.]]></s20>
+	<msg1><![CDATA[Damit wird die Synchronisierung der Dateien auf der Dropbox beendet. Die Dateien im Dropbox-Ordner auf diesem Gerät werden jedoch nicht gelöscht.]]></msg1>
+</_dropbox>
+<_backup>
+	<desc1 len="999">Pfad auswählen</desc1>
+</_backup>
+</text>

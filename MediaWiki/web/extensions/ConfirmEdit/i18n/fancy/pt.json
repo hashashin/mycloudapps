@@ -1,0 +1,17 @@
+{
+    "@metadata": {
+        "authors": [
+            "Hamilton Abreu",
+            "Malafaya",
+            "SandroHc"
+        ]
+    },
+    "fancycaptcha-desc": "Gerador sofisticado de captcha para o Confirm Edit",
+    "fancycaptcha-addurl": "A sua edição introduziu links externos novos.\nPara ajudar a prevenir o ''spam'' automatizado, por favor, introduza na caixa abaixo as palavras apresentadas ([[Special:Captcha/help|mais informações]]):",
+    "fancycaptcha-badlogin": "Para ajudar a prevenir mecanismos automatizados de descoberta de palavras-chave, por favor, introduza na caixa abaixo as palavras apresentadas ([[Special:Captcha/help|mais informações]]):",
+    "fancycaptcha-createaccount": "Para ajudar a prevenir a criação de contas automatizada, por favor, introduza na caixa abaixo as palavras apresentadas ([[Special:Captcha/help|mais informações]]):",
+    "fancycaptcha-create": "Para criar a página, por favor, introduza na caixa abaixo as palavras apresentadas ([[Special:Captcha/help|mais informações]]):",
+    "fancycaptcha-edit": "Para editar esta página, por favor, introduza na caixa abaixo as palavras apresentadas ([[Special:Captcha/help|mais informações]]):",
+    "fancycaptcha-sendemail": "Para ajudar a prevenir o ''spam'' automatizado, por favor, introduza na caixa as palavras que aparecem abaixo ([[Special:Captcha/help|mais informações]]):",
+    "fancycaptcha-reload-text": "Atualizar"
+}

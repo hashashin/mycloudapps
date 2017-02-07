@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<en-US>A free peer-to-peer file (P2P) sharing application that is portable over multiple platforms. aMule works with the eDonkey network and other selected networks.</en-US>
+	<cs-CZ>Bezplatná aplikace pro peer-to-peer (P2P) sdílení souborů, která je přenositelná na více platforem. aMule funguje se sítí eDonkey a s dalšími vybranými sítěmi.</cs-CZ>
+	<de-DE>Eine kostenlose P2P (Peer-to-Peer)-Freigabeanwendung, die auf mehrere Plattformen portierbar ist. aMule arbeitet mit dem eDonkey-Netzwerk und anderen ausgewählten Netzwerken zusammen.</de-DE>
+	<es-ES>Aplicación de uso compartido de archivos punto a punto (P2P) gratuita que puede utilizarse en varias plataformas. aMule funciona con la red de eDonkey y otras redes.</es-ES>
+	<fr-FR>application gratuite de partage pair à pair (P2P) fonctionnant sur plusieurs plateformes. aMule fonctionne sur le réseau eDonkey et sur d'autres réseaux sélectionnés.</fr-FR>
+	<hu-HU>Ingyenes peer-to-peer (P2P) fájlmegosztó alkalmazás, amely több platformon is használható. Az aMule az eDonkey hálózattal és egyéb hálózatokkal működik együtt.</hu-HU>
+	<it-IT>applicazione gratuita di condivisione file peer-to-peer (P2P) di terze parti supportata in più piattaforme. aMule funziona con la rete eDonkey e con altre reti selezionate.</it-IT>
+	<ja-JP>無料のピアツーピア ファイル (P2P) 共有アプリケーションで、複数のプラットフォーム上で移植可能です。aMule は eDonkey ネットワークとその他の選択したネットワークで動作します。</ja-JP>
+	<ko-KR>여러 플랫폼 간 휴대성이 있는 무료 P2P 파일 공유 응용프로그램. aMule은 eDonkey 네트워크를 비롯하여 선택된 다른 네트워크와 호환됩니다.</ko-KR>
+	<no-NO>En gratisapp for node-til-node-fildeling (P2P). aMule kan brukes på flere plattformer, og fungerer sammen med eDonkey-nettverket og andre utvalgte nettverk.</no-NO>
+	<nl-NL>Een gratis P2P-deeltoepassing (peer-to-peer) die over meerdere platforms kan worden geporteerd. aMule werkt met het eDonkey-netwerk en andere geselecteerde netwerken.</nl-NL>
+	<pl-PL>Bezpłatna, działająca na różnych platformach aplikacja do udostępniania plików przy użyciu połączenia P2P (peer-to-peer). Program aMule obsługuje sieć eDonkey i inne wybrane sieci.</pl-PL>
+	<pt-BR>Um aplicativo de compartilhamento de arquivos peer-to-peer (P2P) gratuito que pode ser usado em várias plataformas. O aMule trabalha com a rede eDonkey e outras redes selecionadas.</pt-BR>
+	<ru-RU>Бесплатное приложение для обмена файлами по протоколу P2P, поддерживающее разнообразные . aMule работает с сетью eDonkey и некоторыми другими.</ru-RU>
+	<sv-SE>Ett gratis P2P-delningsprogram (peer-to-peer) som kan användas på flera plattformar. aMule fungerar med eDonkey-nätverket och andra utvalda nätverk.</sv-SE>
+	<tr-TR>Birden çok platformda taşınabilen eşler arası (P2P) ücretsiz dosya paylaşım uygulaması aMule, eDonkey ağı ve diğer seçili ağlarla çalışır.</tr-TR>
+	<zh-CN>可在多种平台上移植的免费对等文件 (P2P) 共享应用程序。aMule 配合 eDonkey 网络和其他选定的网络工作。</zh-CN>
+	<zh-TW>可用於多種平台的免費點對點檔案 (P2P) 共享應用程式。aMule 可搭配 eDonkey 網路及其他選定網路使用。</zh-TW>
+</config>

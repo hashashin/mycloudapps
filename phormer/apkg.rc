@@ -1,0 +1,17 @@
+Package:          phormer
+Packager:         hashashin
+Email:            mecagoenbush@gmail.com
+Homepage:         https://sourceforge.net/projects/rephormer/
+Description:      PHP without MySQL PhotoGallery
+Icon:             phormer.png
+AddonShowName:    phormer
+AddonIndexPage:	  index.php
+AddonUsedPort:    
+InstDepend:
+InstConflict:
+StartDepend:
+StartConflict:
+Version:	  3.3.1-1
+MinFWVer:
+MaxFWVer:
+IndividualFlag:   0

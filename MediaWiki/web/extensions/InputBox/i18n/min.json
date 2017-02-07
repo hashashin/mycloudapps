@@ -1,0 +1,14 @@
+{
+    "@metadata": {
+        "authors": [
+            "Iwan Novirion"
+        ]
+    },
+    "inputbox-desc": "Mamungkinan panggunoan form HTML nan alah ditantuan",
+    "inputbox-error-no-type": "Sanak musti manantuan jinih kotak input nan ka dibuek.",
+    "inputbox-error-bad-type": "Jinih kotak input \"$1\" indak dikenal.\nGunoan \"create\", \"comment\", \"search\", \"search2\", atau \"fulltext\".",
+    "tryexact": "Cubo pancocokan eksak",
+    "searchfulltext": "Cari teks langkok",
+    "createarticle": "Buek laman",
+    "inputbox-ns-main": "Utamo"
+}

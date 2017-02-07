@@ -1,0 +1,61 @@
+﻿<text>
+<_common>
+	<error len="999">Hata</error>
+	<new len="10">Yeni</new>
+	<set>Ayarlanıyor...</set>
+	<loading len="999">Yükleniyor...</loading>
+	<updating>Güncelleştiriliyor</updating>
+	<minutes>dakika</minutes>
+	<hour len="999">1 saat</hour>
+</_common>
+<_button>
+	<Ok len="11">Tamam</Ok>
+	<save>Kaydet</save>
+	<browse len="10">Gözat</browse>
+	<Cancel len="999">İptal</Cancel>
+</_button>
+<_network_access>
+	<create_folder_name len="999">Yeni Klasör Oluştur</create_folder_name>
+</_network_access>
+<_dropbox>
+	<title>Dropbox</title>
+	<dropbox_enable>Dropbox</dropbox_enable>
+	<sing_in_account>Hesap</sing_in_account>
+	<sing_in>Oturum Aç</sing_in>
+	<sync_folder>Yerel Eşitleme Klasörü</sync_folder>
+	<sync_interval>Eşitleme Aralığı</sync_interval>
+	<sync_now>Şimdi Eşitle</sync_now>
+	<sync_status>Durum</sync_status>
+	<hourly>Saat Başı</hourly>
+	<title2>Dropbox Ayarları</title2>
+	<used_space>Kullanılan Alan</used_space>
+	<last>Son Güncelleştirme</last>
+	<sing_out>Hesap Bağlantısını Kaldır</sing_out>
+	<black_list>Dropbox Eşitleme Klasörleri</black_list>
+	<add>Seçici Eşitleme</add>
+	<s1><![CDATA[Güncel]]></s1>
+	<s2><![CDATA[Dropbox'a Bağlanıyor]]></s2>
+	<s3><![CDATA[Eşitleniyor]]></s3>
+	<s4><![CDATA[Eşitleme Duraklatıldı]]></s4>
+	<s5><![CDATA[%s indiriliyor]]></s5>
+	<s6><![CDATA[%s karşıya yükleniyor]]></s6>
+	<s7><![CDATA[%s üzerinde yerel dizin oluşturuluyor]]></s7>
+	<s8><![CDATA[%s üzerinde Dropbox dizini oluşturuluyor]]></s8>
+	<s9><![CDATA[%s kaldırılıyor]]></s9>
+	<s10><![CDATA[%s1 öğesi %s2 hedefine taşınıyor]]></s10>
+	<s11><![CDATA[Hesap kimlik doğrulaması başarısız oldu]]></s11>
+	<s12><![CDATA[Dropbox'a bağlanılamıyor. Lütfen sisteminizi yeniden başlatıp tekrar deneyin. Sorun devam ederse Dropbox uygulamasını yeniden yüklemeyi deneyin.]]></s12>
+	<s13><![CDATA[Dosyalar Dropbox ile eşitlenemiyor. Lütfen sisteminizi ve Dropbox ayarlarınızı denetleyin veya sisteminizi yeniden başlatın.]]></s13>
+	<s14><![CDATA[Dropbox'tan dosya indirilemiyor. Lütfen sisteminizi ve Dropbox ayarlarınızı denetleyin veya sisteminizi yeniden başlatın. %s]]></s14>
+	<s15><![CDATA[Dropbox'a dosya yüklenemiyor. Lütfen sisteminizi ve Dropbox ayarlarınızı denetleyin veya sisteminizi yeniden başlatın. %s]]></s15>
+	<s16><![CDATA[Dropbox'tan dosya indirilemiyor. Lütfen sisteminizi ve Dropbox ayarlarınızı denetleyin veya sisteminizi yeniden başlatın. %s]]></s16>
+	<s17><![CDATA[Dropbox'a dosya yüklenemiyor. Lütfen sisteminizi ve Dropbox ayarlarınızı denetleyin veya sisteminizi yeniden başlatın. %s]]></s17>
+	<s18><![CDATA[Dosyalar Dropbox ile eşitlenemiyor. Lütfen sisteminizi ve Dropbox ayarlarınızı denetleyin veya sisteminizi yeniden başlatın.]]></s18>
+	<s19><![CDATA[Dropbox'ta boş alan yok. %s karşıya yüklenemedi]]></s19>
+	<s20><![CDATA[Sisteminizde boş alan yok. %s indirilemedi]]></s20>
+	<msg1><![CDATA[Bu durum Dropbox ile dosyaları eşitlemenizi durdurur, ancak bu aygıttaki Dropbox klasöründe bulunan dosyaları silmez.]]></msg1>
+</_dropbox>
+<_backup>
+	<desc1 len="999">Yol Seçin</desc1>
+</_backup>
+</text>

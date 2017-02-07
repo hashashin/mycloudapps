@@ -1,0 +1,16 @@
+{
+    "@metadata": {
+        "authors": [
+            "Justincheng12345",
+            "Mark85296341",
+            "Simon Shek"
+        ]
+    },
+    "pdf-desc": "在圖片模式中查看PDF檔案的處理器",
+    "pdf_no_metadata": "無法在 PDF 中擷取元數據",
+    "pdf_page_error": "頁數不在範圍中",
+    "exif-pdf-producer": "轉換程式",
+    "exif-pdf-version": "PDF格式的版本",
+    "exif-pdf-encrypted": "加密",
+    "exif-pdf-pagesize": "頁面大小"
+}

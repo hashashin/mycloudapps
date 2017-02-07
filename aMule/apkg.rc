@@ -1,0 +1,19 @@
+Package:	aMule	
+Section:	Addon
+Version:	1.05
+Packager:	WD
+Email:		support@wdc.com
+Homepage:	http://support.wdc.com
+Description:	aMule is a free peer-to-peer file sharing application that works with the EDonkey network and the Kad network.The App provides search capability for finding desired P2P files and has a full featured P2P server/client Web UI interface.
+Icon:	aMule.png
+AddonShowName:	aMule
+AddonIndexPage:	aMule.html
+AddonUsedPort:	4711
+InstDepend:
+InstConflict:
+StartDepend:
+StartConflict:
+MinFWVer:
+MaxFWVer: 
+IndividualFlag: 0
+

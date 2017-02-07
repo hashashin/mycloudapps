@@ -1,0 +1,425 @@
+.WDLabelDiag{
+	display:none;
+	width:650px;
+	height:400px;
+
+	position:absolute;
+	margin:5% 0% 0% 0%;
+	top:50%;
+	left:50%;
+	
+	/*margin-top:150px;
+	margin-left:-10px;*/
+	
+
+	background-color:#282828;
+	FONT-FAMILY: Helvetica;
+	color:#898989;
+	border-radius:10px 10px 10px 10px;
+	-webkit-border-top-left-radius:10px;
+	-webkit-border-top-right-radius:10px;
+	-moz-border-radius:10px 10px 10px 10px;
+	z-index: 9999;
+}
+.WDLabelHeaderDialogue{
+	font-size:22px;
+	height:48px;
+	position: relative;
+	top:20px;
+	left:40px;
+	padding-left:60px;
+	line-height: 48px;
+	/*border: 1px solid #ffffff;*/
+}
+.WDLabelHeaderDialogue2{
+	font-size:22px;
+	height:36px;
+	position: relative;
+	top:20px;
+	left:40px;
+	padding-left:45px;
+	line-height: 36px;
+	/*border: 1px solid #ffffff;*/
+}
+.WDLabelHeaderDialogue_s3{
+	font-size:22px;
+	height:48px;
+	position: relative;
+	top:20px;
+	left:40px;
+	padding-left:140px;
+	line-height: 48px;
+	/*border: 1px solid #ffffff;*/
+}
+.WDLabelHeader2{
+	font-size:18px;	
+}
+.WDLabelHeaderDialogueFolderIcon{
+	background: url(../images/icon/DialogueFolder.png) no-repeat;	
+}
+.WDLabelHeaderDialogueHDDIcon{
+	background: url(../images/dialog/raidvolumeicon_normal_48x48.png) no-repeat;	
+	background-size:48px 48px;
+}
+.WDLabelHeaderDialogueDiagnosticsIcon{
+	background: url(../images/icon/IconDialogueWindowDiagnosis.png) no-repeat;
+	background-size:48px 48px;	
+}
+.WDLabelHeaderDialogueVolCapacityIcon{
+	background: url(../images/icon/IconBox52x52Capacity2Up.png) no-repeat;
+	background-size:48px 48px;	
+}
+.WDLabelHeaderDialogueVVIcon{
+	background: url(../images/dialog/headericon_createvirtualvolume.png) no-repeat;	
+	background-size:48px 48px;
+}
+.WDLabelHeaderDialogueVEIcon{
+	background: url(../images/dialog/headericon_volumeencryption_normal_48x48.png) no-repeat;	
+	background-size:48px 48px;
+}
+.LightningLabelHeaderDialogueTMIcon{
+	background: url(../images/icon/IconDialogueWindowSetupTimeMachine.png) no-repeat;	
+}
+.LightningLabelHeaderFolderIcon {
+	background: url(../images/icon/Folder_32x32.png) no-repeat;
+}
+
+.WDLabelHeaderDialogueUSBIcon{
+	background: url(../images/icon/IconSafepointUSB.png) no-repeat;
+	background-size:48px 48px;	
+}
+
+.WDLabelHeaderDialogueUSB_WarningIcon{
+	background: url(../images/dialog/messageicon_alert.png) no-repeat;
+	background-size:48px 48px;	
+}
+
+.WDLabelHeaderDialogueCloudIcon{
+	background: url(../images/icon/IconMyCloudWebUser.png) no-repeat;
+	background-size:40px 40px;	
+}
+
+.WDLabelHeaderDialogueUsersIcon{
+	background: url(../images/icon/dialog_icons.png) no-repeat 0px -72px;
+	width:500px;
+	height:36px;
+}
+.WDLabelHeaderDialogueSSHIcon{
+	background: url("/web/images/icon/dialog_icons.png") no-repeat scroll 0px -756px;
+	width:500px;
+	height:36px;
+}
+.WDLabelHeaderDialogueNTPIcon{
+	background: url(../images/icon/IconDialogueSettingsNTP1.png) no-repeat;	
+	background-size:48px 48px;	
+}
+
+.WDLabelHeaderDialogueiSCSIIcon{
+	background: url(../images/icon/LightningIcon_iSCSITarget_NORM.png) no-repeat;	
+	background-size:48px 48px;	
+}
+
+.WDLabelHeaderDialogueFWIcon{
+		background: url(../images/icon/headericon_updatefirmware.png) no-repeat;	
+		background-size:48px 48px;	
+}
+.WDLabelHeaderDialogueScanDiskIcon{
+	background: url(../images/dialog/headericon_scandisk_normal.png) no-repeat;	
+	background-size:48px;	
+}
+.WDLabelHeaderDialogueFTPSetIcon{
+	background: url(../images/dialog/headericon_lansetupwizard.png) no-repeat;	
+	background-size:48px;	
+}
+.WDLabelHeaderDialogueDeviceActivIcon{
+		background: url(../images/icon/headericon_deviceactivity.png) no-repeat;	
+		background-size:48px 48px;	
+}
+.WDLabelHeaderDialogueDDNSIcon{
+		background: url(../images/icon/headericon_ddnssettings.png) no-repeat;	
+		background-size:48px 48px;	
+}
+.WDLabelHeaderDialoguePortforIcon{
+		background: url(../images/icon/headericon_portforwarding.png) no-repeat;	
+		background-size:48px 48px;	
+}
+.WDLabelHeaderDialoguePowerIcon{
+		background: url(../images/icon/headericon_powersettings.png) no-repeat;	
+		background-size:48px 48px;	
+}
+.WDLabelHeaderDialogueBackupIcon{
+	background: url(../images/dialog/headericon_remotebackup.png) no-repeat;
+	background-size:48px 48px;	
+}
+.WDLabelHeaderDialogueIPv6Icon{
+	background: url(../images/icon/headericon_ipv6setup.png) no-repeat;
+	background-size:48px 48px;		
+}
+.WDLabelHeaderDialogueIPv4Icon{
+	background: url(../images/icon/headericon_lansetupwizard.png) no-repeat;
+	background-size:48px 48px;		
+}
+.WDLabelHeaderDialogueNFSIcon{
+	background: url(../images/icon/headericon_nfssettings.png) no-repeat;
+	background-size:48px 48px;		
+}
+.WDLabelHeaderDialogueDFSIcon{
+	background: url(../images/icon/headericon_distributedfilesystemsettings.png) no-repeat;
+	background-size:48px 48px;
+}
+.WDLabelHeaderDialogueMailIcon{
+	background: url(../images/icon/IconDialogueNotifications.png) no-repeat;
+	background-size:48px 48px;
+}
+
+.WDLabelHeaderDialogueTimeIcon{
+	background: url(../images/icon/Icon_Calendar_DrkGray_32x32.png) no-repeat;
+	background-size:48px 48px;
+}
+.WDLabelHeaderDialogueInfoIcon{
+	background: url(../images/icon/IconBox44x44InfoUp.png) no-repeat;
+	background-size:48px 48px;
+}
+.WDLabelHeaderDialogueAPPSIcon{
+	background: url(../images/dialog/mainmenu_addons_normal.png) no-repeat;	
+	background-size:48px 48px;
+}
+.WDLabelHeaderDialogueAdsIcon{
+	background: url(../images/dialog/headericon_activedirectory_normal.png) no-repeat;	
+	background-size:48px 48px;
+}
+.WDLabelHeaderDialogueUPSIcon{
+	background: url(../images/dialog/icon-ups.png) no-repeat;	
+	background-size:48px 48px;
+}
+.WDLabelHeaderDialogueGroupIcon{
+	background: url(../images/dialog/headericon_group_normal.png) no-repeat;	
+}
+.WDLabelHeaderDialogueElephantDriveIcon{
+	background: url(../images/elephant_drive/ElephantDrive_display_small.png) no-repeat;
+}
+.WDLabelHeaderDialogueModifyIcon{
+	background: url(../images/icon/ButtonEditUp_head.png) no-repeat;	
+	background-size:22px 34px;
+}
+
+.WDLabelHeaderDialogueWebFileViewerIcon{
+	background: url(../images/icon/headericon_upload.png) no-repeat;	
+	background-size:48px 48px;
+}
+
+.WDLabelHeaderDialogueSNMPIcon{
+	background: url(../images/dialog/headericon_SNMP.PNG) no-repeat;	
+}
+.WDLabelHeaderDialogueMediaIcon{
+	background: url(../images/dialog/IconBox52x52MediaScanUp.png) no-repeat;	
+	background-size:48px 48px;
+}
+.WDLabelHeaderDialogueISOMountIcon{
+	background: url(../images/dialog/headerIcon_addISOshare.png) no-repeat;	
+	background-size:48px 48px;
+}
+.WDLabelHeaderDialogueISOCreateIcon{
+	background: url(../images/dialog/headericon_createISOimage.png) no-repeat;	
+	background-size:48px 48px;
+}
+.WDLabelHeaderDialogueISOCreateIcon{
+	background: url(../images/dialog/headericon_createISOimage.png) no-repeat;	
+	background-size:48px 48px;
+}
+.WDLabelHeaderDialogueMediaS3{
+	background: url(../images/amazon/AWS_logo_poweredby_black_127px.png) no-repeat;		
+}
+.WDLabelHeaderDialogueCloud{
+	background: url(/web/images/help/helpdropdown_gettingstarted_up.png) no-repeat;	
+}
+.WDLabelHeaderDialogueSupportIcon{
+	background: url(/web/images/help/helpdropdown_support_up.png) no-repeat;
+}
+
+.WDLabelBodyDialogue{
+	position: relative;
+	font-size:14px;
+	color:#898989;
+	width:580px;
+	height:285px;
+	top:40px;
+	left:42px;
+ 	word-wrap:break-word;
+ 	display: block;
+	/*border: 1px solid #ffffff;*/
+}
+.WDButtonSecondaryNormal{
+	position: relative;
+	cursor: pointer;
+	width:112px;
+	height:40px;
+	background: url(../images/button/button.png) no-repeat;
+	text-align:center;
+	line-height: 40px;
+	FONT-FAMILY:Arial, regular; 
+	font-size:12pt;
+	color:#898989;
+}
+.WDButtonSecondaryNormal:hover{
+	cursor: pointer;
+	width:112px;
+	height:40px;
+	background: url(../images/button/obutton.png) no-repeat;
+}
+.WDButtonSecondaryNormalLeftPos{
+	top:15px;
+	left:40px;
+}
+.WDButtonSecondaryNormalRightPos{
+	right:40px;
+	top:-25px;
+	float:right;
+}
+
+.ButtonLeftPos{
+	position: relative;
+	margin-left:40px;
+	top:15px;
+}
+.ButtonMarginLeft_40px{
+	position: relative;
+	float:left;
+	margin-left:40px;
+	top:15px;
+}
+.ButtonMarginLeft_20px{
+	float:left;
+	position: relative;
+	margin-left:20px;
+	top:15px;
+}
+.ButtonLeftPos1{
+	position: relative;
+	margin-left:480px;
+	top:15px;
+}
+.ButtonRightPos1{
+	position: relative;
+	margin-right:20px;
+	float:right;
+	top:15px;
+}
+.ButtonRightPos2{
+	position: relative;
+	margin-right:40px;
+	float:right;
+	top:15px;
+}
+.ButtonRightPos_Top_0px{
+	position: relative;
+	margin-right:40px;
+	float:right;	
+}
+.ButtonRightAlert{
+	position: relative;
+	margin-right:30px;
+	float:right;
+	top:15px;
+}
+div.hr {
+  height: 3px;
+  width:590px;
+  background: #fff url(../images/dialog_line.png) repeat-x scroll center;
+  position: relative;
+  top:25px;
+}
+
+div.hr hr {
+  display: none;
+}
+div.hr2 {
+  height: 3px;
+  width:680px;
+  background: #fff url(../images/dialog_line.png) repeat-x scroll center;
+  position: relative;
+  top:25px;
+}
+
+div.hr2 hr {
+  display: none;
+}
+
+div.hrBottom {
+	position: relative;
+	/*top:40px;*/
+	height: 3px;
+	background: #fff url(../images/dialog_line.png) repeat-x scroll center;
+	
+	margin-top:2px;
+	/*margin-buttom:25px;*/
+	/*border:1px solid blue;*/
+}
+div.hrBottom hr {
+  display: none;
+}
+
+div.hrBottom2 {
+	position: relative;
+	/*top:40px;*/
+	height: 3px;
+	background: #fff url(../images/dialog_line.png) repeat-x scroll center;
+	
+/*	margin-top:65px;	*/
+}
+div.hrBottom2 hr {
+  display: none;
+}
+
+.inputBox {
+ 
+ -moz-border-radius:4px;
+ -webkit-border-radius: 4px;
+ border-radius: 4px;
+ 
+ width:225px;
+ height:26px;
+padding-left:12px;
+padding-right:12px;
+background-color:#cccccc;
+FONT-FAMILY:Arial, regular; 
+font-size:12pt;
+}
+.inputBox:hover{
+	border: 1px solid #ff921a;
+}
+.inputBox:focus{
+border: 1px solid #ff921a;
+}
+
+.dialog_content{
+	/*width:560px;
+	width:100%;
+	height:240px;
+	overflow:hidden;
+	*/
+	/*border: 1px solid red;*/
+}
+.PersonalCloudLabelDiag{	
+	/*width:300px;
+	height:50px;*/
+	width:650px;
+	position:relative;
+	/*margin:5% 0% 0% 0%;*/
+	padding:10px;
+	/*top:50%;
+	left:50%;
+	*/
+	/*margin-top:150px;
+	margin-left:-10px;*/
+	
+
+	/*background-color:#282828;*/
+	FONT-FAMILY: Helvetica;
+	color:#898989;
+	border:1px solid #898989;
+	border-radius:10px 10px 10px 10px;
+	-webkit-border-top-left-radius:10px;
+	-webkit-border-top-right-radius:10px;
+	-moz-border-radius:10px 10px 10px 10px;
+}

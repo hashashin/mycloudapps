@@ -1,0 +1,61 @@
+﻿<text>
+<_common>
+	<error len="999">Błąd</error>
+	<new len="10">Nowy</new>
+	<set>Ustawianie...</set>
+	<loading len="999">Ładowanie...</loading>
+	<updating>Aktualizowanie</updating>
+	<minutes>min</minutes>
+	<hour len="999">1 godzina</hour>
+</_common>
+<_button>
+	<Ok len="11">OK</Ok>
+	<save>Zapisz</save>
+	<browse len="10">Przeglądaj</browse>
+	<Cancel len="999">Anuluj</Cancel>
+</_button>
+<_network_access>
+	<create_folder_name len="999">Utwórz nowy folder</create_folder_name>
+</_network_access>
+<_dropbox>
+	<title>Dropbox</title>
+	<dropbox_enable>Dropbox</dropbox_enable>
+	<sing_in_account>Konto</sing_in_account>
+	<sing_in>Logowanie</sing_in>
+	<sync_folder>Lokalny folder synchronizacji</sync_folder>
+	<sync_interval>Interwał synchronizacji</sync_interval>
+	<sync_now>Synchronizuj teraz</sync_now>
+	<sync_status>Status</sync_status>
+	<hourly>Co godzinę</hourly>
+	<title2>Ustawienia usługi Dropbox</title2>
+	<used_space>Zajęte miejsce</used_space>
+	<last>Ostatnia aktualizacja</last>
+	<sing_out>Odłącz konto</sing_out>
+	<black_list>Foldery synchronizacji usług Dropbox</black_list>
+	<add>Synchronizacja wybiórcza</add>
+	<s1><![CDATA[Aktualne]]></s1>
+	<s2><![CDATA[Łączenie z usługą Dropbox]]></s2>
+	<s3><![CDATA[Synchronizowanie]]></s3>
+	<s4><![CDATA[Synchronizacja wstrzymana]]></s4>
+	<s5><![CDATA[Pobieranie: %s]]></s5>
+	<s6><![CDATA[Przesyłanie: %s]]></s6>
+	<s7><![CDATA[Tworzenie katalogu lokalnego na urządzeniu %s]]></s7>
+	<s8><![CDATA[Tworzenie katalogu Dropbox na urządzeniu %s]]></s8>
+	<s9><![CDATA[Usuwanie: %s]]></s9>
+	<s10><![CDATA[Przenoszenie %s1 do %s2]]></s10>
+	<s11><![CDATA[Uwierzytelnienie konta nie powiodło się]]></s11>
+	<s12><![CDATA[Nie można nawiązać połączenia z usługą Dropbox. Uruchom ponownie system i spróbuj jeszcze raz. Jeśli problem będzie występować nadal, spróbuj ponownie zainstalować aplikację Dropbox.]]></s12>
+	<s13><![CDATA[Nie udało się zsynchronizować plików z usługą Dropbox. Sprawdź ustawienia systemu i usługi Dropbox lub uruchom ponownie system.]]></s13>
+	<s14><![CDATA[Nie udało się pobrać plików z usługi Dropbox. Sprawdź ustawienia systemu i usługi Dropbox lub uruchom ponownie system. %s]]></s14>
+	<s15><![CDATA[Nie udało się przesłać plików do usługi Dropbox. Sprawdź ustawienia systemu i usługi Dropbox lub uruchom ponownie system. %s]]></s15>
+	<s16><![CDATA[Nie udało się pobrać plików z usługi Dropbox. Sprawdź ustawienia systemu i usługi Dropbox lub uruchom ponownie system. %s]]></s16>
+	<s17><![CDATA[Nie udało się przesłać plików do usługi Dropbox. Sprawdź ustawienia systemu i usługi Dropbox lub uruchom ponownie system. %s]]></s17>
+	<s18><![CDATA[Nie udało się zsynchronizować plików z usługą Dropbox. Sprawdź ustawienia systemu i usługi Dropbox lub uruchom ponownie system.]]></s18>
+	<s19><![CDATA[W usłudze Dropbox zabrakło miejsca. Nie udało się przesłać: %s]]></s19>
+	<s20><![CDATA[W systemie zabrakło miejsca. Nie udało się pobrać: %s]]></s20>
+	<msg1><![CDATA[Spowoduje to zatrzymanie synchronizacji plików z usługą Dropbox, ale nie usunięcie plików z folderu Dropbox na tym urządzeniu.]]></msg1>
+</_dropbox>
+<_backup>
+	<desc1 len="999">Wybierz ścieżkę</desc1>
+</_backup>
+</text>

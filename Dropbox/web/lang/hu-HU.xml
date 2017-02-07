@@ -1,0 +1,61 @@
+﻿<text>
+<_common>
+	<error len="999">Hiba</error>
+	<new len="10">Új</new>
+	<set>Beállítás...</set>
+	<loading len="999">Betöltés...</loading>
+	<updating>Frissítés</updating>
+	<minutes>perc</minutes>
+	<hour len="999">1 óra</hour>
+</_common>
+<_button>
+	<Ok len="11">OK</Ok>
+	<save>Mentés</save>
+	<browse len="10">Böngészés</browse>
+	<Cancel len="999">Mégse</Cancel>
+</_button>
+<_network_access>
+	<create_folder_name len="999">Új mappa létrehozása</create_folder_name>
+</_network_access>
+<_dropbox>
+	<title>Dropbox</title>
+	<dropbox_enable>Dropbox</dropbox_enable>
+	<sing_in_account>Fiók</sing_in_account>
+	<sing_in>Bejelentkezés</sing_in>
+	<sync_folder>Helyi szinkronizálási mappa</sync_folder>
+	<sync_interval>Szinkronizálás időtartama</sync_interval>
+	<sync_now>Szinkronizálás most</sync_now>
+	<sync_status>Állapot</sync_status>
+	<hourly>Óránként</hourly>
+	<title2>Dropbox-beállítások</title2>
+	<used_space>Felhasznált terület</used_space>
+	<last>Utolsó frissítés</last>
+	<sing_out>Fiók társításának megszüntetése</sing_out>
+	<black_list>Dropbox szinkronizálási mappák</black_list>
+	<add>Szelektív szinkronizálás</add>
+	<s1><![CDATA[Naprakész]]></s1>
+	<s2><![CDATA[Csatlakozás a Dropbox szolgáltatáshoz]]></s2>
+	<s3><![CDATA[Szinkronizálás]]></s3>
+	<s4><![CDATA[Szüneteltetve a szinkronizálás]]></s4>
+	<s5><![CDATA[%s letöltése]]></s5>
+	<s6><![CDATA[%s feltöltése]]></s6>
+	<s7><![CDATA[Helyi könyvtár létrehozása itt: %s]]></s7>
+	<s8><![CDATA[Dropbox-könyvtár létrehozása itt: %s]]></s8>
+	<s9><![CDATA[%s eltávolítása]]></s9>
+	<s10><![CDATA[%s1 áthelyezése ide: %s2]]></s10>
+	<s11><![CDATA[Nem sikerült a fiók hitelesítése]]></s11>
+	<s12><![CDATA[Nem sikerült csatlakozni a Dropbox szolgáltatáshoz. Indítsa újra a rendszert, majd próbálja újra. Ha a probléma továbbra is fennáll, telepítse újra a Dropbox alkalmazást.]]></s12>
+	<s13><![CDATA[Nem sikerült szinkronizálni a fájlokat a Dropbox szolgáltatással. Ellenőrizze a rendszert és a Dropbox beállításait, vagy indítsa újra a rendszert.]]></s13>
+	<s14><![CDATA[Nem sikerült letölteni a fájlokat a Dropbox szolgáltatásból. Ellenőrizze a rendszert és a Dropbox beállításait, vagy indítsa újra a rendszert. %s]]></s14>
+	<s15><![CDATA[Nem sikerült feltölteni a fájlokat a Dropbox szolgáltatásba. Ellenőrizze a rendszert és a Dropbox beállításait, vagy indítsa újra a rendszert. %s]]></s15>
+	<s16><![CDATA[Nem sikerült letölteni a fájlokat a Dropbox szolgáltatásból. Ellenőrizze a rendszert és a Dropbox beállításait, vagy indítsa újra a rendszert. %s]]></s16>
+	<s17><![CDATA[Nem sikerült feltölteni a fájlokat a Dropbox szolgáltatásba. Ellenőrizze a rendszert és a Dropbox beállításait, vagy indítsa újra a rendszert. %s]]></s17>
+	<s18><![CDATA[Nem sikerült szinkronizálni a fájlokat a Dropbox szolgáltatással. Ellenőrizze a rendszert és a Dropbox beállításait, vagy indítsa újra a rendszert.]]></s18>
+	<s19><![CDATA[Nincs szabad tárterület a Dropbox szolgáltatásban. Nem sikerült a következő feltöltése: %s]]></s19>
+	<s20><![CDATA[Nincs szabad tárterület a rendszerben. Nem sikerült a következő letöltése: %s]]></s20>
+	<msg1><![CDATA[Ezzel leáll a fájlok szinkronizálása a Dropbox szolgáltatással, de nem törlődnek a fájlok az eszköz Dropbox mappájából.]]></msg1>
+</_dropbox>
+<_backup>
+	<desc1 len="999">Válassza ki az útvonalat</desc1>
+</_backup>
+</text>

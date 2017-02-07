@@ -1,0 +1,17 @@
+Package:          Dokuwiki
+Packager:         hashashin
+Email:            gentoo.power@gmail.com
+Homepage:         https://www.dokuwiki.org
+AddonShowName:    Dokuwiki
+AddonIndexPage:   index.php
+AddonUsedPort:    
+InstDepend:
+InstConflict:
+StartDepend:
+StartConflict:
+Description:      
+Version:          2016-06-26a
+Icon:             Dokuwiki.png
+MinFWVer:
+MaxFWVer:
+IndividualFlag:   0

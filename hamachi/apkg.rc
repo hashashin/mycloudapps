@@ -1,0 +1,18 @@
+Package:          hamachi
+Packager:         hashashin
+Email:            mecagoenbush@gmail.com
+Homepage:         http://barracus.tk
+Description:      hamachi
+Icon:             hamachi.png
+AddonShowName:    hamachi
+AddonIndexPage:   index.html
+AddonUsedPort:    
+CenterType:       0
+InstDepend:
+InstConflict:
+StartDepend:
+StartConflict:
+Version:          2.1.0.174-2
+MinFWVer:
+MaxFWVer:
+IndividualFlag:

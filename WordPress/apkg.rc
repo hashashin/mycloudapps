@@ -1,0 +1,18 @@
+Package:            WordPress
+Section:            Addon
+Version:            4.7
+Packager:           hashashin
+Email:              gentoo.power@gmail.com
+Homepage:           https://wordpress.org
+Description:        An open source, PHP-based blog and content management system (CMS) and platform that natively supports MySQL.
+Icon:               WordPress.png
+AddonShowName:      WordPress
+AddonIndexPage:     wordpress_index.html
+AddonUsedPort:      
+InstDepend:         
+InstConflict:       
+StartDepend:        
+StartConflict:
+MinFWVer:
+MaxFWVer:
+IndividualFlag:     0   

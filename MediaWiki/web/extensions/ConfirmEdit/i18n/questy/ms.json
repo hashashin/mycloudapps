@@ -1,0 +1,14 @@
+{
+    "@metadata": {
+        "authors": [
+            "Anakmalaysia"
+        ]
+    },
+    "questycaptcha-addurl": "Suntingan anda mengandungi pautan luar baru.\nUntuk membanteras kegiatan spam automatik, anda diminta menjawab soalan yang berikut ([[Special:Captcha/help|maklumat lanjut]]):",
+    "questycaptcha-badlogin": "Untuk membanteras kegiatan meneka kata laluan secara automatik, anda diminta menjawab soalan berikut ([[Special:Captcha/help|maklumat lanjut]]):",
+    "questycaptcha-createaccount": "Untuk membanteras kegiatan pembukaan akaun secara automatik, anda diminta menjawab soalan berikut ([[Special:Captcha/help|maklumat lanjut]]):",
+    "questycaptcha-create": "Untuk mencipta laman ini, anda diminta menjawab soalan berikut ([[Special:Captcha/help|maklumat lanjut]]):",
+    "questycaptcha-edit": "Untuk menyunting laman ini, anda diminta menjawab soalan berikut ([[Special:Captcha/help|maklumat lanjut]]):",
+    "questycaptcha-sendemail": "Untuk membanteras kegiatan spam secara automatik, anda diminta menjawab soalan berikut ([[Special:Captcha/help|maklumat lanjut]]):",
+    "questycaptchahelp-text": "Tapak-tapak web yang menerima sumbangan awam, misalnya wiki ini, sering disalah guna oleh pembuat spam yang menggunakan peralatan berautomasi untuk membubuh pautan mereka di banyak tapak.\nWalaupun pautan-pautan spam ini boleh dipadamkan, namun ia amat menyusahkan.\n\nAdakalanya, terutamanya apabila membubuh pautan web baru pada sesuatu laman, wiki ini mungkin akan menanya anda satu soalan.\nMemandangkan ini ialah tugas yang sukar diautomasi, ia akan membolehkan kebanyakan manusia sebenar untuk membuat sumbangan, sambil menghalang spam dan serangan robotik yang seumpamanya.\n\nSila hubungi [[Special:ListAdmins|pentadbir laman]] untuk mendapatkan bantuan jika ia menghalang anda daripada membuat sumbangan yang munasabah tanpa dijangka.\n\nKlik butang '←' untuk kembali ke editor laman."
+}

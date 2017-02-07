@@ -1,0 +1,18 @@
+Package:	Transmission	
+Section:	Addon
+Version:	2.92-1
+Packager:	Fox
+Email:		fox@anionix.ru
+Homepage:	https://anionix.ru
+Description:	Transmission is one of the best choices for a BitTorrent client, being both extremely lightweight and feature-packed. Transmission's interface is easy to use, yet very powerful, especially when it comes to managing bandwidth.
+Icon:		Transmission.png
+AddonShowName:	Transmission
+AddonIndexPage:	index.html
+AddonUsedPort:
+InstDepend:
+InstConflict:
+StartDepend:
+StartConflict:
+MinFWVer:
+MaxFWVer:
+IndividualFlag: 0

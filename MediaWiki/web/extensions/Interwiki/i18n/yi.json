@@ -1,0 +1,23 @@
+{
+    "@metadata": {
+        "authors": [
+            "פוילישער"
+        ]
+    },
+    "interwiki-title-norights": "באקוקן אינטערוויקי דאטן",
+    "interwiki_intro": "דאס איז אן איבערבליק פון דער אינטערוויקי טאבעלע.",
+    "interwiki-legend-show": "ווייזן לעגענדע",
+    "interwiki-legend-hide": "באהאלטן לעגענדע",
+    "interwiki_prefix": "פרעפֿיקס",
+    "interwiki-prefix-label": "פרעפֿיקס:",
+    "interwiki_local": "איבערפֿירן",
+    "interwiki-local-label": "איבערפֿירן:",
+    "interwiki_trans": "אריבערשליסן",
+    "interwiki-trans-label": "אריבערשליסן:",
+    "interwiki_trans_intro": "אז דער וויקיטעקסט סינטאקס <code>{<nowiki />{prefix:<em>בלאטנאמען</em>}}</code> ווערט געניצט, דעמאלסט:",
+    "interwiki_1": "יא",
+    "interwiki_0": "ניין",
+    "interwiki_edit": "רעדאַקטירן",
+    "interwiki_addbutton": "צולייגן",
+    "interwiki_edittext": "רעדאקטירן אן אינטערוויקי פרעפיקס"
+}

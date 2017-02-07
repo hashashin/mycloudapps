@@ -1,0 +1,19 @@
+{
+    "@metadata": {
+        "authors": [
+            "Esbardu",
+            "Xuacu"
+        ]
+    },
+    "titleblacklist-desc": "Permite a los alministradores prohibir la creación de páxines y cuentes d'usuariu per aciu d'una [[MediaWiki:Titleblacklist|llista prieta]] y una [[MediaWiki:Titlewhitelist|llista blanca]]",
+    "titleblacklist": "# Esta ye una llista prieta de títulos. Los títulos y usuarios que concayen con dalguna d'estes expresiones regulares nun se puen crear.\n# Usa \"#\" pa los comentarios.\n# De mou predetermináu nun ye sensible a les mayúscules.",
+    "titlewhitelist": "# Esta ye una llista blanca de títulos. Usa \"#\" pa los comentarios.\n# De mou predetermináu nun ye sensible a les mayúscules.",
+    "titleblacklist-forbidden-edit": "Torgóse la creación del títulu \"$2\".\nConcueya cola siguiente entrada na llista prieta: <code>$1</code>",
+    "titleblacklist-forbidden-move": "\"$2\" nun pue ser treslladáu a \"$3\" porque'l títulu \"$3\" ta prohibío crealu.\nConcueya cola siguiente entrada na llista prieta: <code>$1</code>",
+    "titleblacklist-forbidden-upload": "Torgóse la creación del nome d'archivu \"$2\".\nConcueya cola siguiente entrada na llista prieta: <code>$1</code>",
+    "titleblacklist-forbidden-new-account": "Torgóse la creación del nome d'usuariu \"$2\".\nConcueya cola siguiente entrada na llista prieta: <code>$1</code>",
+    "titleblacklist-invalid": "{{PLURAL:$1|La siguiente llinia|Les siguientes llinies}} de la llista prieta de títulos {{PLURAL:$1|nun ye válida|nun son válides}};\npor favor {{PLURAL:$1|corríxila|corríxiles}} enantes de guardar:",
+    "titleblacklist-override": "Inorar la llista prieta",
+    "right-tboverride": "Sobrescribir la llista prieta de títulos o nomes d'usuariu",
+    "right-tboverride-account": "Saltar la llista prieta d'usuarios"
+}

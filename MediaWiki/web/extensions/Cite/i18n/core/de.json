@@ -1,0 +1,33 @@
+{
+    "@metadata": {
+        "authors": [
+            "Kghbln",
+            "Metalhead64",
+            "Purodha",
+            "Raimond Spekking",
+            "The Evil IP address",
+            "Umherirrender"
+        ]
+    },
+    "cite-desc": "Ergänzt die Tags \u003Ccode\u003E\u003Cnowiki\u003E\u003Cref[\u0026nbsp;name=id]\u003E\u003C/nowiki\u003E\u003C/code\u003E und \u003Ccode\u003E\u003Cnowiki\u003E\u003Creferences\u0026nbsp;/\u003E\u003C/nowiki\u003E\u003C/code\u003E für Referenzierungen in Wikiseiten",
+    "cite_error": "Referenzfehler: $1",
+    "cite_error_ref_numeric_key": "Ungültige Verwendung von \u003Ccode\u003E\u0026lt;ref\u0026gt;\u003C/code\u003E: Der Parameter „name“ darf kein reiner Zahlenwert sein. Benutze einen beschreibenden Namen.",
+    "cite_error_ref_no_key": "Ungültige Verwendung von \u003Ccode\u003E\u0026lt;ref\u0026gt;\u003C/code\u003E: Der Parameter „ref“ ohne Inhalt muss einen Namen haben.",
+    "cite_error_ref_too_many_keys": "Ungültige Verwendung von \u003Ccode\u003E\u0026lt;ref\u0026gt;\u003C/code\u003E: Der Parameter „name“ ist ungültig oder zu lang.",
+    "cite_error_ref_no_input": "Ungültige Verwendung von \u003Ccode\u003E\u0026lt;ref\u0026gt;\u003C/code\u003E: Der Parameter „ref“ ohne Namen muss einen Inhalt haben.",
+    "cite_error_references_invalid_parameters": "Ungültige Verwendung von \u003Ccode\u003E\u0026lt;references\u0026gt;\u003C/code\u003E: Es sind keine Parameter möglich. Verwende ausschließlich \u003Ccode\u003E\u003Cnowiki\u003E\u003Creferences /\u003E\u003C/nowiki\u003E\u003C/code\u003E.",
+    "cite_error_references_invalid_parameters_group": "Ungültige Verwendung von \u003Ccode\u003E\u0026lt;references\u0026gt;\u003C/code\u003E: Nur der Parameter „group“ ist möglich. Verwende entweder \u003Ccode\u003E\u0026lt;references /\u0026gt;\u003C/code\u003E oder \u003Ccode\u003E\u0026lt;references group=\"…\" /\u0026gt;\u003C/code\u003E.",
+    "cite_error_references_no_backlink_label": "Eine Referenz der Form \u003Ccode\u003E\u0026lt;ref name=\"…\" /\u0026gt;\u003C/code\u003E wird öfter benutzt als Buchstaben vorhanden sind. Ein Administrator muss die Systemnachricht \u003Cnowiki\u003E[[MediaWiki:Cite references link many format backlink labels]]\u003C/nowiki\u003E um weitere Buchstaben/Zeichen ergänzen.",
+    "cite_error_no_link_label_group": "Für die Gruppe „$1“ sind keine benutzerdefinierten Linkbezeichnungen mehr verfügbar.\nEin Administrator muss weitere mit der Systemnachricht \u003Cnowiki\u003E[[MediaWiki:$2]]\u003C/nowiki\u003E festlegen.",
+    "cite_error_references_no_text": "Es ist ein ungültiger \u003Ccode\u003E\u0026lt;ref\u0026gt;\u003C/code\u003E-Tag vorhanden: Für die Referenz namens \u003Ccode\u003E$1\u003C/code\u003E wurde kein Text angegeben.",
+    "cite_error_included_ref": "Für ein \u003Ccode\u003E\u0026lt;ref\u0026gt;\u003C/code\u003E-Tag fehlt ein schließendes \u003Ccode\u003E\u0026lt;/ref\u0026gt;\u003C/code\u003E-Tag.",
+    "cite_error_refs_without_references": "Es sind \u003Ccode\u003E\u0026lt;ref\u0026gt;\u003C/code\u003E-Tags vorhanden, jedoch wurde kein \u003Ccode\u003E\u0026lt;references /\u0026gt;\u003C/code\u003E-Tag gefunden.",
+    "cite_error_group_refs_without_references": "Es sind \u003Ccode\u003E\u0026lt;ref\u0026gt;\u003C/code\u003E-Tags für die Gruppe „$1“ vorhanden, jedoch wurde kein dazugehöriges \u003Ccode\u003E\u0026lt;references group=\"$1\" /\u0026gt;\u003C/code\u003E-Tag gefunden oder ein schließendes \u003Ccode\u003E\u0026lt;/ref\u0026gt;\u003C/code\u003E fehlt.",
+    "cite_error_references_group_mismatch": "Das \u003Ccode\u003E\u0026lt;ref\u0026gt;\u003C/code\u003E-Tag in \u003Ccode\u003E\u0026lt;references\u0026gt;\u003C/code\u003E enthält das kollidierende Attribut „$1“.",
+    "cite_error_references_missing_group": "Das in \u003Ccode\u003E\u0026lt;references\u0026gt;\u003C/code\u003E definierte \u003Ccode\u003E\u0026lt;ref\u0026gt;\u003C/code\u003E-Tag hat das Gruppenattribut „$1“, das nicht im vorausgehenden Text verwendet wird.",
+    "cite_error_references_missing_key": "Das in \u003Ccode\u003E\u0026lt;references\u0026gt;\u003C/code\u003E definierte \u003Ccode\u003E\u0026lt;ref\u0026gt;\u003C/code\u003E-Tag mit dem Namen „$1“ wird im vorausgehenden Text nicht verwendet.",
+    "cite_error_references_no_key": "Das in \u003Ccode\u003E\u0026lt;references\u0026gt;\u003C/code\u003E definierte \u003Ccode\u003E\u0026lt;ref\u0026gt;\u003C/code\u003E-Tag hat kein Namensattribut.",
+    "cite_error_empty_references_define": "Das in \u003Ccode\u003E\u0026lt;references\u0026gt;\u003C/code\u003E definierte \u003Ccode\u003E\u0026lt;ref\u0026gt;\u003C/code\u003E-Tag mit dem Namen „$1“ weist keinen Inhalt auf.",
+    "cite_references_link_accessibility_label": "Hochspringen",
+    "cite_references_link_many_accessibility_label": "Hochspringen nach:"
+}

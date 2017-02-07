@@ -1,0 +1,15 @@
+{
+    "@metadata": {
+        "authors": [
+            "Anakmalaysia",
+            "Aviator"
+        ]
+    },
+    "inputbox-desc": "Membenarkan penyertaan borang HTML yang sudah ditetapkan.",
+    "inputbox-error-no-type": "Anda tidak menyatakan jenis kotak input untuk diciptakan.",
+    "inputbox-error-bad-type": "Jenis kotak input \"$1\" tidak dikenali. Sila nyatakan \"create\", \"comment\", \"search\", \"search2\" atau \"fulltext\".",
+    "tryexact": "Cuba padanan tepat",
+    "searchfulltext": "Cari dalam teks penuh",
+    "createarticle": "Cipta laman",
+    "inputbox-ns-main": "Utama"
+}

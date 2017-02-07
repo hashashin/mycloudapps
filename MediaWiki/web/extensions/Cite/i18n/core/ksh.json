@@ -1,0 +1,33 @@
+{
+    "@metadata": {
+        "authors": [
+            "Purodha",
+            "The Evil IP address"
+        ]
+    },
+    "cite-desc": "Erlaub Quelle un Referenze met \u003Cnowiki\u003E\u003Cref[ name=\"id\"]\u003E\u003C/nowiki\u003E un \u003Cnowiki\u003E\u003Creferences /\u003E\u003C/nowiki\u003E aanzejevve.",
+    "cite_error": "Fähler in \u003Ci lang=\"en\"\u003Ecite\u003C/i\u003E met Referenze: $1",
+    "cite_error_ref_numeric_key": "Fähler en \u003Ci lang=\"en\"\u003Ecite\u003C/i\u003E:\nEne \u003Ccode\u003E\u0026lt;ref\u0026gt;\u003C/code\u003E-Name kann kei Zahl sin.\nNemm enne Tittel, dä jät säht.",
+    "cite_error_ref_no_key": "Fähler en \u003Ci lang=\"en\"\u003Ecite\u003C/i\u003E:\nE \u003Ccode\u003E\u0026lt;ref\u0026gt;\u003C/code\u003E oohne Enhalt moß ene Name han.\nNemm enne Tittel, dä jät säht.",
+    "cite_error_ref_too_many_keys": "Fähler en \u003Ci lang=\"en\"\u003Ecite\u003C/i\u003E:\nZo fill \u003Ccode\u003E\u0026lt;ref\u0026gt;\u003C/code\u003E-Name,\nudder kapodde ene Name.",
+    "cite_error_ref_no_input": "Fähler en \u003Ci lang=\"en\"\u003Ecite\u003C/i\u003E:\nE \u003Ccode\u003E\u0026lt;ref\u0026gt;\u003C/code\u003E oohne Name moß ene Enhallt han.",
+    "cite_error_references_invalid_parameters": "Fähler en \u003Ci lang=\"en\"\u003Ecite\u003C/i\u003E:\nE \u003Ccode\u003E\u0026lt;references\u0026gt;\u003C/code\u003E moß oohne Parrametere sin.\nNemm eifach \u003Ccode\u003E\u0026lt;references /\u0026gt;\u003C/code\u003E un söns nix.",
+    "cite_error_references_invalid_parameters_group": "Fähler en \u003Ci lang=\"en\"\u003Ecite\u003C/i\u003E:\nE \u003Ccode\u003E\u0026lt;references\u0026gt;\u003C/code\u003E darf nur dä Parrameeter „\u003Ccode\u003Egroup\u003C/code\u003E“ han.\nNemm eifach \u003Ccode\u003E\u0026lt;references /\u0026gt;\u003C/code\u003E udder \u003Ccode\u003E\u0026lt;references group=\"...\" /\u0026gt;\u003C/code\u003E un söns nix.",
+    "cite_error_references_no_backlink_label": "Fähler en \u003Ci lang=\"en\"\u003Ecite\u003C/i\u003E:\nNit jenoch Name för retuur-Lengks.\nDonn mieh en dä Sigg \u003Cnowiki\u003E[[MediaWiki:Cite references link many format backlink labels]]\u003C/nowiki\u003E enndrare.",
+    "cite_error_no_link_label_group": "För de Jruppe „$1“ senn er kein Bezeichnunge för Links mieh doh.\nDonn op \u003Cnowiki\u003E[[MediaWiki:$2]]\u003C/nowiki\u003E noch e paa dobei.",
+    "cite_error_references_no_text": "Fähler en \u003Ci lang=\"en\"\u003Ecite\u003C/i\u003E:\nEt wohr keine Tex aanjejovve för de\n\u003Ccode\u003E\u0026lt;ref\u0026gt;\u003C/code\u003Es met dämm Name „\u003Ccode\u003E$1\u003C/code\u003E“.",
+    "cite_error_included_ref": "Hee för dat \u003Ccode\u003E\u0026lt;ref\u0026gt;\u003C/code\u003E ham_mer kei zopaß \u003Ccode\u003E\u0026lt;/ref\u0026gt;\u003C/code\u003E",
+    "cite_error_refs_without_references": "Et sinn_er \u003Ccode\u003E\u0026lt;ref\u0026gt;\u003C/code\u003E-Befähle en dä Sigg, ävver mer han keine \u003Ccode\u003E\u0026lt;references/\u0026gt;\u003C/code\u003E-Befähl jefunge.",
+    "cite_error_group_refs_without_references": "Et sinn_er \u003Ccode\u003E\u0026lt;ref\u0026gt;\u003C/code\u003E-Befähle för de Jrop „$1“ en heh dä Sigg, ävver mer han keine \u003Ccode\u003E\u0026lt;references group=\"$1\"/\u0026gt;\u003C/code\u003E-Befähl jefonge, udder dä Befähl \u003Ccode\u003E\u0026lt;/ref\u0026gt;\u003C/code\u003E zom zohmaache es nit doh.",
+    "cite_error_references_group_mismatch": "Dä \u003Ccode\u003E\u0026lt;ref\u0026gt;\u003C/code\u003E Befähl en \u003Ccode\u003E\u0026lt;references\u0026gt;\u003C/code\u003E hät en widerschpröschlesche Jroppe-Eijeschaff „$1“.",
+    "cite_error_references_missing_group": "Dä \u003Ccode\u003E\u0026lt;ref\u0026gt;\u003C/code\u003E Befähl, aanjejoove em Befähl \u003Ccode\u003E\u0026lt;references\u0026gt;\u003C/code\u003E, hät en Jroppe-Eijeschaff „$1“, di ävver em Täx doför nit vörjekumme es.",
+    "cite_error_references_missing_key": "Dä \u003Ccode\u003E\u0026lt;ref\u0026gt;\u003C/code\u003E Befähl mem Naame „$1“, aanjejoove em Befähl \u003Ccode\u003E\u0026lt;references\u0026gt;\u003C/code\u003E, es em Täx doför nit vörjekumme.",
+    "cite_error_references_no_key": "Dä \u003Ccode\u003E\u0026lt;ref\u0026gt;\u003C/code\u003E Befähl, aanjejoove em Befähl \u003Ccode\u003E\u0026lt;references\u0026gt;\u003C/code\u003E, hät kei Eijeschaff \u003Ccode\u003Ename=\u003C/code\u003E aanjejovve.",
+    "cite_error_empty_references_define": "Dä \u003Ccode\u003E\u0026lt;ref\u0026gt;\u003C/code\u003E Befähl mem Naame „$1“, aanjejoove em Befähl \u003Ccode\u003E\u0026lt;references\u0026gt;\u003C/code\u003E mem Name „$1“, hät keine Enhallt.",
+    "cite_reference_link_key_with_num": "$1_$2",
+    "cite_reference_link_prefix": "fohss_noht_betreck_",
+    "cite_references_link_prefix": "fohss_noht_nommer_",
+    "cite_references_link_many_and": "\u0026#32;",
+    "cite_references_link_accessibility_label": "Jangk noh bovve",
+    "cite_references_link_many_accessibility_label": "Jangk noh bovve op:"
+}

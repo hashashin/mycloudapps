@@ -1,0 +1,23 @@
+{
+    "@metadata": {
+        "authors": [
+            "Fdcn",
+            "Gaoxuewei",
+            "Mark85296341",
+            "Shinjiman",
+            "Simon Shek",
+            "Waihorace"
+        ]
+    },
+    "titleblacklist-desc": "容許禁止建立指定標題的頁面：[[MediaWiki:Titleblacklist]] 與 [[MediaWiki:Titlewhitelist]]",
+    "titleblacklist": "# 本頁面為「標題黑名單」。任何符合本名單正規表達式的標題會被阻止建立和編輯。\n# 請使用「#」來新增註釋。\n# 預設忽略大小寫",
+    "titlewhitelist": "# 本頁面為「標題白名單」。 請使用「#」來新增註釋。\n# 本頁預設不區分大小寫",
+    "titleblacklist-forbidden-edit": "標題「$2」已經被禁止建立。它跟以下黑名單的項目配合：<code>$1</code>",
+    "titleblacklist-forbidden-move": "「$2」不可以移動到「$3」，由於該標題「$3」已經被禁止建立。它跟以下黑名單的項目配合：<code>$1</code>",
+    "titleblacklist-forbidden-upload": "檔案名稱「$2」已經被禁止建立。它跟以下黑名單的項目配合：<code>$1</code>",
+    "titleblacklist-forbidden-new-account": "用戶名「$2」已被阻止建立。\n它符合以下黑名單項目：<code>$1</code>",
+    "titleblacklist-invalid": "以下在標題黑名單上的{{PLURAL:$1|一行|多行}}無效；請在儲存前改正{{PLURAL:$1|它|它們}}:",
+    "titleblacklist-override": "忽略黑名單",
+    "right-tboverride": "覆蓋標題或用戶名黑名單",
+    "right-tboverride-account": "覆蓋用戶名黑名單"
+}

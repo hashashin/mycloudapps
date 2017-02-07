@@ -1,0 +1,17 @@
+Package:          Adminer
+Packager:         hashashin
+Email:            mecagoenbush@gmail.com
+Homepage:         https://www.adminer.org
+Description:      Database management in a single PHP file
+Icon:             Adminer.png
+AddonShowName:    Adminer
+AddonIndexPage:	  index.php
+AddonUsedPort:    
+InstDepend:
+InstConflict:
+StartDepend:
+StartConflict:
+Version:	  4.2.5
+MinFWVer:
+MaxFWVer:
+IndividualFlag:   0

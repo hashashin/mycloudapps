@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <en-US>tcpdump, tload, top, vmstat, w, wget, ssh-keygen, ssh, ssh-add, sshd, openvpn, pgrep,
+ps, rsync, scp, sftp, sftp-server, slabtop, nmap, nping, ncat, ncdu, htop, nano,
+busybox, ndiff</en-US>
+  <es-ES>tcpdump, tload, top, vmstat, w, wget, ssh-keygen, ssh, ssh-add, sshd, openvpn, pgrep,
+ps, rsync, scp, sftp, sftp-server, slabtop, nmap, nping, ncat, ncdu, htop, nano,
+busybox, ndiff</es-ES>
+</config>

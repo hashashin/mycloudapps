@@ -1,0 +1,16 @@
+{
+    "@metadata": {
+        "authors": [
+            "AS",
+            "Ahonc",
+            "Dim Grits"
+        ]
+    },
+    "inputbox-desc": "Дозволяє включати заздалегідь визначені HTML-форми",
+    "inputbox-error-no-type": "Ви не зазначили тип поля вводу, яке створюється.",
+    "inputbox-error-bad-type": "Невідомий тип поля вводу «$1».\nБудь ласка, зазначте один з допустимих типів: «create», «comment», «search», «search2» або «fulltext».",
+    "tryexact": "Строгий пошук",
+    "searchfulltext": "Повнотекстовий пошук",
+    "createarticle": "Створити статтю",
+    "inputbox-ns-main": "Головна"
+}

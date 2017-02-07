@@ -1,0 +1,30 @@
+{
+    "@metadata": {
+        "authors": [
+            "Agony",
+            "Centerlink",
+            "Crt",
+            "Linnea",
+            "Nedergard",
+            "Nike",
+            "Stryn",
+            "Varusmies"
+        ]
+    },
+    "captcha-edit": "Ratkaise alla oleva summa jatkaaksesi ([[Special:Captcha/help|lisätietoja]]):",
+    "captcha-desc": "Tarjoaa CAPTCHA-tekniikoita suojaamaan mainoslinkkejä ja salasana-arvailua vastaan.",
+    "captcha-label": "CAPTCHA",
+    "captcha-addurl": "Muokkauksesi sisältää uusia linkkejä muille sivuille.\nAutomatisoitujen roskamuokkausten välttämiseksi ratkaise alla oleva summa ja kirjoita vastauksesi kenttään, jotta voisit tallentaa muokkauksesi ([[Special:Captcha/help|lisätietoja]]):",
+    "captcha-badlogin": "Automatisoidun salasanan murtamisen estämiseksi ratkaise alla oleva summa ja kirjoita vastaus kenttään ([[Special:Captcha/help|lisätietoja]]):",
+    "captcha-createaccount": "Automaattisen käyttäjätunnusten luonnin estämiseksi ratkaise alla oleva summa ja kirjoita se kenttään ([[Special:Captcha/help|lisätietoja]]):",
+    "captcha-createaccount-fail": "Väärä tai puuttuva varmistuskoodi.",
+    "captcha-create": "Ratkaise alla oleva summa jatkaaksesi ([[Special:Captcha/help|lisätietoja]]):",
+    "captcha-sendemail": "Jotta auttaisit wikiä suojautumaan automaattiselta roskapostitukselta, pyydämme sinua ystävällisesti ratkaisemaan alla olevan yksinkertaisen yhteenlaskun ja kirjoittamaan vastauksen laatikkoon ([[Special:Captcha/help|lisätietoja]]):",
+    "captcha-sendemail-fail": "Virheellinen tai puuttuva vahvistuskoodi",
+    "captcha-disabledinapi": "Tämä toiminto vaatii kuvavarmennusta, joten et voi suorittaa sitä APIn kautta.",
+    "captchahelp-title": "Captcha-ohje",
+    "captchahelp-cookies-needed": "Tämä toiminto vaatii evästeiden hyväksymistä.",
+    "captchahelp-text": "Verkkosivut, jotka sallivat ulkopuolisten lisätä sisältöä, joutuvat usein spam-hyökkäysten kohteeksi. Spam-hyökkäyksessä spammerit käyttävät työkaluja, jotka automaattisesti lisäävät linkkejä monille sivuille. Vaikka nämä linkit voidaan poistaa, aiheutuu niistä silti merkittävä haitta.\n\nJoskus, erityisesti kun lisäät uusia linkkejä, saatat nähdä kuvan, jossa on värillistä ja vääristynyttä tekstiä, ja sinua pyydetään kirjoittamaan sen sisältämät sanat. Koska tätä tehtävää on vaikea automatisoida, se sallii melkein kaikkien oikeiden ihmisten tehdä muutoksensa, mutta estää automaattiset lisäykset.\n\nValitettavasti tämä saattaa estää käyttäjiä, joilla on rajoittunut näkökyky tai käyttäjiä, jotka käyttävät teksti- tai puhepohjaisia selaimia. Ota yhteyttä [[Special:ListAdmins|sivuston ylläpitäjiin]], jos et pysty tekemään kunnollisia muutoksia.\n\nVarmistus ei toimi, jos evästeet eivät ole käytössä.\n\nVoit palata muokkaustilaan selaimen paluutoiminnolla.",
+    "captcha-addurl-whitelist": " #<!-- leave this line exactly as it is --> <pre>\n# Syntaksi on seuraava:\n#  * Kaikki #-merkistä eteenpäin on kommenttia\n#  * Jokainen ei-tyhjä rivi on säännöllisen lausekkeen osa, joka suoritetaan vain linkeissä esiintyville verkkonimille.\n  #</pre> <!-- leave this line exactly as it is -->",
+    "right-skipcaptcha": "Suorittaa ilman captcha-tarkistusta toimintoja, jotka normaalisti vaatisivat tarkistuksen läpikäyntiä"
+}

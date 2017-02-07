@@ -1,0 +1,61 @@
+﻿<text>
+<_common>
+	<error len="999">Chyba</error>
+	<new len="10">Nová</new>
+	<set>Nastavování...</set>
+	<loading len="999">Načítání...</loading>
+	<updating>Aktualizace</updating>
+	<minutes>minut</minutes>
+	<hour len="999">1 hodina</hour>
+</_common>
+<_button>
+	<Ok len="11">OK</Ok>
+	<save>Uložit</save>
+	<browse len="10">Procházet</browse>
+	<Cancel len="999">Zrušit</Cancel>
+</_button>
+<_network_access>
+	<create_folder_name len="999">Vytvořit novou složku</create_folder_name>
+</_network_access>
+<_dropbox>
+	<title>Dropbox</title>
+	<dropbox_enable>Dropbox</dropbox_enable>
+	<sing_in_account>Účet</sing_in_account>
+	<sing_in>Přihlášení</sing_in>
+	<sync_folder>Místní složka Sync</sync_folder>
+	<sync_interval>Interval synchronizace</sync_interval>
+	<sync_now>Synchronizovat nyní</sync_now>
+	<sync_status>Stav</sync_status>
+	<hourly>Každou hodinu</hourly>
+	<title2>Nastavení Dropbox</title2>
+	<used_space>Využité místo</used_space>
+	<last>Poslední aktualizace</last>
+	<sing_out>Zrušit připojení účtu</sing_out>
+	<black_list>Složky synchronizace Dropbox</black_list>
+	<add>Selektivní synchronizace</add>
+	<s1><![CDATA[Aktuální]]></s1>
+	<s2><![CDATA[Probíhá připojování ke službě Dropbox]]></s2>
+	<s3><![CDATA[Probíhá synchronizace]]></s3>
+	<s4><![CDATA[Synchronizace pozastavena]]></s4>
+	<s5><![CDATA[Probíhá stahování %s]]></s5>
+	<s6><![CDATA[Nahrávání %s]]></s6>
+	<s7><![CDATA[Vytváření místního adresáře v %s]]></s7>
+	<s8><![CDATA[Vytváření adresáře Dropbox v %s]]></s8>
+	<s9><![CDATA[Odebírání %s]]></s9>
+	<s10><![CDATA[Přesouvání %s1 do %s2]]></s10>
+	<s11><![CDATA[Ověření účtu se nezdařilo]]></s11>
+	<s12><![CDATA[Nelze se připojit ke službě Dropbox. Restartujte systém a akci zopakujte. Pokud problém přetrvává, zkuste znovu nainstalovat aplikaci Dropbox.]]></s12>
+	<s13><![CDATA[Nelze synchronizovat soubory ve službě Dropbox. Zkontrolujte svůj systém a nastavení Dropbox, nebo restartujte svůj systém.]]></s13>
+	<s14><![CDATA[Nelze stahovat soubory ve službě Dropbox. Zkontrolujte svůj systém a nastavení Dropbox, nebo restartujte svůj systém. %s]]></s14>
+	<s15><![CDATA[Nelze nahrávat soubory ve službě Dropbox. Zkontrolujte svůj systém a nastavení Dropbox, nebo restartujte svůj systém. %s]]></s15>
+	<s16><![CDATA[Nelze stahovat soubory ve službě Dropbox. Zkontrolujte svůj systém a nastavení Dropbox, nebo restartujte svůj systém. %s]]></s16>
+	<s17><![CDATA[Nelze nahrávat soubory ve službě Dropbox. Zkontrolujte svůj systém a nastavení Dropbox, nebo restartujte svůj systém. %s]]></s17>
+	<s18><![CDATA[Nelze synchronizovat soubory ve službě Dropbox. Zkontrolujte svůj systém a nastavení Dropbox, nebo restartujte svůj systém.]]></s18>
+	<s19><![CDATA[Ve službě Dropbox není dostatek místa. Nahrání %s se nezdařilo]]></s19>
+	<s20><![CDATA[V systému není dostatek místa. Stažení %s se nezdařilo]]></s20>
+	<msg1><![CDATA[Tím se zastaví synchronizace vašich souborů ve službě Dropbox, ale nebude možné odstraňovat soubory ve složce Dropbox v tomto zařízení.]]></msg1>
+</_dropbox>
+<_backup>
+	<desc1 len="999">Vyberte cestu</desc1>
+</_backup>
+</text>

@@ -1,0 +1,24 @@
+iframe.vshare__left,
+div.vshare__left {
+    float: left;
+    margin-right: 1em;
+}
+
+iframe.vshare__right,
+div.vshare__right {
+    float: right;
+    margin-left: 1em;
+}
+
+iframe.vshare__center,
+div.vshare__center {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+iframe.vshare__none,
+div.vshare__none {
+margin: 1px 3px 1px 3px;
+}

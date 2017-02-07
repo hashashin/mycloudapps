@@ -1,0 +1,22 @@
+{
+    "@metadata": {
+        "authors": [
+            "Mark85296341",
+            "Shinjiman",
+            "Tomchiukc"
+        ]
+    },
+    "imagemap_desc": "容許客戶端可以使用<code>&lt;imagemap&gt;</code>標籤整可點擊圖片地圖",
+    "imagemap_no_image": "錯誤：必須要在第一行指定一幅圖片",
+    "imagemap_invalid_image": "錯誤：圖片不正確或者不存在",
+    "imagemap_bad_image": "錯誤：圖片已被本頁列入黑名單內",
+    "imagemap_no_link": "錯誤：在第 $1 行結尾中找不到一個正式的連結",
+    "imagemap_invalid_title": "錯誤：在第 $1 行中的標題連結不正確",
+    "imagemap_missing_coord": "錯誤：在第 $1 行中未有足夠的座標組成一個形狀",
+    "imagemap_unrecognised_shape": "錯誤：在第 $1 行中有未能認出的形狀，每一行必須使用以下其中一組字開始：<code>default</code>, <code>rect</code>, <code>circle</code> 或者是 <code>poly</code>",
+    "imagemap_invalid_coord": "錯誤：在第 $1 行中有不正確的座標，它必須是一個數字",
+    "imagemap_invalid_desc": "錯誤：不正確的 desc 參數，必須是以下的其中之一：$1",
+    "imagemap_description": "關於這幅圖片",
+    "imagemap_desc_types": "右上, 右下, 左下, 左上, 無",
+    "imagemap_poly_odd": "錯誤：在第 $1 行找到單數的多邊坐標"
+}

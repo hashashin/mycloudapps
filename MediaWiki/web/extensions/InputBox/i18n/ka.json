@@ -1,0 +1,16 @@
+{
+    "@metadata": {
+        "authors": [
+            "Alsandro",
+            "David1010",
+            "ITshnik"
+        ]
+    },
+    "inputbox-desc": "საშუალებას იძლევა ჩართოს წინასწარ განსაზღვრული HTML ფორმები",
+    "inputbox-error-no-type": "თქვენ არ მიგითითებიათ აკრეფვის შესაქმნელი ველის ტიპი.",
+    "inputbox-error-bad-type": "ველის შეყვანის უცნობი ტიპი „$1“.\nგთხოვთ, მიუთითეთ ერთ-ერთი დასაშვები ტიპი: „create“, „comment“, „search“, „search2“ ან „fulltext“.",
+    "tryexact": "სცადე ზუსტი დამთხვევა",
+    "searchfulltext": "სრული ტექსტის ძიება",
+    "createarticle": "სტატიის შექმნა",
+    "inputbox-ns-main": "მთავარი"
+}

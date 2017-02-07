@@ -1,0 +1,16 @@
+{
+    "@metadata": {
+        "authors": [
+            "Dbc334",
+            "Eleassar",
+            "Irena Plahuta"
+        ]
+    },
+    "inputbox-desc": "Omogoča vključitev vnaprej določenih obrazcev HTML",
+    "inputbox-error-no-type": "Niste določili vrste vnosnega polja za ustvarjanje.",
+    "inputbox-error-bad-type": "Vrsta vnosnega polja »$1« ni prepoznana.\nProsimo, določite »create«, »comment«, »search«, »search2« ali »fulltext«.",
+    "tryexact": "Poskusite z natančnim ujemanjem",
+    "searchfulltext": "Preišči vse besedilo",
+    "createarticle": "Ustvari stran",
+    "inputbox-ns-main": "Osnovno"
+}

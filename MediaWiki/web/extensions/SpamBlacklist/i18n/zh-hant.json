@@ -1,0 +1,25 @@
+{
+	"@metadata": {
+		"authors": [
+			"Liangent",
+			"Liuxinyu970226",
+			"Mark85296341",
+			"Oapbtommy",
+			"Waihorace"
+		]
+	},
+	"spam-blacklist": " # 跟這個表符合的外部 URL 當加入時會被封鎖。\n # 這個表只是會影響到這個 wiki；請同時參閱全域黑名單。\n # 要參看註解請看 https://www.mediawiki.org/wiki/Extension:SpamBlacklist\n #<!-- 請完全地留下這行 --> <pre>\n#\n# 語法像下面這樣:\n#   * 每一個由「#」字元開頭的行，到結尾是一個註解\n#   * 每個非空白行是一個標準表示式碎片，只是跟裡面的 URL 端核對\n\n #</pre> <!-- 請完全地留下這行 -->",
+	"spam-whitelist": " #<!-- 請完全地留下這行 --> <pre>\n# 跟這個表符合的外部 URL ，即使在黑名單項目中封鎖，\n# 都*不會*被封鎖。\n#\n# 語法像下面這樣:\n#   * 每一個由「#」字元開頭的行，到結尾是一個註解\n#   * 每個非空白行是一個標準表示式碎片，只是跟裡面的 URL 端核對\n\n #</pre> <!-- 請完全地留下這行 -->",
+	"email-blacklist": " # 與本列表匹配的電郵地址將被禁止註冊或發送電郵\n # 本列表只影響本站；另見全域黑名單。\n # 說明文檔在 https://www.mediawiki.org/wiki/Extension:SpamBlacklist\n #<!-- leave this line exactly as it is --> <pre>\n#\n# 語法如下：\n#   * 以字符\"#\"開始直至行尾的所有内容稱為一條註腳\n#   * 每個非空白行都是一個regex片段，它將只匹配電子郵件的主機\n\n #</pre> <!-- leave this line exactly as it is -->",
+	"email-whitelist": "#<!-- leave this line exactly as it is --> <pre>\n # 和此列表相配的Email 的地址*不會*被阻止，即使它被列入黑名單\n #\n  #</pre> <!-- leave this line exactly as it is -->\n # 代號如下所示：\n # ＊ 一切從\"#\"字符到行末尾是註解\n # ＊ 每個非空白行是一個 regex 部份，將只匹配電郵地址的主機部份",
+	"spam-blacklisted-email": "被列入黑名單的電子郵件地址",
+	"spam-blacklisted-email-text": "您的電郵地址目前已列入黑名單以防止您發送電郵予其他用戶。",
+	"spam-blacklisted-email-signup": "此電郵地址目前被禁止使用。",
+	"spam-invalid-lines": "以下在灌水黑名單的{{PLURAL:$1|一行|多行}}有無效的表示式，請在儲存這頁前先將{{PLURAL:$1|它|它們}}修正：",
+	"spam-blacklist-desc": "基於正則表達式的反垃圾電郵工具，允許加入濫發電郵的URL和/或註冊用戶於此頁面",
+	"log-name-spamblacklist": "垃圾連結黑名單日誌",
+	"log-description-spamblacklist": "這些事件已被垃圾郵件黑名單觸發。",
+	"logentry-spamblacklist-hit": "$1於$3嘗試加入$4而觸發垃圾電郵黑名單。",
+	"right-spamblacklistlog": "查閱垃圾電郵黑名單日誌",
+	"action-spamblacklistlog": "查閱垃圾電郵黑名單日誌"
+}

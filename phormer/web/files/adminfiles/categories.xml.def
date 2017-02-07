@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<Xmldata>
+	<lastcid><![CDATA[1]]></lastcid>
+	<Category id="1">
+		<name><![CDATA[Default Category]]></name>
+		<desc><![CDATA[The default category]]></desc>
+		<list><![CDATA[list]]></list>
+		<pass><![CDATA[]]></pass>
+		<sub><![CDATA[-1]]></sub>
+	</Category>
+</Xmldata>

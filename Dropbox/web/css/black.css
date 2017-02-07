@@ -1,0 +1,43 @@
+.LightningCheckbox  input.unsel2 + span {
+    background: url("/web/images/checkbox/checkbox_16x16.png") no-repeat;
+    background-position: -16px 0px;
+    cursor: pointer;
+}
+
+.LightningCheckbox  input:checked.unsel2 + span {
+    background: url("/web/images/checkbox/checkbox_16x16.png") no-repeat;
+    background-position: -16px -16px;
+    cursor: pointer;
+}
+span.deleteicon INPUT[readonly] + span.spacer {
+	display: inline-block;
+	width: 35px;
+	height: 24px;
+	vertical-align: middle;
+	background-color: #1E1E1E;
+	border-radius: 0 4px 4px 0;
+	border: 1px solid transparent;
+	border-left: 0px;
+	
+	margin-left:-1px;
+}
+INPUT[readonly]:focus ,INPUT[readonly]:hover{
+	background-color:#1E1E1E;
+	border:1px solid #212121;
+	color:#D2D2D2;
+}
+span.deleteicon input[readonly]:hover + span.spacer{
+	border: 1px solid #212121;
+	border-left: 0px;
+	background-color: #1E1E1E;
+}
+span.deleteicon input[readonly]:focus + span.spacer{
+	border: 1px solid #212121;
+	border-left: 0px;
+	background-color: #1E1E1E;
+}
+
+INPUT[readonly] {
+	background-color:#1E1E1E;
+	color:#D2D2D2;
+}

@@ -1,0 +1,97 @@
+[
+	{
+		"name": "MediaWiki",
+		"groups": [
+			{
+				"name": "Base",
+				"classes": [
+					"mw",
+					"mw.Map",
+					"mw.Message",
+					"mw.loader",
+					"mw.loader.store",
+					"mw.html",
+					"mw.html.Cdata",
+					"mw.html.Raw",
+					"mw.hook"
+				]
+			},
+			{
+				"name": "General",
+				"classes": [
+					"mw.Title",
+					"mw.Uri",
+					"mw.notification",
+					"mw.Notification_",
+					"mw.user",
+					"mw.util",
+					"mw.plugin.*"
+				]
+			},
+			{
+				"name": "Actions",
+				"classes": ["mw.toolbar"]
+			},
+			{
+				"name": "API",
+				"classes": ["mw.Api*"]
+			},
+			{
+				"name": "Language",
+				"classes": [
+					"mw.language*",
+					"mw.cldr",
+					"mw.jqueryMsg"
+				]
+			},
+			{
+				"name": "Page",
+				"classes": [
+					"mw.page*"
+				]
+			},
+			{
+				"name": "Interfaces",
+				"classes": [
+					"mw.Feedback"
+				]
+			},
+			{
+				"name": "Development",
+				"classes": [
+					"mw.log",
+					"mw.inspect",
+					"mw.inspect.reports",
+					"mw.Debug",
+					"mw.Debug.profile"
+				]
+			}
+		]
+	},
+	{
+		"name": "jQuery",
+		"groups": [
+			{
+				"name": "Plugins",
+				"classes": ["jQuery.plugin.*"]
+			}
+		]
+	},
+	{
+		"name": "Upstream",
+		"groups": [
+			{
+				"name": "OOJS",
+				"classes": ["OO", "OO.*"]
+			},
+			{
+				"name": "jQuery",
+				"classes": ["jQuery", "jQuery.Event", "jQuery.Callbacks", "jQuery.Promise", "jQuery.Deferred", "jQuery.jqXHR", "QUnit"]
+			},
+			{
+				"name": "JavaScript",
+				"classes": ["Array", "Boolean", "Date", "Function", "Number", "Object", "RegExp", "String"]
+			}
+		]
+	}
+]

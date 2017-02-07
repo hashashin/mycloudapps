@@ -1,0 +1,20 @@
+{
+    "@metadata": {
+        "authors": [
+            "Chaduvari",
+            "Ravichandra",
+            "Veeven"
+        ]
+    },
+    "cite-desc": "ఉదహరింపులకు \u003Cnowiki\u003E\u003Cref[ name=id]\u003E\u003C/nowiki\u003E మరియు \u003Cnowiki\u003E\u003Creferences/\u003E\u003C/nowiki\u003E టాగులను చేర్చుతుంది",
+    "cite_error": "ఉదహరింపు పొరపాటు: $1",
+    "cite_error_ref_numeric_key": "తప్పుడు \u003Ccode\u003E\u0026lt;ref\u0026gt;\u003C/code\u003E టాగు; పేరు సరళ సంఖ్య అయివుండకూడదు, వివరమైన శీర్షిక వాడండి",
+    "cite_error_ref_no_key": "సరైన \u003Ccode\u003E\u0026lt;ref\u0026gt;\u003C/code\u003E ట్యాగు కాదు; విషయం లేని ref లకు తప్పనిసరిగా పేరొకటుండాలి",
+    "cite_error_ref_too_many_keys": "సరైన \u003Ccode\u003E\u0026lt;ref\u0026gt;\u003C/code\u003E ట్యాగు కాదు; తప్పు పేర్లు, ఉదాహరణకు మరీ ఎక్కువ",
+    "cite_error_ref_no_input": "సరైన \u003Ccode\u003E\u0026lt;ref\u0026gt;\u003C/code\u003E ట్యాగు కాదు; పేరు లేని ref లలో తప్పనిసరిగా విషయం ఉండాలి",
+    "cite_error_references_invalid_parameters": "సరైన \u003Ccode\u003E\u0026lt;references\u0026gt;\u003C/code\u003E ట్యాగు కాదు; పారామీటర్లకు కు అనుమతి లేదు, ఈ లోపాన్ని కలుగజేసే ఒక ఉదాహరణ: \u003Creferences someparameter=\"value\" /\u003E",
+    "cite_error_references_no_backlink_label": "మీ స్వంత బ్యాక్‌లింకు లేబుళ్ళు అయిపోయాయి. \u003Cnowiki\u003E[[MediaWiki:Cite references link many format backlink labels]]\u003C/nowiki\u003E సందేశంలో మరిన్ని లేబుళ్ళను నిర్వచించుకోండి.",
+    "cite_error_references_no_text": "సరైన \u003Ccode\u003E\u0026lt;ref\u0026gt;\u003C/code\u003E కాదు; \u003Ccode\u003E$1\u003C/code\u003E అనే పేరుగల ref లకు పాఠ్యమేమీ ఇవ్వలేదు",
+    "cite_references_link_accessibility_label": "పైకి దూకు",
+    "cite_references_link_many_accessibility_label": "ఇక్కడికి దుముకు:"
+}

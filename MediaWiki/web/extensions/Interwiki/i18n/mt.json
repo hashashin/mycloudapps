@@ -1,0 +1,19 @@
+{
+    "@metadata": {
+        "authors": [
+            "Chrisportelli",
+            "පසිඳු කාවින්ද"
+        ]
+    },
+    "interwiki-legend-show": "Uri l-leġġenda",
+    "interwiki-legend-hide": "Aħbi l-leġġenda",
+    "interwiki_prefix": "Prefiss",
+    "interwiki-prefix-label": "Prefiss:",
+    "interwiki_1": "iva",
+    "interwiki_0": "le",
+    "interwiki_edit": "Editja",
+    "interwiki_reasonfield": "Raġuni:",
+    "interwiki_addbutton": "Żid",
+    "interwiki_added": "Il-prefiss \"$1\" ġie miżjud b'suċċess fit-tabella tal-interwiki.",
+    "interwiki_addfailed": "Il-prefiss \"$1\" ma setax jiġi miżjud mat-tabella tal-interwiki.\nProbabbilment dan diġà jeżisti fit-tabella."
+}

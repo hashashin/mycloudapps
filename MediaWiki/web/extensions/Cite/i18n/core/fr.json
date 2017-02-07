@@ -1,0 +1,42 @@
+{
+    "@metadata": {
+        "authors": [
+            "Cedric31",
+            "Crochet.david",
+            "Gomoko",
+            "Grondin",
+            "IAlex",
+            "Kropotkine 113",
+            "McDutchie",
+            "Sherbrooke",
+            "The Evil IP address",
+            "Trizek",
+            "Urhixidur",
+            "Verdy p"
+        ]
+    },
+    "cite-desc": "Ajoute les balises \u003Cnowiki\u003E\u003Cref[ name=\"id\"]\u003E\u003C/nowiki\u003E et \u003Cnowiki\u003E\u003Creferences/\u003E\u003C/nowiki\u003E pour les références et notes de bas de page.",
+    "cite_error": "Erreur de référence : $1",
+    "cite_error_ref_numeric_key": "Balise \u003Ccode\u003E\u0026lt;ref\u0026gt;\u003C/code\u003E incorrecte ;\nle nom ne peut être un entier simple. Utilisez un titre descriptif.",
+    "cite_error_ref_no_key": "Balise \u003Ccode\u003E\u0026lt;ref\u0026gt;\u003C/code\u003E incorrecte ;\nles références sans contenu doivent avoir un nom.",
+    "cite_error_ref_too_many_keys": "Balise \u003Ccode\u003E\u0026lt;ref\u0026gt;\u003C/code\u003E incorrecte ;\nnoms incorrects, par exemple trop nombreux.",
+    "cite_error_ref_no_input": "Balise \u003Ccode\u003E\u0026lt;ref\u0026gt;\u003C/code\u003E incorrecte ;\nles références sans nom doivent avoir un contenu.",
+    "cite_error_references_invalid_parameters": "Balise \u003Ccode\u003E\u0026lt;references\u0026gt;\u003C/code\u003E incorrecte ;\naucun paramètre n’est permis.\nUtilisez simplement \u003Ccode\u003E\u0026lt;references /\u0026gt;\u003C/code\u003E.",
+    "cite_error_references_invalid_parameters_group": "Balise \u003Ccode\u003E\u0026lt;references\u0026gt;\u003C/code\u003E incorrecte ;\nseul l’attribut « group » est autorisé.\nUtilisez \u003Ccode\u003E\u0026lt;references /\u0026gt;\u003C/code\u003E, ou bien \u003Ccode\u003E\u0026lt;references group=\"...\" /\u0026gt;\u003C/code\u003E.",
+    "cite_error_references_no_backlink_label": "Épuisement des étiquettes de liens personnalisées.\nDéfinissez-en un plus grand nombre dans le message \u003Cnowiki\u003E[[MediaWiki:Cite references link many format backlink labels]]\u003C/nowiki\u003E.",
+    "cite_error_no_link_label_group": "Plus d’étiquettes de liens personnalisées pour le groupe « $1 ».\nDéfinissez-en plus dans le message \u003Cnowiki\u003E[[MediaWiki:$2]]\u003C/nowiki\u003E.",
+    "cite_error_references_no_text": "Balise \u003Ccode\u003E\u0026lt;ref\u0026gt;\u003C/code\u003E incorrecte ;\naucun texte n’a été fourni pour les références nommées \u003Ccode\u003E$1\u003C/code\u003E.",
+    "cite_error_included_ref": "Clôture \u003Ccode\u003E\u0026lt;/ref\u0026gt;\u003C/code\u003E manquante pour la balise \u003Ccode\u003E\u0026lt;ref\u0026gt;\u003C/code\u003E.",
+    "cite_error_refs_without_references": "Des balises \u003Ccode\u003E\u0026lt;ref\u0026gt;\u003C/code\u003E existent, mais aucune balise \u003Ccode\u003E\u0026lt;references/\u0026gt;\u003C/code\u003E n’a été trouvée.",
+    "cite_error_group_refs_without_references": "Des balises \u003Ccode\u003E\u0026lt;ref\u0026gt;\u003C/code\u003E existent pour un groupe nommé « $1 », mais aucune balise \u003Ccode\u003E\u0026lt;references group=\"$1\"/\u0026gt;\u003C/code\u003E correspondante n’a été trouvée, ou bien une valise fermante \u003Ccode\u003E\u0026lt;/ref\u0026gt;\u003C/code\u003E manque.",
+    "cite_error_references_group_mismatch": "La balise \u003Ccode\u003E\u0026lt;ref\u0026gt;\u003C/code\u003E dans \u003Ccode\u003E\u0026lt;references\u0026gt;\u003C/code\u003E a l’attribut de groupe « $1 » qui entre en conflit avec celui de \u003Ccode\u003E\u0026lt;references\u0026gt;\u003C/code\u003E.",
+    "cite_error_references_missing_group": "La balise \u003Ccode\u003E\u0026lt;ref\u0026gt;\u003C/code\u003E définie dans \u003Ccode\u003E\u0026lt;references\u0026gt;\u003C/code\u003E a un groupe attribué « $1 » qui ne figure pas dans le texte précédent.",
+    "cite_error_references_missing_key": "La balise \u003Ccode\u003E\u0026lt;ref\u0026gt;\u003C/code\u003E avec le nom « $1 » définie dans \u003Ccode\u003E\u0026lt;references\u0026gt;\u003C/code\u003E n’est pas utilisé dans le texte précédent.",
+    "cite_error_references_no_key": "La balise \u003Ccode\u003E\u0026lt;ref\u0026gt;\u003C/code\u003E définie dans \u003Ccode\u003E\u0026lt;references\u0026gt;\u003C/code\u003E n’a pas d’attribut de nom.",
+    "cite_error_empty_references_define": "La balise \u003Ccode\u003E\u0026lt;ref\u0026gt;\u003C/code\u003E défini dans \u003Ccode\u003E\u0026lt;references\u0026gt;\u003C/code\u003E avec le nom « $1 » n’a pas de contenu.",
+    "cite_references_link_many_format": "\u003Csup style=\"margin-left:.2em;margin-right:.2em;\"\u003E[[#$1|$2]]\u003C/sup\u003E",
+    "cite_references_link_many_sep": ",\u0026#32;",
+    "cite_references_link_many_and": "\u0026#32;et\u0026#32;",
+    "cite_references_link_accessibility_label": "Aller",
+    "cite_references_link_many_accessibility_label": "Aller à :"
+}

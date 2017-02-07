@@ -1,0 +1,123 @@
+body 				{ background: #FFF; font-size: 11px; margin: 0px; padding: 0px; font-family: Tahoma, Arial, Helvetica, Serif; direction: ltr; }
+#Granny				{ width: 760px; text-align: left; margin-bottom: 30px;}
+a 				{ color: #444; text-decoration: none;  }
+a:hover 			{ color: #111; }
+.headerDot			{ font-size: 48px; color: #F30; }
+div.topPhorm 			{ color: #777; font-family: georgia; margin-left: 10%; margin-bottom: 30px; text-align: left; padding: 10px 25px; font-size: 72px;  }
+div.topPhorm a, div.topPhorm a:hover	{ color: #777; }
+div.topPhormAbout 		{ color: #444; line-height: 125%; font-family: tahoma; letter-spacing: 1px; border-left: 1px dashed #999; padding-left: 40px; margin-left: 12px; font-size: 8pt; }
+div.footer 			{ color: #444; padding: 20px 40px 20px; margin-right: 10%; margin-top: 10px; font-size: 8pt; text-align: center; line-height: 150%; }
+div.footer a			{ color: #777; }
+div.footer a:hover 		{ color: #111; }
+#sidecol			{ width: 190px; float: right; text-align: right; }
+#sidecolinner			{ padding: 15px 0px 0px 0px; }
+#maincol			{ width: 560px; float: right;}
+
+.part 				{ line-height: 100%; margin: 0px 15px 20px 0px; padding: 10px 0px; }
+.item				{ padding: 2px 0px 4px; }
+.submenu 			{ margin: 5px 0px 5px 15px; clear: both; color: #444; }
+.part .titlepart	 	{ text-align: left; background: #EEE; width: 60%; float: right; color: #444; position: relative; left: -10px; font-size: 8pt; margin: 0px 25px 8px 0px; padding: 5px 5px 5px 10px; }
+.part .titlepart a		{ color: #444; }
+.thumbcntarr			{ color: #777; letter-spacing: 0px; }
+.categinfo			{ color: #777; padding-left: .3em; font-size: 0.89em; }
+.categeach			{ }
+.partmain			{ color: #666; line-height: 100%; margin: 0px 15px 0px 0px; }
+.partmain .submenu		{ clear: both; border: 1px solid #F0F0F0; }
+.partmain .titlepart		{ color: #444; letter-spacing: 5px; margin: 0px 20px 10px 0px; padding: 15px 15px 10px;  }
+.partmain .start		{ color: #444; letter-spacing: 5px; margin: 0px 20px 10px 0px; padding: 0px 15px 10px;  }
+.theTitleA			{ color: #444; }
+.partmain .midInfo		{ color: #666; border-left: 2px dotted #888480; margin: 0px 28px 20px 17px; padding: 2px 15px 2px 15px; line-height: 125%; text-align: justify; }
+.partmain .end			{ clear: both; margin: 0px 20px 30px 0px; padding: 7px 20px 30px 20px; }
+.titlepartlinkR			{ color: #666; float: right; letter-spacing: 0px; }
+.titlepartlinkR a, 		.titlepartlinkL a		{ color: #666; }
+.titlepartlinkR a:hover,.titlepartlinkL a:hover	{ color: #444; }
+.titlepartlinkL			{ color: #666; float: left; letter-spacing: 0px; }
+
+.oneImageTitle			{ font-family: georgia, sans-serif; font-size: 20px; }
+.wholePhoto			{ padding-left: 30px; }
+.photoTheImg			{ text-align: center; margin-top: 5px; }
+.photoTheImg img		{ margin: 5px 15px 30px 0px; border: 1px solid #000000; }
+.divClear			{ clear: both; height: 1px; font-size: 1px; }
+.photoBox			{ color: #333; border: 1px solid #999; line-height: 140%;  margin: 12px 17px 15px 0px; float:left; padding: 0px 15px 10px; width:170px; }
+.photoBox a			{ color: #666; }
+.photoBox a:hover		{ color: #444; }
+.titlePhotoBox			{ color: #444; border: 1px solid #AAA; position: relative; padding: 2px 10px; top: -7px; left: -7px;  }
+.spc				{ font-size: 1px; height: 10px; line-height: 0%; }
+
+select.rate 			{ background: #DDD; color: #555; border-color: #AAA; border-width: 1px; margin: 5px 5px 5px 5px;  font-size: 1em; font-family: tahoma; }
+input.submit 			{ background: #DDD; color: #333; margin: 2px 0px; font-size: 1em; font-family: tahoma; padding: 0px; position: relative; top: -3px; border-color: #777; }
+form 				{ margin: 0px; }
+.hr				{ border-top: 1px solid #444; width: 80%; font-size: 1px; line-height: 0%; height: 1px; margin: 10px 0px 10px; }
+
+.pvTitle			{ padding: 10px 35px 15px; color: #888480; font-size: 1.6em; letter-spacing: 2px; font-weight: bold; }
+.pvTitle a			{ color: #888; }
+.pvTitle a:hover		{ color: #888; }
+.pvTitle .dt			{ font-family: serif; color: #6F6860; font-size: 1.6em; }
+.pvTitleInfo			{ float: right; font-size: 11px; font-weight: normal; margin: 10px 5px 0px; letter-spacing: 1px; }
+.pvTitleInfo a,
+.pvTitle .titleName a		{ color: #666; }
+.pvTitleInfo a:hover,
+.pvTitle .titleName a:hover 	{ color: #444; }
+
+.authFailed			{ width: 80%; margin: 10px auto; line-height: 140%; color: #999; }
+.pvEnd				{ padding: 15px 35px; color: #888; font-size: 1.6em; letter-spacing: 2px; font-weight: bold; }
+
+.aThumb				{ margin: 5px 0px;  overflow: hidden; width: 100px; height: 120px; float: left; }
+.firstThumb			{ clear: both; width: 100%; }
+.aThumb img			{ border: 1px solid #111; margin: 5px; }
+.aThumb a			{ color: #444; }
+.aThumb a:hover			{ color: #555; }
+.thumbDate			{ color: #222; font-size: 0.8em; margin: 2px 0px; }
+.thumbNameLine			{ height: 14px; overflow: hidden; }
+
+.small				{ font-size: 0.89em; color: #666462; letter-spacing: 1px; }
+.dot 				{ color: #C60; padding-right: 4px; display: none; }
+.darkdot 			{ color: #B72; padding-right: 5px; }
+.reddot 			{ font-size: 14px; padding-right: 5px; color: #C30; }
+
+.alert_msg			{ color: #444; letter-spacing: 1px; text-align: center; background: #AAA; width: 80%; margin: 5px auto 15px; padding: 10px 15px; border: 3px double  #999; }
+.ok_msg				{ color: #444; letter-spacing: 1px; text-align: center; background: #DDD; width: 80%; margin: 5px auto 15px; padding: 10px 15px; border: 3px double #999; }
+.ok_msg_inside			{ color: #444; text-align: justify; padding: 0px 10px 10px; border-left: 1px dashed #851; position: relative; top: 5px; left: 1px; }
+
+.Commenting			{ color: #555; text-align: justify; width: 85%; margin: 0px 30px 20px 0px; padding-top: 0px; line-height: 125%; }
+.Commenting a			{ color: #777; }
+.Commenting a:hover		{ color: #555; }
+.Commenting .title		{ color: #444; padding: 15px 15px 25px; letter-spacing: 3px; font-size: 1.2em; margin: 0px; position: relative; top: 10px; }
+.Commenting .title a		{ color: #444; }
+.Commenting table		{ margin-left: auto; margin-right: auto; }
+.Commenting input 		{ color: #444; border: 1px solid #999; padding: 1px 3px; font-size: 11px; font-family: tahoma, arial, helvetica, sans-serif; margin-top: 2px;}
+.Commenting textarea		{ color: #444; border: 1px solid #999; padding: 2px 5px;  margin-top: 2px; }
+.Commenting .cell		{ position: relative; z-index: 10; padding: 10px 20px 5px; margin: 10px 20px 20px; }
+.Commenting .under		{ position: absolute; z-index: 2; top: 5px; border: 0px solid red; height: 80px; width: 100%; }
+.Commenting .bcell		{ padding: 10px 20px 5px; margin: 10px 20px 20px; }
+.Commenting blockquote 		{ color: #444; border-left: 1px dashed #C60; padding: 0px 20px 5px; margin: 5px 5px 10px 1px; line-height: 140%; }
+.Commenting blockquote.r	{ color: #444; border-left-width: 0px; border-right: 1px dashed #C60; direction: rtl; padding: 0px 20px 5px; margin: 5px 5px 10px 1px; line-height: 140%; }
+.Commenting .head		{ position: relative; }
+.Commenting .bottitle		{ padding: 0px 0px 30px; margin: 0px; position: relative; top: -20px; }
+
+input				{ color: #444; border: 1px solid #999; font-family: tahoma, arial, sans-serif;  padding: 1px 3px; }
+input.checkBox			{ border: 1px solid #000000; }
+
+.navigation			{ margin: 10px 25px 15px 20px; float: left; }
+.navigation .title		{ color: #555; padding: 10px 5px 10px 15px; letter-spacing: 3px; font-size: 1em; }
+.navigation .bottitle		{ position: relative; top: -10px; clear: both; padding: 0px 0px 20px; }
+
+#jungleBox			{ width: 400px; height: 400px; margin: 5px auto; overflow: hidden; position: relative; z-index: 0; }
+.aThumbInBox			{ background: #000000; overflow: hidden; width: 77px; height: 77px; position: absolute; }
+.aThumbInBox img		{ border: 1px solid #111; }
+
+.aStory				{ width: 85%; margin: 0px auto; }
+.aStory	.titlepart		{ line-height: 150%; margin-bottom: 0px; padding-bottom: 5px; padding-top: 10px; }
+.aStory	.titlepart a		{ color: #444; }
+.aStory	.end			{ margin-top: 0px; padding-bottom: 15px; }
+.aStory .thumbcntarr		{ color: #777; line-height: 150%; }
+.aStory .end 			{ color: #444; }
+.aStory .end a			{ color: #666; }
+.aStory .end a:hover		{ color: #333; }
+
+.thumb_not_found		{ color: black; width: 75px; height: 75px; border: 1px solid black; }
+a.q, label 			{ cursor: pointer; }
+input.radio			{ border-width: 0px; position: relative; top: 2px; }
+.leaveReply			{ float: right; padding-top: 2px; font-size: 11px; letter-spacing: 0px; }
+#ss_title			{ font-size: 1.2em; font-weight: bold; }
+#ss_photo			{ border: 1px solid #999; }

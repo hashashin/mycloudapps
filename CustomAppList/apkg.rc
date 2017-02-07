@@ -1,0 +1,17 @@
+Package:          CustomAppList
+Packager:         hashashin
+Email:            mecagoenbush@gmail.com
+Homepage:         http://mycloud.barracus.tk
+Description:      Custom Apps Repo List Hack
+Icon:             CustomAppList.png
+AddonShowName:    CustomAppList
+AddonIndexPage:
+AddonUsedPort:    
+InstDepend:
+InstConflict:
+StartDepend:
+StartConflict:
+Version:          0.4
+MinFWVer:
+MaxFWVer:
+IndividualFlag:

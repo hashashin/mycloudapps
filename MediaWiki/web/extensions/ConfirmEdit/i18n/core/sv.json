@@ -1,0 +1,31 @@
+{
+    "@metadata": {
+        "authors": [
+            "Ainali",
+            "Boivie",
+            "Lejonel",
+            "M.M.S.",
+            "MagnusA",
+            "Martinwiss",
+            "Per",
+            "Rotsee",
+            "WikiPhoenix"
+        ]
+    },
+    "captcha-edit": "För att redigera den här sidan måste du först skriva svaret på följande\nräkneuppgift i rutan ([[Special:Captcha/help|mer information]]):",
+    "captcha-desc": "”Captcha”-metoder för att skydda mot skräppost och lösenordsgissning",
+    "captcha-label": "CAPTCHA",
+    "captcha-addurl": "Din ändring innebär nya externa länkar i texten. För att skydda wikin mot automatisk spam måste du skriva svaret på följande räkneuppgift i rutan ([[Special:Captcha/help|mer information]]):",
+    "captcha-badlogin": "För att skydda mot wikin mot försök att knäcka lösenord på automatisk väg, måste du skriva svaret på följande räkneuppgift i rutan ([[Special:Captcha/help|mer information]]):",
+    "captcha-createaccount": "För att skydda wikin mot automatiskt skapade användarkonton, måste du skriva svaret på följande räkneuppgift i rutan ([[Special:Captcha/help|mer information]]):",
+    "captcha-createaccount-fail": "Felaktig eller saknad CAPTCHA.",
+    "captcha-create": "För att skapa den här sidan måste du skriva svaret på följande räkneuppgift\ni rutan ([[Special:Captcha/help|mer information]]):",
+    "captcha-sendemail": "För att skydda wikin mot spam, ber vi dig att lösa den här enkla räkneuppgiften, och skriva in svaret i rutan ([[Special:Captcha/help|mer information]]):",
+    "captcha-sendemail-fail": "Felaktig eller saknad CAPTCHA.",
+    "captcha-disabledinapi": "Denna åtgärd kräver en captcha, så den kan inte utföras genom APIet.",
+    "captchahelp-title": "Captchahjälp",
+    "captchahelp-cookies-needed": "Du måste ha cookies aktiverade i din webbläsare för att det här ska fungera.",
+    "captchahelp-text": "Webbplatser som tillåter inlägg från allmänheten, som den här wikin gör, kan missbrukas av spammare som använder ofta automatiserade verktyg för att lägga till länkar på många webbsajter.\nÄven om dessa spamlänkar kan tas bort så är de till stort besvär.\n\nIbland, speciellt då du lägger till nya externa länkar på en sida, visar wikin en bild på en färgad eller förvriden text och ber dig skriva texten som visas.\nEftersom den uppgiften är svår att automatisera, låter den de flesta riktiga människor göra sina redigeringar medan spammare och andra robotattacker stoppas.\n\nTyvärr kan det här orsaka problem för användare med nedsatt syn eller som använder text- eller talbaserade webbläsare.\nFör tillfället finns inga ljudbaserade alternativ tillgängliga.\nKontakta [[Special:ListAdmins|webbplatsens administratörer]] för hjälp om det här hindrar dig från att göra legitima ändringar.\n\nTryck på bakåtknappen i din webbläsare för att gå tillbaks till sidredigeringsläget.",
+    "captcha-addurl-whitelist": " #<!-- leave this line exactly as it is --> <pre>\n# Syntaxen är följande:\n#   * Allting från ett \"#\" till slutet av en rad är en kommentar\n#   * Varje icketom rad är ett reguljärt uttryck som matchar domänen i en URL\n #</pre> <!-- leave this line exactly as it is -->",
+    "right-skipcaptcha": "Utföra handlingar som normalt kräver \"captcha\"-bekräftning utan att använda \"captcha\""
+}

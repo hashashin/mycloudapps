@@ -1,0 +1,23 @@
+{
+    "@metadata": {
+        "authors": [
+            "Agony",
+            "Cimon Avaro",
+            "Crt",
+            "Nike",
+            "Str4nd",
+            "Stryn"
+        ]
+    },
+    "titleblacklist-desc": "Antaa ylläpitäjille mahdollisuuden estää sivujen ja käyttäjätunnusten luonti nimen perusteella: [[MediaWiki:Titleblacklist|estolista]] ja [[MediaWiki:Titlewhitelist|poikkeuslista]].",
+    "titleblacklist": "# Tämä on nimien estolista. Sivuja tai käyttäjiä, jotka vastaavat täällä määritettyihin säännöllisiin lausekkeisiin, ei voi luoda.\n# Käytä #-merkkiä kommentointiin.\n# Oletusarvoisesti tämä on riippuvainen kirjainkoosta",
+    "titlewhitelist": "# Tämä on nimien poikkeuslista. Käytä #-merkkiä kommentointiin.\n# Oletusarvoisesti tämä on riippuvainen kirjainkoosta",
+    "titleblacklist-forbidden-edit": "Sivun ”$2” luonti on estetty, koska se täsmää seuraavaan osaan estolistassa: <code>$1</code>",
+    "titleblacklist-forbidden-move": "Sivua ”$2” ei voi siirtää nimelle ”$3”, koska sivun ”$3” luonti on estetty. Se täsmää seuraavaan osaan estolistassa: <code>$1</code>",
+    "titleblacklist-forbidden-upload": "Tiedoston ”$2” luonti on estetty, koska se täsmää seuraavaan osaan estolistassa: <code>$1</code>",
+    "titleblacklist-forbidden-new-account": "Käyttäjätunnuksen ”$2” luonti on estetty.\nTunnus täsmää seuraavaan estolistan sääntöön: <code>$1</code>",
+    "titleblacklist-invalid": "{{PLURAL:$1|Seuraava listan rivi ei ole kelvollinen|Seuraavat listan rivit eivät ole kelvollisia}}. Korjaa {{PLURAL:$1|se|ne}} ennen tallentamista.",
+    "titleblacklist-override": "Ohita estolista",
+    "right-tboverride": "Ohittaa sivunimien tai käyttäjänimien estolista",
+    "right-tboverride-account": "Ohittaa käyttäjänimien estolista"
+}

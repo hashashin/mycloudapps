@@ -1,0 +1,17 @@
+{
+    "@metadata": {
+        "authors": [
+            "EugeneZelenko",
+            "Jim-by",
+            "Red Winged Duck",
+            "Wizardist"
+        ]
+    },
+    "inputbox-desc": "Дазваляе дадаваць у тэкст перадвызначаныя HTML-формы",
+    "inputbox-error-no-type": "Вы не пазначылі тып ствараемага поля ўводу.",
+    "inputbox-error-bad-type": "Невядомы тып поля ўводу «$1».\nКалі ласка, выбірайце толькі з дазволеных тыпаў: «create», «comment», «search», «search2» ці «fulltext».",
+    "tryexact": "Паспрабаваць дакладны пошук",
+    "searchfulltext": "Шукаць увесь тэкст",
+    "createarticle": "Стварыць старонку",
+    "inputbox-ns-main": "Асноўная"
+}

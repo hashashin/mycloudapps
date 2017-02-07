@@ -1,0 +1,13 @@
+{
+    "@metadata": {
+        "authors": [
+            "StephDC"
+        ]
+    },
+    "recaptcha-edit": "為了防止wiki被自動編輯的垃圾損害，我們請您鍵入您在下面的框中看到的這兩個單詞：",
+    "recaptcha-addurl": "您的編輯包含新的外部鏈接。為了幫助防止自動垃圾郵件，請鍵入您在下面的框中看到這兩個詞：",
+    "recaptcha-badlogin": "為幫助防止自動密碼破解，請鍵入您看到下面的框中的兩個字：",
+    "recaptcha-createaccount": "為了幫助防止創建自動化的帳戶，請鍵入您在下面的框中看到的這兩個字：",
+    "recaptcha-createaccount-fail": "不正確或缺失的 reCAPTCHA 答案。",
+    "recaptcha-create": "為了幫助防止自動的頁創建，請鍵入您在下面的框中看到這兩個詞："
+}
