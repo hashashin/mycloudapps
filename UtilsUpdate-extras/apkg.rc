@@ -1,0 +1,17 @@
+Package:          UtilsUpdate-extras
+Packager:         hashashin
+Email:            mecagoenbush@gmail.com
+Homepage:         https://mycloud.barracus.tk
+Description:      Midnight Commander and tmux
+Icon:             tux.png
+AddonShowName:    UtilsUpdate-extras
+AddonIndexPage:
+AddonUsedPort:    
+InstDepend:
+InstConflict:
+StartDepend:
+StartConflict:
+Version:          1.0.0
+MinFWVer:
+MaxFWVer:
+IndividualFlag:
