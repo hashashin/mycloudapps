@@ -1,7 +1,7 @@
 #!/bin/sh
 path=$1
 APKG_WWW_DIR="/var/www/phpMyAdmin"
-APKG_MODULE_WEB_DIR="phpMyAdmin-4.6.5.2"
+APKG_MODULE_WEB_DIR="phpMyAdmin-4.0.10.20"
 APKG_ICON_FILE_NAME="phpMyAdmin.png"
 APKG_MULTI_LANG_DESC_XML="desc.xml"
 

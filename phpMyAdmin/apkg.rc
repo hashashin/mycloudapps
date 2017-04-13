@@ -10,7 +10,7 @@ InstConflict:
 StartDepend:
 StartConflict:
 Description:      An open source, browser-based tool written in PHP that helps with the administration of MySQL and is often used as both an editor and administration assist tool for sites and some content management systems, such as WordPress.
-Version:          4.6.5.2
+Version:          4.0.10.20
 Icon:             phpMyAdmin.png
 MinFWVer:
 MaxFWVer:
