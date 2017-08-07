@@ -23,6 +23,7 @@ ln -sf $INSTALL_DIR/files/busybox /bin/sh
 
 # more in busybox itself
 ln -sf $INSTALL_DIR/files/busybox /bin/busybox-1.26.2
+/bin/busybox-1.26.2 ln -sf $INSTALL_DIR/files/busybox /bin/busybox
 
 # ssh update orig
 sudo killall sshd # stop sshd
@@ -43,6 +44,9 @@ ln -sf $INSTALL_DIR/files/wget /usr/bin/wget
 # nano
 ln -sf $INSTALL_DIR/files/nano /usr/bin/nano
 ln -sf $INSTALL_DIR/files/nanorc /etc/nanorc
+
+# mutt
+ln -sf $INSTALL_DIR/files/mutt /usr/bin/mutt
 
 # openvpn
 ln -sf $INSTALL_DIR/files/openvpn /usr/sbin/openvpn

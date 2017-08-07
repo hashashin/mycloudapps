@@ -3,13 +3,13 @@
 INSTALL_DIR=$1
 MODULES=/usr/local/modules
 # rsync
-ln -sf /usr/local/modules/sbin/rsync /usr/sbin/rsync
+ln -sf $MODULES/sbin/rsync /usr/sbin/rsync
 
 # ssh
 sudo killall sshd
 ln -sf $MODULES/bin/scp /usr/bin/scp
 ln -sf $MODULES/sbin/sshd /usr/sbin/sshd
-ln -sf $MODULES/bin//ssh /usr/bin/ssh
+ln -sf $MODULES/bin/ssh /usr/bin/ssh
 ln -sf $MODULES/bin/ssh-keygen /usr/bin/ssh-keygen
 ln -sf $MODULES/bin/sftp /usr/bin/sftp
 ln -sf $MODULES/bin/sftp-server /usr/bin/sftp-server
@@ -33,6 +33,7 @@ rm -f /bin/cal
 ln -sf /bin/busybox /bin/ash
 ln -sf /bin/busybox /bin/sh
 # busybox itself
+$MODULES/bin/busybox ln -sf $MODULES/bin/busybox /bin/busybox
 rm -f /bin/busybox-1.26.2
 
 # wget
@@ -41,6 +42,9 @@ ln -sf $MODULES/bin/wget /usr/bin/wget
 # nano
 rm -f /usr/bin/nano
 rm -f /etc/nanorc
+
+# mutt
+ln -sf $MODULES/bin/mutt /usr/bin/mutt
 
 # openvpn
 ln -sf $MODULES/sbin/openvpn /usr/sbin/openvpn
