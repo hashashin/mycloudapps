@@ -22,8 +22,7 @@ ln -sf $INSTALL_DIR/files/busybox /bin/ash
 ln -sf $INSTALL_DIR/files/busybox /bin/sh
 
 # more in busybox itself
-ln -sf $INSTALL_DIR/files/busybox /bin/busybox-1.26.2
-/bin/busybox-1.26.2 ln -sf $INSTALL_DIR/files/busybox /bin/busybox
+ln -sf $INSTALL_DIR/files/busybox /bin/busybox-1.27.1
 
 # ssh update orig
 sudo killall sshd # stop sshd
