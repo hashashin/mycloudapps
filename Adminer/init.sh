@@ -1,6 +1,5 @@
 #!/bin/sh
 path=$1
-WEBPATH="/var/www/Adminer/"
+WEBPATH="/var/www/Adminer"
 
-mkdir -p $WEBPATH
-cp -a $path/web/* $WEBPATH
+ln -sf $path/web $WEBPATH
