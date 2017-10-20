@@ -11,7 +11,7 @@ InstDepend:
 InstConflict:
 StartDepend:
 StartConflict:
-Version:          23
+Version:          24
 MinFWVer:
 MaxFWVer:
 IndividualFlag:
