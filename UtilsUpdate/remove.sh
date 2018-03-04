@@ -33,7 +33,7 @@ rm -f /bin/cal
 ln -sf /bin/busybox /bin/ash
 ln -sf /bin/busybox /bin/sh
 # busybox itself
-rm -f /bin/busybox-1.27.2
+rm -f /bin/busybox-1.28.1
 
 # wget
 ln -sf $MODULES/bin/wget /usr/bin/wget
