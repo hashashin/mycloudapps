@@ -6,16 +6,16 @@ MODULES=/usr/local/modules
 ln -sf $MODULES/sbin/rsync /usr/sbin/rsync
 
 # ssh
-sudo killall sshd
-ln -sf $MODULES/bin/scp /usr/bin/scp
-ln -sf $MODULES/sbin/sshd /usr/sbin/sshd
-ln -sf $MODULES/bin/ssh /usr/bin/ssh
-ln -sf $MODULES/bin/ssh-keygen /usr/bin/ssh-keygen
-ln -sf $MODULES/bin/sftp /usr/bin/sftp
-ln -sf $MODULES/bin/sftp-server /usr/bin/sftp-server
+#sudo killall sshd
+#ln -sf $MODULES/bin/scp /usr/bin/scp
+#ln -sf $MODULES/sbin/sshd /usr/sbin/sshd
+#ln -sf $MODULES/bin/ssh /usr/bin/ssh
+#ln -sf $MODULES/bin/ssh-keygen /usr/bin/ssh-keygen
+#ln -sf $MODULES/bin/sftp /usr/bin/sftp
+#ln -sf $MODULES/bin/sftp-server /usr/bin/sftp-server
 # ssh add new
-rm -f /usr/bin/ssh-add
-sudo /usr/sbin/sshd -f /etc/ssh/sshd_config
+#rm -f /usr/bin/ssh-add
+#sudo /usr/sbin/sshd -f /etc/ssh/sshd_config
 
 # add which, who, whoami, whois, nc, hwclock, less, free, pstree via busybox
 rm -f /bin/which

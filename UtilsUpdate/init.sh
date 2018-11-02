@@ -25,17 +25,17 @@ ln -sf $INSTALL_DIR/files/busybox /bin/sh
 ln -sf $INSTALL_DIR/files/busybox /bin/busybox-1.28.1
 
 # ssh update orig
-sudo killall sshd # stop sshd
-ln -sf $INSTALL_DIR/files/scp /usr/bin/scp
-ln -sf $INSTALL_DIR/files/sshd /usr/sbin/sshd
-ln -sf $INSTALL_DIR/files/ssh /usr/bin/ssh
-ln -sf $INSTALL_DIR/files/ssh-keygen /usr/bin/ssh-keygen
-ln -sf $INSTALL_DIR/files/sftp /usr/bin/sftp
-ln -sf $INSTALL_DIR/files/sftp-server /usr/bin/sftp-server
+#sudo killall sshd # stop sshd
+#ln -sf $INSTALL_DIR/files/scp /usr/bin/scp
+#ln -sf $INSTALL_DIR/files/sshd /usr/sbin/sshd
+#ln -sf $INSTALL_DIR/files/ssh /usr/bin/ssh
+#ln -sf $INSTALL_DIR/files/ssh-keygen /usr/bin/ssh-keygen
+#ln -sf $INSTALL_DIR/files/sftp /usr/bin/sftp
+#ln -sf $INSTALL_DIR/files/sftp-server /usr/bin/sftp-server
 
-# ssh add new
-ln -sf $INSTALL_DIR/files/ssh-add /usr/bin/ssh-add
-sudo /usr/sbin/sshd -f /etc/ssh/sshd_config # restart sshd
+# ssh add new#
+#ln -sf $INSTALL_DIR/files/ssh-add /usr/bin/ssh-add
+#sudo /usr/sbin/sshd -f /etc/ssh/sshd_config # restart sshd
 
 # wget
 ln -sf $INSTALL_DIR/files/wget /usr/bin/wget
